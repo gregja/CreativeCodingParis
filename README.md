@@ -41,24 +41,26 @@ Le programme de notre soirée du 5 décembre au NUMA  :
 - Eric Palliet, graphic designer évoquera l’art génératif, et plus largement l’art numérique, ses précurseurs, en évoquant quelques figures marquantes (Vera Molnar, Manfred Mohr, Jurrian Schroffer, Joseph Nechvatal) et montrera également que cet art peut aussi ne pas être exclusif de techniques classiques du dessin, ce qu’il s’applique à faire dans un travail graphique.  
 
 Slide de la prez d'Alejandro :
-https://alemangui.github.io/meetups/web-audio-visualizations.pdf
+-  https://alemangui.github.io/meetups/web-audio-visualizations.pdf
 
 Lien vers le morceau de Steve Reich dont Benjamin a diffusé la première minute:
-https://www.youtube.com/watch?v=CrIZBnUda_Q
+-  https://www.youtube.com/watch?v=CrIZBnUda_Q
 
 En écoute sur le Soundcloud de Benjamin un enregistrement de 10 minutes qu'il a créé avec MaxMSP :
-https://soundcloud.com/benjaminbouvrot/autoreich
+-  https://soundcloud.com/benjaminbouvrot/autoreich
 
 Pour voir et revoir le beau travail de recherche d'Eric Palliet autour de la main, voici le lien : 
-http://ericpalliet.tumblr.com
+-  http://ericpalliet.tumblr.com
 
-Eric publie régulièrement de nouveaux travaux sur le site Behance : https://www.behance.net/ericpalliet
+Eric publie régulièrement de nouveaux travaux sur le site Behance :
+-  https://www.behance.net/ericpalliet
 
-La visite du site perso d'Eric est une aventure en soi... à déguster sans modération : 
-http://www.ericpalliet.com
+Site perso d'Eric  : 
+-  http://www.ericpalliet.com
 
 La prez de Grégory est téléchargeable sur ce dépôt Github :
-https://github.com/gregja/circleCircleMeetup 
+-  https://github.com/gregja/circleCircleMeetup 
+
 
 # Workshop autour de la programmation créative
 ### ( 16 janvier, au Friends Vaugirard ) 
@@ -70,10 +72,10 @@ Nous débuterons la soirée avec un atelier de découverte du logiciel open sour
 Nous poursuivrons la soirée avec un atelier autour de P5.js. Je propose, pour démarrer en douceur et pour aider les personnes débutantes, de détailler l'un des sketchs relativement simples que j'ai présentés au NUMA. Nous enchaînerons, pour satisfaire les développeurs plus expérimentés, avec l'implémentation d'algorithmes plus complexes issus de projets Processing, afin d'étudier quelles difficultés on peut rencontrer quand on migre des sketchs de Processing (en Java) vers P5 (en Javascript). S'il nous reste un peu de temps, nous pourrons essayer de coupler P5 avec l'API Webaudio (par exemple via le projet Pizzicato.js d'Alejandro). 
 
 Le lien vers le dépôt Github de Grégory (contenant le support PDF de la prez et les sources) :
-https://github.com/gregja/p5Migration
+-  https://github.com/gregja/p5Migration
 
 Pour faire le tour des problèmes de compatibilité relatifs à la norme ES6 (Javascript version 6) :
-http://kangax.github.io/compat-table/es6/
+-  http://kangax.github.io/compat-table/es6/
 
 ## Atelier de design génératif avec Processing
 #### (20 février 2017, au Friends vaugirard )
@@ -97,50 +99,40 @@ A partir de 20h, Patrick nous présentera :
 La soirée s'achèvera par une pizza party, sponsorisée par la société KDS.
 
 Les présentations et démos sont disponibles à l'adresse suivante:
-http://rgba.xyz/talks/20170320-CreativeCodeParis/
-Le code source se trouve sur le GitHub de Patrick : https://github.com/plabatut/plabatut.github.io/
+-  http://rgba.xyz/talks/20170320-CreativeCodeParis/
+
+Le code source se trouve sur le GitHub de Patrick :
+- https://github.com/plabatut/plabatut.github.io/
 
 
 # Atelier d'initiation au langage Javascript
 #### (le 10 avril 2017, au Friends Vaugirard)
 
 Le programme : 
-Envie de jouer avec les API Canvas et Webaudio pour générer des graphiques et des sons? Envie de programmer des sketchs graphiques avec P5.js ?
-
-Tous ces outils se manipulent avec Javascript. C'est un langage vraiment fun, mais si vous débutez en programmation, il peut aussi vous sembler confus et intimidant.
-
-Pour vous aider à prendre votre envol, nous vous proposons un atelier d'initiation à Javascript.
-
-Tout ce dont vous aurez besoin pour cet atelier? 
-
-Un PC portable équipé d'un navigateur à jour (de préférence Firefox ou Google Chrome). 
-
-Vous découvrirez ce qui se cache sous le capot du navigateur, et apprendrez à jouer avec la console. Nous nous connecterons en Wifi sur Codepen, et nous verrons comment utiliser ce formidable outil pour tester tout ce qui nous passe par la tête. 
-
+Envie de jouer avec les API Canvas et Webaudio pour générer des graphiques et des sons? Envie de programmer des sketchs graphiques avec P5.js ? Tous ces outils se manipulent avec Javascript. C'est un langage vraiment fun, mais si vous débutez en programmation, il peut aussi vous sembler confus et intimidant. Pour vous aider à prendre votre envol, nous vous proposons un atelier d'initiation à Javascript. Tout ce dont vous aurez besoin pour cet atelier? Un PC portable équipé d'un navigateur à jour (de préférence Firefox ou Google Chrome). Vous découvrirez ce qui se cache sous le capot du navigateur, et apprendrez à jouer avec la console. Nous nous connecterons en Wifi sur Codepen, et nous verrons comment utiliser ce formidable outil pour tester tout ce qui nous passe par la tête. 
 Nous ferons un petit peu de HTML, mais pas trop, juste ce qu'il faut pour pouvoir jouer avec en Javascript.
-
 Cet atelier est destiné à des débutants en programmation, et à des personnes ayant déjà des notions en programmation, mais peu ou pas de pratique de Javascript. 
 
 Exemple de script étudié durant la soirée, sur Codepen et CodeCircle :
-http://codepen.io/gregja/pen/evqoyv/
-https://live.codecircle.com/d/FaGwcXsrcmDhwuQWc
+- http://codepen.io/gregja/pen/evqoyv/
+- https://live.codecircle.com/d/FaGwcXsrcmDhwuQWc
 
 Pour un rappel sur la syntaxe de création des listes HTML :
-https://www.w3schools.com/html/html_lists.asp
+- https://www.w3schools.com/html/html_lists.asp
 
 Liens vers les supports PDF mis à disposition à l'issue de la soirée : 
-https://github.com/gregja/JSCorner
+- https://github.com/gregja/JSCorner
 
-- Le support "Tuto_P5_Premiers_Pas" se situe dans la continuité de ce que l'on a étudié durant ce meetup. C'est à la fois une initiation à P5 et au Javascript, complété de nombreuses références bibliographiques.
+    - Le support "Tuto_P5_Premiers_Pas" se situe dans la continuité de ce que l'on a étudié durant ce meetup. C'est à la fois une initiation à P5 et au Javascript, complété de nombreuses références bibliographiques.
 
-- Le support "Cours_Javascript_HTML5" est un support de niveau plus avancé, qui couvre un spectre plus large et plus orienté développement professionnel. Attention, ce document n'est pas une bonne intro aux bases du HTML (pour ça, voir plutôt W3Schools, CodeCademy ou KhanAcademy).
+    - Le support "Cours_Javascript_HTML5" est un support de niveau plus avancé, qui couvre un spectre plus large et plus orienté développement professionnel. Attention, ce document n'est pas une bonne intro aux bases du HTML (pour ça, voir plutôt W3Schools, CodeCademy ou KhanAcademy).
 
 Quelques liens intéressants signalés par Jean-Marie Cléry durant le meetup : 
 1) ... découvrir la syntaxe JavaScript et les structures de contrôle :
-http://silentteacher.toxicode.fr/
+-  http://silentteacher.toxicode.fr/
 
 2) ... découvrir comment dessiner sur un Canvas :
-http://www.crunchzilla.com/
+-  http://www.crunchzilla.com/
 
 # Soirée placée sous la bannière de PizzicatoJS, de D3js et du Machine Learning
 #### ( 24 avril 2017 - Ecole 42 )
@@ -154,23 +146,24 @@ Le programme du meetup, animé par Fred Cecilia et Alejandro Mantecón Guillén 
 Liens et resources fournis par Alejandro et Fred :
 
 - La libraire D3 : 
-  https://d3js.org/
+   - https://d3js.org/
 - La galerie des projets data viz : 
-  https://bl.ocks.org/
+   - https://bl.ocks.org/
 - Notamment les projets de Mike Bostock : 
-  https://bl.ocks.org/mbostock
+   - https://bl.ocks.org/mbostock
 - La librairie Pizzicato.js : 
-  https://alemangui.github.io/pizzicato/
-- la doc de Pizzicato : https://github.com/alemangui/pizzicato
+   - https://alemangui.github.io/pizzicato/
+- la doc de Pizzicato :
+   - https://github.com/alemangui/pizzicato
 
 - La liste des resources web audio :    
-  https://github.com/alemangui/web-audio-resources
+   - https://github.com/alemangui/web-audio-resources
 
 - Et la liste de resources audio visualization :
-  https://github.com/willianjusten/awesome-audio-visualization
+   - https://github.com/willianjusten/awesome-audio-visualization
 
 - la newsletter de Chris Lowis sur l'audio au sens large
-  http://www.webaudioweekly.com/
+   - http://www.webaudioweekly.com/
 
 # Souffler une bougie poursuivi par un TRex
 #### ( 17 mai 2017 -  Mozilla Paris )
@@ -188,7 +181,7 @@ Le programme :
 
 Voici les slides de la présentation de Jean-Marie sur le Leap Motion (Tout y est : les exemples de code, liens vers les CodePen fonctionnels, et vers les démos) :
 
-https://slides.jmpp.io/leapjs
+- https://slides.jmpp.io/leapjs
 
 Lors de cette soirée, Benjamin devait présenter un talk sur le logiciel Pure Data, mais nous avons manqué de temps. Ce n'est que partie remise, car Benjamin animera une prochaine soirée, qui devrait se dérouler le 28 juin. A suivre...
 
