@@ -194,14 +194,17 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 Le programme : 
 
-- Benjamin Bouvrot qui nous parlera musique générative avec Pure Data : 
+- Benjamin Bouvrot nous parlera musique générative avec Pure Data : 
 "Après une courte présentation de Pure Data, Benjamin expliquera comment il utilise ce dernier pour faire de la musique générative. L'objectif est de créer des patchs qui "improvisent" de la musique, en générant des données MIDI. Des contrôles en temps réel sont également implémentés, permettant à un musicien de modifier les conditions de génération de la musique. Il détaillera son patch et expliquera pas-à-pas son fonctionnement, puis fera une démonstration live du résultat."
+Les patchs Pure Data du programme présenté par Benjamin lors du Meetup : 
+https://github.com/Doedelzak/puredata
+Benjamin a rédigé un petit manuel dans le README.md pour ceux qui voudraient jouer avec :)
 
-- Damien Barré nous fera un petit retour d'expérience sur ce qu'il fait avec son groupe de musique et processing !
+- Damien Barré fera un retour d'expérience sur ce qu'il fait avec son groupe de musique et processing ! Ambiance VJay garantie :)
 Lien vers le Github de Damien dans lequel on trouvera ses codes sources Processing :
 https://github.com/Cubor
 
-- Emilie Zawadzky  présentera une application mobile qu'elle a développée avec Pizzicato.js, Gyro.js et Processing. Cette appli est destinée à promouvoir la sortie d'un EP... Emilie nous expliquera tout ça ;)
+- Emilie Zawadzky présentera une application mobile qu'elle a développée avec Pizzicato.js, Gyro.js et Processing. Cette appli est destinée à promouvoir la sortie d'un EP... Emilie nous expliquera tout ça ;)
 Lien vers l'application d'Emilie : 
 http://olgarym.com
 
