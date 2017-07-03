@@ -186,3 +186,28 @@ Voici les slides de la présentation de Jean-Marie sur le Leap Motion (Tout y es
 Lors de cette soirée, Benjamin devait présenter un talk sur le logiciel Pure Data, mais nous avons manqué de temps. Ce n'est que partie remise, car Benjamin animera une prochaine soirée, qui devrait se dérouler le 28 juin. A suivre...
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
+
+
+
+# Musique Générative et Générative Design
+#### Le 28 juin 2017 chez Deezer 
+
+Le programme : 
+
+- Benjamin Bouvrot qui nous parlera musique générative avec Pure Data : 
+"Après une courte présentation de Pure Data, Benjamin expliquera comment il utilise ce dernier pour faire de la musique générative. L'objectif est de créer des patchs qui "improvisent" de la musique, en générant des données MIDI. Des contrôles en temps réel sont également implémentés, permettant à un musicien de modifier les conditions de génération de la musique. Il détaillera son patch et expliquera pas-à-pas son fonctionnement, puis fera une démonstration live du résultat."
+
+- Damien Barré nous fera un petit retour d'expérience sur ce qu'il fait avec son groupe de musique et processing !
+Lien vers le Github de Damien dans lequel on trouvera ses codes sources Processing :
+https://github.com/Cubor
+
+- Emilie Zawadzky  présentera une application mobile qu'elle a développée avec Pizzicato.js, Gyro.js et Processing. Cette appli est destinée à promouvoir la sortie d'un EP... Emilie nous expliquera tout ça ;)
+Lien vers l'application d'Emilie : 
+http://olgarym.com
+
+- Grégory Jarrige nous fera une petite présentation de son dernier joujou :) "Axoloti" (http://www.axoloti.com) 
+le slide de Grégory sur Axoloti : 
+https://github.com/gregja/meetup_ccp_axoloti
+Grégory met également à disposition des supports de cours sur HTML5, CSS3, Bootstrap, Javascript, et P5.js sur ce dépôt :
+https://github.com/gregja/JSCorner
+
