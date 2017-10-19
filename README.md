@@ -1,8 +1,9 @@
 # CreativeCodingParis
 recensement des présentations réalisées dans le cadre du meetup CreativeCodeParis
 https://www.meetup.com/fr-FR/CreativeCodeParis/
-(attention, cette liste a été modifiée le 19/10/2017, les meetups sont maintenant
-triés par date décroissante)
+
+Attention, cette liste a été modifiée le 19/10/2017, les meetups sont maintenant triés par date décroissante.
+Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
 # Attracteurs étranges et Ray Marching musical  
