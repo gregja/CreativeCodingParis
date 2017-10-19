@@ -23,7 +23,6 @@ Quelques bonnes ressources à noter :
 
 - Keith Peters, auteur de très bons livres, anime la chaîne Youtube CodingMath :
     - https://www.youtube.com/user/codingmath
-    - http://www.playingwithchaos.net/
 
 - Deux très bons livres disponibles chez Apress.com :
     - Foundation HTML5 Animation with JavaScript, de Keith Peters et Billy Lamberta (2011) 
@@ -41,6 +40,18 @@ Quelques bonnes ressources à noter :
 - Le livre "Nature in Code", de Marcel Salathe 
     - https://leanpub.com/natureincode
 
+
+Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017 :
+
+- La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
+
+- Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
+
+On peut ajouter à cette liste le livre de Keith Peters, Playing with Chaos : http://www.playingwithchaos.net/
+
+A signaler - sur le même thème que les 3 livres précédents -  la réédition en 2010 du livre suivant :
+
+- Les objets fractals : Forme, hasard et dimension, de Benoît Mandelbrot, Champs Flammarion - Science 
 
 
 - Sites de référence avec plein de sketchs à étudier :
