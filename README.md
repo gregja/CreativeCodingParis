@@ -6,6 +6,16 @@ Attention, cette liste a été modifiée le 19/10/2017, les meetups sont mainten
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Attracteurs étranges et GIF animés  
+#### Le 11 décembre 2017 chez E-Artsup
+
+Pour cette nouvelle soirée, nous serons accueillis par l'école e-artsup, pour 2 talks passionnants.
+
+Nous entamerons la soirée avec Raphaël Seguin, que nous avons souhaité réinviter pour une session de rattrapage sur les attracteurs étranges. Vous étiez nombreux à l'avoir manqué en octobre, et Raphaël vous montrera que ces techniques en lien avec la physique et l'univers des fractales, recèlent un potentiel énorme pour le graphisme et la musique. Dans cette nouvelle session, vous verrez en mouvement - programmés avec P5.js - des attracteurs de : Lorenz, Thomas, équation logistique, chaos game, etc..
+
+Nous recevrons également un nouvel intervenant en la personne d'Etienne Jacob. Depuis un an, Etienne crée des GIFs animés en noir et blanc (qui bouclent parfaitement), qu'il poste sur son blog. Ces GIFs sont programmés en Processing. Etienne nous présentera son travail et nous montrera en particulier une méthode permettant de réaliser automatiquement des GIFs à partir du bruit (fonction noise() en Processing). Des exemples de GIFs inédits seront codés en live pour illustrer et expliquer la méthode. Le blog d'Etienne : http://www.necessary-disorder.tumblr.com
+
+
 # Attracteurs étranges et Ray Marching musical  
 #### Le 10 octobre 2017 chez Arolla
 
