@@ -1,4 +1,5 @@
 Informations complémentaires relatives au talk présenté par Grégory le 18 janvier à la Folie Numérique :
+------------
 
 Le piezobarrel est un micro piézo-électrique créé par un fabricant australien, Stephen Francis (steve@musevibe.com).
 
@@ -41,6 +42,7 @@ Informations complémentaires :
            https://www.youtube.com/watch?v=CsvQp4UQGjQ
     * 3ème vidéo de Adrian Hayes (piezobarrel sur saxophone + pédale Boss Octaver OC-2) :
            https://www.youtube.com/watch?v=GOJnEuWJc_E
+    
     A noter que c'est grâce à Adrian Hayes que j'ai découvert l'existence du Piezobarrel... thank's a lot Adrian !
  
  - quelques liens relatifs à la carte son Axoloti :
