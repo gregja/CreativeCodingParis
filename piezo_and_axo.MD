@@ -24,7 +24,9 @@ Plusieurs pistes à explorer dans les prochains mois, rendues possibles par le P
 
 On notera que le Piezo coûte (selon les taux de change en vigueur en janvier 2018), une centaine d'euros 
 (frais de port inclus), et que l'Axoloti coûte 65 euros (compter 30 euros de port pour la France). 
-On a donc, pour moins de 200 euros, un équipement permettant de transformer radicalement le son 
+On a donc, pour moins de 200 euros, un équipement permettant de transformer radicalement le son d'un instrument
+à vent vieux de 300 ans. Cela me semble un bon ratio ;)
+
 
 Informations complémentaires :
 
@@ -52,18 +54,13 @@ Informations complémentaires :
 
 Et pour conclure cette page avec humour, voici quelques petites phrases sur la clarinette, trouvées sur Wikipedia :
 
-Ambrose Bierce (1842-1914), écrivain et journaliste américain, en donne une autre vision plus humoristique :
-
-    « Clarinette : instrument de torture utilisé par une personne qui a du coton dans les oreilles. Il y a deux instruments qui sont pires qu'une clarinette – deux clarinettes. »
+Ambrose Bierce (1842-1914), écrivain et journaliste américain :
+    « Clarinette : instrument de torture utilisé par une personne qui a du coton dans les oreilles.
+    Il y a deux instruments qui sont pires qu'une clarinette – deux clarinettes. »
 
 Alphonse Karr : 
     « La clarinette rend sourds ceux qui l'écoutent et aveugles ceux qui en jouent. »
 
 Raymond Devos (1922–2006) jouait souvent de la clarinette dans ses sketchs et déclarait :
-
     « Je me suis remis à la clarinette. C'est ce qui rapproche le plus de l'anglais. »
-
-
-
-
-           
+        
