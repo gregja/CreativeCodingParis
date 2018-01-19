@@ -6,6 +6,28 @@ Attention, cette liste a été modifiée le 19/10/2017, les meetups sont mainten
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Premier meetup à La Folie Numérique avec les projets Axoloti, Bela et IanniX 
+#### Le 18 janvier 2018 chez La Folie Numérique
+
+Pour notre premier meetup de l'année, et notre tout premier meetup à la La Folie Numérique, nous avons concocté un programme très sonore, avec 3 sujets.
+
+Dans le premier talk (court), Gregory vous montrera comment électrifier une clarinette, avec un micro piézo-électrique (le Piezobarrel) et la carte son Axoloti. Pour moins de 200 euros, n'importe quel instrument à vent peut devenir un instrument électronique, passez le message à vos amis musiciens.
+
+Le second talk (court) sera animé par Federico, qui nous présentera le projet Bela, une plateforme dédiée au son basée sur une carte Beaglebone. Ce projet devrait combler les musiciens et codeurs créatifs, tant il est puissant et polyvalent. Le talk de Ray sera en anglais, mais nous serons présents dans la salle pour aider à sa compréhension.
+http://bela.io/
+
+Le dernier talk (long) sera animé par Guillaume Jacquemin. Guillaume est creative technologist, ingénieur en systèmes embarqués, et créateur d'un logiciel hors normes : IanniX (https://www.iannix.org/fr/). Je lui laisse la parole pour le présenter:
+
+"IanniX est un séquenceur graphique open source, inspiré des travaux de Iannis Xenakis et destiné à la création numérique.
+
+Outil de création dans de multiples domaines (musique, arts plastiques, danse, design…), IanniX propose aux artistes une écriture graphique, spatiale, interactive, géométrique ou architecturale de leurs œuvres. Son haut niveau d’abstraction lui permet de s’adapter à des projets artistiques technologiquement riches ou à des dispositifs scéniques complexes.
+
+IanniX a été mis à contribution pour des créations au Grand Palais (pour Monumenta), à l’exposition internationale en Corée du Sud, à la Biennale de Venise, à la SAT de Montréal, pour Nuit Blanche…
+
+Son rôle principal est d’écrire/décrire les relations entre l’espace et le temps, au travers d’une notation resserrée autour de trois objets fondamentaux : les triggers (événements), les courbes (trajectoires dans l’espace) et les curseurs (progression dans le temps). Les partitions crées avec IanniX, représentations graphiques et interactives du temps dans l’espace, communiquent avec les environnements de créations usuels des artistes (Max, PureData, SuperCollider, CSound, OpenSoundControl, Ableton Live, protocole DMX…)"
+
+
+
 # Attracteurs étranges et GIF animés  
 #### Le 11 décembre 2017 chez E-Artsup
 
