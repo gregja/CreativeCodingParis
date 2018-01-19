@@ -12,6 +12,7 @@ Prenez le temps de consulter le fichier "books and links" dans lequel nous avons
 Pour notre premier meetup de l'année, et notre tout premier meetup à la La Folie Numérique, nous avons concocté un programme très sonore, avec 3 sujets.
 
 Dans le premier talk (court), Gregory vous montrera comment électrifier une clarinette, avec un micro piézo-électrique (le Piezobarrel) et la carte son Axoloti. Pour moins de 200 euros, n'importe quel instrument à vent peut devenir un instrument électronique, passez le message à vos amis musiciens.
+Pour plus d'infos sur le contenu de ce talk : https://github.com/gregja/CreativeCodingParis/blob/master/piezo_and_axo.MD
 
 Le second talk (court) sera animé par Federico, qui nous présentera le projet Bela, une plateforme dédiée au son basée sur une carte Beaglebone. Ce projet devrait combler les musiciens et codeurs créatifs, tant il est puissant et polyvalent. Le talk de Ray sera en anglais, mais nous serons présents dans la salle pour aider à sa compréhension.
 http://bela.io/
