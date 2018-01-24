@@ -36,14 +36,14 @@ Informations complémentaires :
            http://piezobarrel.com/
     * kit complet vendu sur ebay, avec barillet de clarinette pré-équipé : 
            https://www.ebay.fr/itm/PiezoBarrel-Wood-Clarinet-Pickup-Microphone-65mm-Barrel-4m-Cable-fittings/322463860555
-    * 1ère vidéo de Adrian Hayes présentant le piezobarrel monté sur clarinette : 
+    * 1ère vidéo de Brian Hayes présentant le piezobarrel monté sur clarinette : 
            https://www.youtube.com/watch?v=scEvGbbFO2g
-    * 2ème vidéo de Adrian Hayes (piezobarrel sur clarinette + pédale Boss PS6 Harmonist) : 
+    * 2ème vidéo de Brian Hayes (piezobarrel sur clarinette + pédale Boss PS6 Harmonist) : 
            https://www.youtube.com/watch?v=CsvQp4UQGjQ
-    * 3ème vidéo de Adrian Hayes (piezobarrel sur saxophone + pédale Boss Octaver OC-2) :
+    * 3ème vidéo de Brian Hayes (piezobarrel sur saxophone + pédale Boss Octaver OC-2) :
            https://www.youtube.com/watch?v=GOJnEuWJc_E
     
-    A noter que c'est grâce à Adrian Hayes que j'ai découvert l'existence du Piezobarrel... thank's a lot Adrian !
+    A noter que c'est grâce à Brian Hayes que j'ai découvert l'existence du Piezobarrel... thank's a lot Brian !
  
  - quelques liens relatifs à la carte son Axoloti :
     * site officiel du fabricant :
