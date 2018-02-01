@@ -183,11 +183,14 @@ Pour un rappel sur la syntaxe de création des listes HTML :
 - https://www.w3schools.com/html/html_lists.asp
 
 Liens vers les supports PDF mis à disposition à l'issue de la soirée : 
+
+- https://github.com/gregja/p5Corner
+
+    -> Le support "Tuto_P5_Premiers_Pas" se situe dans la continuité de ce que l'on a étudié durant ce meetup. C'est à la fois une initiation à P5 et au Javascript, complété de nombreuses références bibliographiques.
+
 - https://github.com/gregja/JSCorner
 
-    - Le support "Tuto_P5_Premiers_Pas" se situe dans la continuité de ce que l'on a étudié durant ce meetup. C'est à la fois une initiation à P5 et au Javascript, complété de nombreuses références bibliographiques.
-
-    - Le support "Cours_Javascript_HTML5" est un support de niveau plus avancé, qui couvre un spectre plus large et plus orienté développement professionnel. Attention, ce document n'est pas une bonne intro aux bases du HTML (pour ça, voir plutôt W3Schools, CodeCademy ou KhanAcademy).
+    -> Le support "Cours_Javascript_HTML5" est un support de niveau plus avancé, qui couvre un spectre plus large et plus orienté développement professionnel. Attention, ce document n'est pas une bonne intro aux bases du HTML (pour ça, voir plutôt W3Schools, CodeCademy ou KhanAcademy).
 
 Quelques liens intéressants signalés par Jean-Marie Cléry durant le meetup : 
 1) ... découvrir la syntaxe JavaScript et les structures de contrôle :
