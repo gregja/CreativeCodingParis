@@ -26,6 +26,11 @@ https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-di
 - un bon bouquin chez Manning consacré à Chuck (qui complète bien la documentation en ligne) :
 https://www.manning.com/books/programming-for-musicians-and-digital-artists
 
+Et quelques liens complémentaires fournis par Thomas et Raphaël (merci à eux) :
+- site de référence pour les live coders : https://toplap.org 
+- un gros paquets d'outils gratuits pour Super Collider : http://mixedsign.com/2018/02/05/tx-modular-is-a-vast-free-set-of-sound-tools-in-supercollider/
+
+
 
 # Premier meetup à La Folie Numérique avec les projets Axoloti, Bela et IanniX 
 #### Le 18 janvier 2018 chez La Folie Numérique
