@@ -6,6 +6,27 @@ Attention, cette liste a été modifiée le 19/10/2017, les meetups sont mainten
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Second meetup à La Folie Numérique avec des ateliers orientés musique générative et live coding 
+#### Le 15 février 2018 chez La Folie Numérique
+
+Pour notre second meetup à la Folie Numérique, nous avons fait le choix de ne pas programmer de talks, mais d'organiser une soirée "ateliers". Nous avions envisagé plusieurs ateliers, autour des logiciels IanniX, Chuck, et Supercollider, ainsi qu'un atelier d'initiation au Javascript. Ce dernier atelier n'ayant pas rencontré son public, et tout le monde étant très intéressé par le son, nous nous sommes tous regroupés pour discuter de musique générative et de live coding. 
+
+Trois présentations, dont les 2 dernières complètement improvisées :
+- présentation de IanniX couplé à un synthé Microbrute : ayant découvert les possibilités de IanniX au meetup précédent, Gregor a fait quelques expériences en connectant ce logiciel à un synthé Microbrute d'Arturia. Il nous a montré les expérimentations qu'il a réalisées, et les astuces qu'il a découvertes. Super intéressant !
+- présentation par Tom de TidalCycles, logiciel dédié au live coding basé sur le langage Haskell et s'appuyant sur le logiciel Supercollider. Du gros, du très gros son ! Site officiel : https://tidalcycles.org/
+- présentation par Grégory du logiciel de synthèse sonore Chuck. Site officiel : http://chuck.stanford.edu/
+
+Le meetup du 15 mars sera une soirée de talks, laissant peu de temps pour l'expérimentation, aussi les participants ont pris rendez-vous pour une nouvelle soirée d'ateliers, le jeudi 19 avril. Au programme : expérimentations tous azimuts avec Chuck, Supercollider, Tidalcycles, Webaudio, avec en clôture concert improvisé durant lequel on essaiera de faire dialoguer tout ce beau monde avec du MIDI et/ou de l'OSC. Ca va être fun !!!
+
+Pour ceux qui seraient intéressés par Chuck, quelques liens intéressants :
+- une démo de Chuck qui donne un bon aperçu des possibilités : https://www.youtube.com/watch?v=ezmpolryqUE
+- deux MOOCs consacrés à la synthèse sonore utilisant Chuck comme base de travail (avec une préférence pour le premier, animé par Perry Cook) : 
+https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv
+https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists-iv-i
+- un bon bouquin chez Manning consacré à Chuck (qui complète bien la documentation en ligne) :
+https://www.manning.com/books/programming-for-musicians-and-digital-artists
+
+
 # Premier meetup à La Folie Numérique avec les projets Axoloti, Bela et IanniX 
 #### Le 18 janvier 2018 chez La Folie Numérique
 
