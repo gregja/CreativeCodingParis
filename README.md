@@ -29,7 +29,9 @@ https://www.manning.com/books/programming-for-musicians-and-digital-artists
 Et quelques liens complémentaires fournis par Thomas et Raphaël (merci à eux) :
 - site de référence pour les live coders : https://toplap.org 
 - un gros paquets d'outils gratuits pour Super Collider : http://mixedsign.com/2018/02/05/tx-modular-is-a-vast-free-set-of-sound-tools-in-supercollider/
-
+- un portage de Supercollider en JS : https://github.com/mohayonao/timbre.js  https://github.com/mohayonao/CoffeeCollider
+- un portage de Chuck en JS : https://github.com/aknuds1/chuck
+- un projet dédié à l'enseignement de la programmation via le son : https://earsketch.gatech.edu/earsketch2/
 
 
 # Premier meetup à La Folie Numérique avec les projets Axoloti, Bela et IanniX 
