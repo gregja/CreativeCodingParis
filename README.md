@@ -24,6 +24,7 @@ Pour notre troisième soirée à la Folie Numérique, nous avons le plaisir d'ac
 Synchronisation des tempos, phases et séquences musicales, harmonies et dissonances entre les morceaux; en offrant aux spectateurs un contrôle total sur l’oeuvre, j’espère démystifier cet art de la sélection et du mélange tout en questionnant le public : une fois ces notions définitivement acquises et implémentées numériquement, que restera-t-il au DJ face à la machine ? "
 
 Pour suivre l'actualité de Stan : https://lavoieducode.wordpress.com/author/stanlepunk/
+
 Pour suivre l'actualité de Romain : http://romain-astouric.com/
 
 
