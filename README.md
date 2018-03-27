@@ -6,6 +6,27 @@ Attention, cette liste a été modifiée le 19/10/2017, les meetups sont mainten
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Champs de Force, Plugins Audio, Scénographie interactive et vidéo mapping
+#### Le 15 mars 2018 chez La Folie Numérique
+
+Pour notre troisième soirée à la Folie Numérique, nous avons le plaisir d'accueillir trois intervenants, Jean-Baptiste, Stanislas et Romain.
+
+- Jean-Baptiste Vallon Hoarau viendra partager avec nous son expérience en matière de programmation de plug-ins audio. Il nous expliquera le design et l'implémentation d'effets audio en C++ avec le framework Audio Unit. Au menu : décorticage et démonstration des effets de base (filtrage, écho, saturation, reverb...)
+
+- Stanislas Marçais (alias @StanLEpunK), artiste numérique, nous proposera de partir à la découverte des champs de force ou champs de vecteurs. Ces champs sont utiles dans le monde physique, dans celui des mathématiques, et en programmation ; c’est cette dernière partie que Stanislas souhaite nous présenter, je lui laisse la parole :
+
+"Je me suis intéressé aux champs de forces presque par hasard. C’est suite à une demande d’un VJ italien qui souhaitait que je développe une petite application permettant de gérer des images via un contrôleur Midi, que j’ai débuté ce combat acharné avec les champs de force, de gravitation, les pôles magnétique, les fluides, contre le chaos, les champs de perlin-pinpins. Lors de cette présentation, je vous inviterai à découvrir cet étrange univers fait de lignes de code, d’équation, de champs de vecteur, de paramétrage, de classes, de variables réunis autour de mini librairies que j’ai développées pour dompter ces champs de force. Je vous donnerai les clés des sources libres qui vous permettront de déformer vos images favorites, vos films adorés ou encore vos flux vidéo et de manipuler des particules dans un monde à deux dimensions. Toute cette magie est organisée autour de la librairie Processing et de son accointance avec les Shaders et son langage le GLSL."
+
+- Romain Astouric, présentera une installation musicale et visuelle interactive,
+« Audio, Video, Disto », mélange de boucles sonores, d’effets visuels et de gaming. Elle permet avec une ou deux manettes de prendre le contrôle d’un véritable jukebox audiovisuel et de créer sa propre scénographie entre image et son, DJing et VJing. Ce projet fait suite à plusieurs expériences de DJ Sets, durant lesquelles Romain a retenu les manettes de PS3 pour le contrôle MIDI (pour leur robustesse et la précision de leur signal), et les a intégrées à des scénographies visuelles dans lesquelles il combine des logiciels tels que le séquenceur Ableton Live, le logiciel de video-mapping HeavyM, et le logiciel Pure Data Extended. Romain nous explique sa démarche artistique :
+
+"À l’heure où l’intelligence artificielle et tout particulièrement les technologies de machine learning s’apprêtent à envahir logiciels et platines pour assister le DJ, je souhaitais détourner un outil connu et utilisé de (presque) tous - une manette de jeux-video - pour explorer et présenter au plus grand nombre les contraintes esthétiques du DJing à travers une expérience ludique et visuelle !
+Synchronisation des tempos, phases et séquences musicales, harmonies et dissonances entre les morceaux; en offrant aux spectateurs un contrôle total sur l’oeuvre, j’espère démystifier cet art de la sélection et du mélange tout en questionnant le public : une fois ces notions définitivement acquises et implémentées numériquement, que restera-t-il au DJ face à la machine ? "
+
+Pour suivre l'actualité de Stan : https://lavoieducode.wordpress.com/author/stanlepunk/
+Pour suivre l'actualité de Romain : http://romain-astouric.com/
+
+
 # Second meetup à La Folie Numérique avec des ateliers orientés musique générative et live coding 
 #### Le 15 février 2018 chez La Folie Numérique
 
