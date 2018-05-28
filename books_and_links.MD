@@ -54,13 +54,18 @@ Pour les amateurs de Pure Data :
 - Un très bon article de Benjamin Bouvrot sur Pure Data dans GNU/Linux Pratique (n° 107 de mai/juin 2018) :
   - https://boutique.ed-diamond.com/en-kiosque/1331-linux-pratique-107.html
 
+---
+
+Pour les amateurs d'Axoloti, ce livre de Jan Vantomme est un bon outil pour débuter :
+
+- https://leanpub.com/getting-started-with-axoloti
+
 
 ---
 
-Toujours pour les passionnés de son (et de norme MIDI) :
+Toujours pour les passionnés de son (et de norme MIDI), Les Cahiers de l'ACME - associée fondée en 1981 - publie régulièrement des dossiers consacrés au son et à la norme MIDI :
 
-- Les Cahiers de l'ACME, une associée fondée en 1981, publie régulièrement des dossiers consacrés au son et à la norme MIDI :
-   - http://cahiersacme.over-blog.com/2016/09/nos-publications.html
+- http://cahiersacme.over-blog.com/2016/09/nos-publications.html
 
 ---
 
