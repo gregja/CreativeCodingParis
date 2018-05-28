@@ -2,8 +2,31 @@
 recensement des présentations réalisées dans le cadre du meetup CreativeCodeParis
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
-Attention, cette liste a été modifiée le 19/10/2017, les meetups sont maintenant triés par date décroissante.
+Attention, cette liste a été modifiée en octobre 2017, les meetups sont maintenant triés par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
+
+
+# Gros son, live coding et jam session électro (the return of)
+#### Le 24 mai 2018 chez La Folie Numérique
+
+Notre 5ème meetup à la Folie Numérique sera encore axé sur la programmation du son, dans la continuité de la soirée précédente.
+La soirée débutera avec un talk, suivi d'ateliers où chacun sera libre d'explorer les technos qui l'intéressent.
+
+Le talk - environ 45 minutes - sera animé par Stanislas Marçais (alias @StanLEpunK), artiste numérique que nous avons eu le plaisir d'accueillir en mars. Au menu : comment manipuler du son avec Processing couplé avec la librairie Minin, et comment tirer du spectre sonore des infos permettant de générer du visuel.
+
+Les ateliers: faites-vous plaisir, en explorant toutes les technos, que ce soit Supercollider, Chuck, Tidalcycle, WebAudio API, etc... Trois cartes Axoloti seront à votre disposition si vous souhaitez tester ces petites merveilles. N'hésitez pas à amener du matos (contrôleurs MIDI, casques audios, etc..).
+
+
+# Gros son, live coding et jam session électro
+#### Le 19 avril 2018 chez La Folie Numérique
+
+Pour notre 4ème meetup à la Folie Numérique, nous vous proposons une soirée atelier "son et live coding"
+
+Atelier en plusieurs petits groupes autour des logiciels Supercollider, TidalCycles et Axoloti. 
+Vous pouvez nous proposer d'autres logiciels musicaux sur place, cette liste n'étant pas limitative.
+L'idée serait d'explorer tous azimuts pendant au moins 2 heures, suivi d'un moment où chacun pourra présenter ses découvertes...
+... et pourquoi pas terminer par une jam session !
+Nous vous invitons à amener du matos (claviers, contrôleurs MIDI, guitares, casques audios, enceintes portatives...). Trois cartes Axoloti seront à votre disposition. N'hésitez pas à nous poser des questions, si besoin.
 
 
 # Champs de Force, Plugins Audio, Scénographie interactive et vidéo mapping
