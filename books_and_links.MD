@@ -92,11 +92,16 @@ Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ail
 
 ---
 
-Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants :
+Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants (merci à Thomas et Alex pour ces liens) :
 
-- https://github.com/toplap/awesome-livecoding/  (merci à Alex pour l'info)
+- https://toplap.org/ 
 
-- https://toplap.org/ (merci à Thomas pour ce lien)
+- https://github.com/toplap/awesome-livecoding/  
+
+Alex nous précise que le Lurk de Toplap est très actif et que l'on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé Tidal Cycles.
+
+- https://toplap.org/toplap-on-slack/
+- https://talk.lurk.org/channel/live-coding-fr
 
 
 ---
