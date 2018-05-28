@@ -2,6 +2,68 @@ Petit répertoire de liens intéressants, dont certains ont été évoqués dans
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 
+---
+
+Quelques livres en anglais consacrés à la programmation du son 
+
+-  Programming for Musicians and Digital Artists 
+https://www.manning.com/books/programming-for-musicians-and-digital-artists
+(livre consacré à la synthèse sonore, avec le logiciel Chuck, mais les concepts peuvent s'appliquer à d'autres systèmes)
+
+- Real Sound Synthesis for Interactive Applications (by Perry R. Cook, 2002)
+https://www.cs.princeton.edu/~prc/AKPetersBook.htm
+
+- Made: Analog Synthesizers (by Ray Wilson), Ed Maker Media
+
+- Welsh's Synthesizer Cookbook (by Fred Welsh)
+
+- un Floss Manual sur Chuck (en anglais et en cours d'écriture) : http://write.flossmanuals.net/chuck/
+
+- un Floss Manual sur CSound (en anglais et en cours d'écriture) : http://write.flossmanuals.net/csound/
+
+
+---
+
+Quelques livres en français traitent des fondamentaux du son, et notamment du son électronique.
+Certains de ces livres sont anciens, et malheureusement épuisés, mais on peut les trouver d'occase. 
+A noter que le livre de John R. Pierce est excellent, il traite de la théorie du son, tout en donnant beaucoup de références historiques. Il est regrettable qu'il soit aujourd'hui épuisé. 
+
+- Le son musical (musique, acoustique et informatique), de John R. Pierce (Ed. Pour La Science/Belin, 1983, épuisé)
+
+- Commodore 64, Tout faire sur votre ordinateur, de Tim Onosko (InterEditions, 1984, épuisé)
+ (contient un chapitre très intéressant sur les bases du son, qui peut s'appliquer à différents 
+ systèmes)
+ 
+- Les synthétiseurs, une nouvelle lutherie, de Claude Gendre (Editions Fréquences, 1985, épuisé) 
+
+
+Autre ouvrage récent, intéressant notamment - mais pas seulement - pour ses chapitres autour de la musique et du son :
+
+- Quadrivium, Nombres, Géométrie, Musique, Astronomie (éd Guy Trédaniel, 2012) 
+ (ne traite pas du son électronique)
+
+- Un manuel en français consacré à Pure Data :
+https://boutique.flossmanualsfr.net/home/53-puredata-entier-9791090791503.html
+
+- Un très bon article de Benjamin Bouvrot sur Pure Data dans GNU/Linux Pratique (n° 107 de mai/juin 2018) :
+https://boutique.ed-diamond.com/en-kiosque/1331-linux-pratique-107.html
+
+
+---
+
+Toujours pour les passionnés de son :
+
+- Les Cahiers de l'ACME, une associée fondée en 1981, publie régulièrement des dossiers consacrés au son et à la norme MIDI :
+   - http://cahiersacme.over-blog.com/2016/09/nos-publications.html
+
+Et quelques bonnes ressources répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à l'API WebAudio :
+   - https://hackmd.io/s/SJ6KZ_lPz#
+
+Pour info, le lien vers le meetup de la dernière session consacrée à WebAudio :
+   - https://www.meetup.com/fr-FR/La-Paillasse-Events/events/249704908/
+
+---
+
 Vidéos : 
 
 - documentaire sur Steve Reich, "Phase to Face", à voir absolument : 
@@ -12,7 +74,7 @@ Vidéos :
 
    - Tangerine Dream, de Margarete Kreuzer (All., 2016, 60 min).
 
-
+---
 
 Quelques bonnes ressources à noter :
 -  le très beau livre de Laurent De Wilde, "Les fous du son" :
@@ -49,16 +111,29 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 
 On peut ajouter à cette liste le livre de Keith Peters, Playing with Chaos : http://www.playingwithchaos.net/
 
-A signaler - sur le même thème que les 3 livres précédents -  la réédition en 2010 du livre suivant :
+Et quelques livres écrits par le plus grand des Fractalistes :
+- La forme d'une vie, de Benoît Mandelbrot, Flammarion 2012
+- Les Objets Fractals : Forme, hasard et dimension, de Benoît Mandelbrot, Champs Flammarion - Science (réédité en 2010)
+- Fractales, Hasard et Finance, de Benoît Mandelbrot, Champs Flammarion 1997
 
-- Les objets fractals : Forme, hasard et dimension, de Benoît Mandelbrot, Champs Flammarion - Science 
+---
 
+Pour les amateurs de Processing : 
+
+- liste de très bons livres répertoriés sur :
+   - https://www.processing.org/books/
+
+- un Floss Manual en français sur Processing :
+   - https://boutique.flossmanualsfr.net/home/13-processing-9791090791510.html
 
 - Sites de référence avec plein de sketchs à étudier :
-    - http://365processing.com/
-    - http://www.bit-101.com
-    - http://abandonedart.org/
+   - http://365processing.com/
+   - http://www.bit-101.com
+   - http://abandonedart.org/
+   - https://www.openprocessing.org/ 
 
+
+---
 
 MOOCS : 
 
