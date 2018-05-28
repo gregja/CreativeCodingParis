@@ -78,6 +78,14 @@ Pour info, le lien vers le meetup de la dernière session consacrée à WebAudio
 
 ---
 
+Si vous vous intéressez à l'histoire de la musique électronique, le livre "The Sound Of Innovation", consultable gratuitement en ligne, devrait vous intéresser. 
+
+https://ccrma.stanford.edu/~aj/
+
+Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ailleurs les deux instituts ont collaboré étroitement à de nombreuses reprises. Pour la petite histoire, c'est au CCRMA qu'a été développée l'architecture du synthé DX7 qui sera commercialisé par Yamaha au début des années 80 (avec un succès retentissant).
+
+---
+
 Vidéos : 
 
 - documentaire sur Steve Reich, "Phase to Face", à voir absolument : 
