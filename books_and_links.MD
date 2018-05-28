@@ -86,20 +86,17 @@ Toujours concernant l'API WebAudio, Alejandro (le créateur de Pizzicato.js) a r
 
 Si vous vous intéressez à l'histoire de la musique électronique, le livre "The Sound Of Innovation", consultable gratuitement en ligne, devrait vous intéresser. 
 
-https://ccrma.stanford.edu/~aj/
+- https://ccrma.stanford.edu/~aj/
 
 Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ailleurs les deux instituts ont collaboré étroitement à de nombreuses reprises. Pour la petite histoire, c'est au CCRMA qu'a été développée l'architecture du synthé DX7 qui sera commercialisé par Yamaha au début des années 80 (avec un succès retentissant).
 
 ---
 
-Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants (merci à Thomas et Alex pour ces liens) :
-
+Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants (merci à Thomas et Alex pour ces liens):
 - https://toplap.org/ 
-
 - https://github.com/toplap/awesome-livecoding/  
 
 Alex nous précise que le Lurk de Toplap est très actif et que l'on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé Tidal Cycles.
-
 - https://toplap.org/toplap-on-slack/
 - https://talk.lurk.org/channel/live-coding-fr
 
