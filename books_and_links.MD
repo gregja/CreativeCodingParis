@@ -6,9 +6,9 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 Quelques livres en anglais consacrés à la programmation du son 
 
--  Programming for Musicians and Digital Artists 
+- Programming for Musicians and Digital Artists 
   - https://www.manning.com/books/programming-for-musicians-and-digital-artists
-(livre consacré à la synthèse sonore, avec le logiciel Chuck, mais les concepts peuvent s'appliquer à d'autres systèmes)
+  (livre consacré à la synthèse sonore, avec le logiciel Chuck, mais les concepts peuvent s'appliquer à d'autres systèmes)
 
 - Real Sound Synthesis for Interactive Applications (by Perry R. Cook, 2002)
   - https://www.cs.princeton.edu/~prc/AKPetersBook.htm
