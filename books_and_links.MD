@@ -7,19 +7,21 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 Quelques livres en anglais consacrés à la programmation du son 
 
 -  Programming for Musicians and Digital Artists 
-https://www.manning.com/books/programming-for-musicians-and-digital-artists
+  - https://www.manning.com/books/programming-for-musicians-and-digital-artists
 (livre consacré à la synthèse sonore, avec le logiciel Chuck, mais les concepts peuvent s'appliquer à d'autres systèmes)
 
 - Real Sound Synthesis for Interactive Applications (by Perry R. Cook, 2002)
-https://www.cs.princeton.edu/~prc/AKPetersBook.htm
+  - https://www.cs.princeton.edu/~prc/AKPetersBook.htm
 
 - Made: Analog Synthesizers (by Ray Wilson), Ed Maker Media
 
 - Welsh's Synthesizer Cookbook (by Fred Welsh)
 
-- un Floss Manual sur Chuck (en anglais et en cours d'écriture) : http://write.flossmanuals.net/chuck/
+- un Floss Manual sur Chuck (en anglais et en cours d'écriture) : 
+  - http://write.flossmanuals.net/chuck/
 
-- un Floss Manual sur CSound (en anglais et en cours d'écriture) : http://write.flossmanuals.net/csound/
+- un Floss Manual sur CSound (en anglais et en cours d'écriture) : 
+  - http://write.flossmanuals.net/csound/
 
 
 ---
@@ -37,26 +39,32 @@ A noter que le livre de John R. Pierce est excellent, il traite de la théorie d
 - Les synthétiseurs, une nouvelle lutherie, de Claude Gendre (Editions Fréquences, 1985, épuisé) 
 
 
-Autre ouvrage récent, intéressant notamment - mais pas seulement - pour ses chapitres autour de la musique et du son :
+Autre ouvrage, récent celui-là, qui contient des chapitres intéressants sur la théorie musicale :
 
 - Quadrivium, Nombres, Géométrie, Musique, Astronomie (éd Guy Trédaniel, 2012) 
  (ne traite pas du son électronique)
 
-- Un manuel en français consacré à Pure Data :
-https://boutique.flossmanualsfr.net/home/53-puredata-entier-9791090791503.html
+---
+
+Pour les amateurs de Pure Data :
+
+- Un manuel Floss en français :
+  - https://boutique.flossmanualsfr.net/home/53-puredata-entier-9791090791503.html
 
 - Un très bon article de Benjamin Bouvrot sur Pure Data dans GNU/Linux Pratique (n° 107 de mai/juin 2018) :
-https://boutique.ed-diamond.com/en-kiosque/1331-linux-pratique-107.html
+  - https://boutique.ed-diamond.com/en-kiosque/1331-linux-pratique-107.html
 
 
 ---
 
-Toujours pour les passionnés de son :
+Toujours pour les passionnés de son (et de norme MIDI) :
 
 - Les Cahiers de l'ACME, une associée fondée en 1981, publie régulièrement des dossiers consacrés au son et à la norme MIDI :
    - http://cahiersacme.over-blog.com/2016/09/nos-publications.html
 
-Et quelques bonnes ressources répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à l'API WebAudio :
+---
+
+Si vous vous intéressez à l'API WebAudio, voici quelques bonnes ressources, répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à cette API :
    - https://hackmd.io/s/SJ6KZ_lPz#
 
 Pour info, le lien vers le meetup de la dernière session consacrée à WebAudio :
