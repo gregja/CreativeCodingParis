@@ -38,11 +38,12 @@ A noter que le livre de John R. Pierce est excellent, il traite de la théorie d
  
 - Les synthétiseurs, une nouvelle lutherie, de Claude Gendre (Editions Fréquences, 1985, épuisé) 
 
+--- 
 
-Autre ouvrage, récent celui-là, qui contient des chapitres intéressants sur la théorie musicale :
+Autre ouvrage, récent celui-là, qui contient des chapitres intéressants sur la théorie musicale et les bases du son (attention, il ne traite pas du son électronique) :
 
 - Quadrivium, Nombres, Géométrie, Musique, Astronomie (éd Guy Trédaniel, 2012) 
- (ne traite pas du son électronique)
+
 
 ---
 
