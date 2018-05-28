@@ -76,6 +76,12 @@ Si vous vous intéressez à l'API WebAudio, voici quelques bonnes ressources, r�
 Pour info, le lien vers le meetup de la dernière session consacrée à WebAudio :
    - https://www.meetup.com/fr-FR/La-Paillasse-Events/events/249704908/
 
+
+Toujours concernant l'API WebAudio, Alejandro (le créateur de Pizzicato.js) a répertorié cette très belle liste :
+
+  - https://github.com/alemangui/web-audio-resources
+
+
 ---
 
 Si vous vous intéressez à l'histoire de la musique électronique, le livre "The Sound Of Innovation", consultable gratuitement en ligne, devrait vous intéresser. 
@@ -83,6 +89,13 @@ Si vous vous intéressez à l'histoire de la musique électronique, le livre "Th
 https://ccrma.stanford.edu/~aj/
 
 Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ailleurs les deux instituts ont collaboré étroitement à de nombreuses reprises. Pour la petite histoire, c'est au CCRMA qu'a été développée l'architecture du synthé DX7 qui sera commercialisé par Yamaha au début des années 80 (avec un succès retentissant).
+
+---
+
+Pour les passionnés de "live coding", voici quelques liens intéressants :
+
+- https://github.com/toplap/awesome-livecoding/  (merci à Alex pour l'info)
+
 
 ---
 
