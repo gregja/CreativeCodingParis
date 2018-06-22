@@ -6,6 +6,23 @@ Attention, cette liste a été modifiée en octobre 2017, les meetups sont maint
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+
+# Processing et MIDI / VR et AR / jam électro et algorave pour tous
+#### Le 21 juin 2018 chez La Folie Numérique
+
+Pour notre sixième meetup à la Folie Numérique, nous vous proposons un mix entre graphisme et son... avec 2 talks, suivis d'une jam session électro.
+
+Le premier talk sera animé par Fred, qui expliquera comment il génère du visuel à partir de messages MIDI, en utilisant Processing.
+
+Le second talk sera animé par Gregory, qui présentera les projets A-Frame (projet de la Fondation Mozilla) et AR.js. A-Frame permet de créer des univers 3D VR avec très peu de lignes de code, et AR.js (combiné à A-Frame), permet de mettre un pied dans la réalité augmentée.
+
+Le support de la prez de Gregory est récupérable sur ce dépôt (accompagné du source des exemples) :
+
+https://github.com/gregja/AFramePrez
+
+Pour la deuxième partie de soirée, nous vous invitons à venir brancher vos machines sur l'excellente sono de la Folie Numérique. Venez nous faire découvrir vos rythmes et vos sons, peu importe qu'ils soient produits par Supercollider, Tidalcycles, Axoloti, ou par un Arduino faisant résonner des casserolles, nous on aime tout, et on veut tout entendre :).
+
+
 # Gros son, live coding et jam session électro (the return of)
 #### Le 24 mai 2018 chez La Folie Numérique
 
