@@ -22,6 +22,16 @@ https://github.com/gregja/AFramePrez
 
 Pour la deuxième partie de soirée, nous vous invitons à venir brancher vos machines sur l'excellente sono de la Folie Numérique. Venez nous faire découvrir vos rythmes et vos sons, peu importe qu'ils soient produits par Supercollider, Tidalcycles, Axoloti, ou par un Arduino faisant résonner des casserolles, nous on aime tout, et on veut tout entendre :).
 
+Le code source de la machine Algorave de Grégory se trouve sur ce dépôt :
+
+https://github.com/gregja/algoravix
+ 
+... on peut la tester en live sur cette page :
+
+ https://thimbleprojects.org/gregja/493414
+
+
+
 
 # Gros son, live coding et jam session électro (the return of)
 #### Le 24 mai 2018 chez La Folie Numérique
