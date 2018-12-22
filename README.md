@@ -6,6 +6,87 @@ Attention, cette liste a été modifiée en octobre 2017, les meetups sont maint
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Dernier meetup 2018, une soirée pleine de surprises
+#### Le 20 décembre 2018 à La Folie Numérique
+
+Pour le dernier meetup 2018, nous vous avons concocté un programme aux petits oignons, avec 4 talks courts, suivis d'une projection surprise.
+
+1er talk de Grégory, qui vous parlera de la manipulation de data en Javascript. Ce langage a une manière de gérer les tableaux et les objets, très différente de celle d'autres langages. Tour d'horizon des trucs et astuces qu'il faut connaître pour que la manipulation de data en JS devienne une partie de plaisir, plutôt qu'un parcours du combattant.
+
+2ème talk de Grégory : le projet P5.js a de nombreux atouts pour les "creative coders", mais il lui manque un véritable moteur d'animation 2D, pour pouvoir rivaliser avec d'autres technos. En s'appuyant sur les travaux d'experts Javascript, mais aussi Actionscript (le langage de Flash), Grégory s'est lancé dans la construction d'un petit moteur. Il vous parlera des pistes qu'il a suivies, des auteurs qui l'ont inspiré, et vous montrera les premiers résultats de ce "work in progress".
+
+3ème talk de Raphaël, qui nous expliquera comment programmer une fractale en GLSL. Au travers de cet exemple, Raphaël nous proposera une petite introduction à la technique des "fragment shaders".
+
+4ème talk de Florian, qui s'est livré à une petite étude rétrospective sur la technologie des vieux samplers. Il avait envie de comprendre ce qui pouvait donner à certaines de ces machines un son si caractéristique, et il s'est laissé dire que certaines avaient des fréquences d'échantillonnage toutes pétées. 
+
+Nous terminerons par une petite projection rétrospective d'animations 2D et 3D des années 80. C'est l'époque des pionniers de l'image de synthèse, qui ont patiemment construit les briques conceptuelles et techniques sur lesquelles nous nous appuyons aujourd'hui dans nos projets. Et pour reprendre les termes (admiratifs) d'un enfant de 7 ans regardant une animation 3D vieille de 30 ans (en l'occurrence, c'était "Automappe" de Michel Bret) : "ouah, c'était déjà de la bonne 3D !".
+
+Quelques petites précisions à l'issue des présentations :
+
+Florian utilise un enregistreur portable Zoom H1 pour ses prises de son "sauvages". A l'aide du logiciel Audacity et de patchs Pure Data, il nous a fait écouter les effets délétères d'un rééchantillonage mal calibré, mais aussi les effets intéressants que l'on peut obtenir à partir de sons en apparence banals. 
+
+Pour sa présentation, Raphaël a utilisé Shadertoy, qui est un formidable labo pour manipuler aussi bien de l'image que du son. Pour plus d'infos sur Shadertoy : https://en.wikipedia.org/wiki/Shadertoy
+
+Le support de présentation de Grégory pour la présentation du moteur d'animation 2D se trouve dans le présent dépôt (cf. fichier "Moteur2D_and_JS.pdf"). Son support de présentation sur la partie "Javascript et Data" se trouve dans le dépôt suivant (cf. fichier "Javascript_and_Data.pdf") : https://github.com/gregja/JSCorner
+
+Parmi les films que nous avons visionnés lors de cette soirée, il y a notamment quelques très beaux films de Michel Bret, comme Automappe et Cahin-Caha. Vous pouvez retrouver ces films et bien d'autres sur cette page d'archives vidéos proposée par l'Université Paris-8 : http://www.archives-video.univ-paris8.fr/bret_sommaire.php
+
+A noter que le logiciel Anyflo que Michel Bret a développé pour réaliser ses films, est développé en C, et qu'il est disponible en téléchargement libre sur ce site : http://www.anyflo.com/
+
+Nous avons aussi regardé quelques vidéos réalisées dans les années 90 (et début 2000) par Animusic. Ce qui est intéressant à noter, dans le cas d'Animusic, c'est que c'est la musique qui guide l'animation, et non l'inverse. 
+On peut voir certaines des vidéos d'Animusic sur la page youtube suivante : https://www.youtube.com/user/AnimusicLLC
+
+A noter qu'en 2011, des ingénieurs d'Intel ont recréé physiquement une des installations virtuelles d'Animusic, c'est impressionnant à voir : https://www.youtube.com/watch?v=E4hjx3_A-cw
+
+
+# Code Kitchen à la Folie Numérique # 2
+### jeudi 22 novembre 2018
+
+Seconde soirée code kitchen, après celle de septembre.
+Les trois thèmes tirés au sort cette fois ci ont été les suivants :
+- rêve
+- harmonographe MIDI
+- (racine carrée de 5 + 1) / 2
+
+A noter que nous avons eu la joie d'accueillir deux participants surprise, Michel Bret et Marie-Hélène Tramus, pionnier et pionnière de l'image de synthèse en France, et fondateurs de la formation ATI (Arts et Technologies de l'Image) de l'Université Paris 8 Vincennes Saint-Denis (dans laquelle ils ont enseigné de nombreuses années).  
+
+
+# Blender, Fractal and Machine Learning ! 
+### jeudi 18 octobre 2018
+
+Au menu de cette nouvelle soirée, 3 sujets différents, présentés ci-dessous par leurs auteurs respectifs :
+
+Gregor Schneider
+
+"Cette présentation est une introduction à Blender. Nous y décrouvrirons comment naviguer, faire notre premier modeling avec la souris pour finir avec l'utilisation de l'utilisation de Python pour créer des supershapes."
+
+Grégory Châtel
+
+"Les fractales sont des objets mathématiques qui exhibent des structures autosimilaires (qui se ressemblent lorsque l'on regarde la figure à plusieurs échelles différentes). Certaines de ces structures sont définies à partir de règles simples qui sont appliquées récursivement de nombreuses fois, les rendant particulièrement propices à la génération par programmation. Dans cet exposé, plusieurs types de fractales avec leurs méthodes de génération seront présentés. Nous verrons aussi comment, en faisant varier les paramètres des figures au fil du temps, il est possible d'obtenir des animations vidéos".
+
+... un exemple de vidéo réalisée par Grégory :
+https://www.youtube.com/watch?v=bkgk0s5cJYY
+
+Alexandre Dubreuil
+
+Génération musicale par IA avec Magenta (Tensorflow)
+
+La génération musicale par intelligence artificielle est une technologie relativement nouvelle qui permet d'innover sur deux plans, soit l'apprentissage de styles musicaux spécifiques, et la génération à partir de modèles entraînés. L'usage de l'IA pour la génération musicale est un sujet avec un vaste potentiel, mais dont l'accès reste difficile. L'objectif de cette présentation est de montrer les bases de cette technique afin de faciliter l'entrée en matière. Nous utiliserons la librairie Magenta, de Google (https://github.com/tensorflow/magenta), et les modèles pré-entraînés qu'elle contient. Nous introduirons les bases pour entraîner vos propres modèles, y compris la préparation des données, primordiale pour avoir des modèles efficaces.
+
+
+
+# Code Kitchen à la Folie Numérique # 1
+### jeudi 20 septembe 2018
+
+Dans cette nouvelle formule - que nous allons essayer d'organiser 1 mois sur deux - chaque participant/e peut proposer un, deux ou trois sujets, écrits sur de petits papiers déposés dans un chapeau. Puis une main, de préférence innocente, tire 3 papiers du chapeau, on déplie et on note les sujets sur un tableau. Chaque participant/e choisit l'un des trois sujets sélectionnés et développe ce sujet à sa manière, sous forme de graphisme (fixe ou animé), ou de son, voire les deux. Logiciels et langages sont laissés à la discrétion de chacun/e, et vous pouvez travailler en équipe si vous le souhaitez. A la fin de la soirée, chaque participant/e peut s'il/elle le souhaite présenter le fruit de son travail. Si ce n'est pas abouti, ce n'est pas important, l'idée est d'amorcer le processus créatif, et de le poursuivre chez soi, à son rythme.
+
+Ces soirées coding s'inscrivent dans notre volonté d'organiser une “Créative Code paris Exhibition", en juin 2019.
+
+Les 3 sujets tirés au sort lors de cette première soirée :
+- drone
+- perte d'identité (idée inspirée par la lecture d'un roman de Philip K.Dick, "susbtance mort")
+- sujet autour d'une division mystère (personne ne se rappelle de la formule exacte, si son auteur voulait bien nous l'indiquer...)
+
 
 # Processing et MIDI / VR et AR / jam électro et algorave pour tous
 #### Le 21 juin 2018 chez La Folie Numérique
