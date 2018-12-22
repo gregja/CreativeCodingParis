@@ -76,7 +76,7 @@ La génération musicale par intelligence artificielle est une technologie relat
 
 
 # Code Kitchen à la Folie Numérique # 1
-### jeudi 20 septembe 2018
+### jeudi 20 septembre 2018
 
 Dans cette nouvelle formule - que nous allons essayer d'organiser 1 mois sur deux - chaque participant/e peut proposer un, deux ou trois sujets, écrits sur de petits papiers déposés dans un chapeau. Puis une main, de préférence innocente, tire 3 papiers du chapeau, on déplie et on note les sujets sur un tableau. Chaque participant/e choisit l'un des trois sujets sélectionnés et développe ce sujet à sa manière, sous forme de graphisme (fixe ou animé), ou de son, voire les deux. Logiciels et langages sont laissés à la discrétion de chacun/e, et vous pouvez travailler en équipe si vous le souhaitez. A la fin de la soirée, chaque participant/e peut s'il/elle le souhaite présenter le fruit de son travail. Si ce n'est pas abouti, ce n'est pas important, l'idée est d'amorcer le processus créatif, et de le poursuivre chez soi, à son rythme.
 
