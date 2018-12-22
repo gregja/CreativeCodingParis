@@ -2,7 +2,7 @@
 recensement des présentations réalisées dans le cadre du meetup CreativeCodeParis
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
-Attention, cette liste a été modifiée en octobre 2017, les meetups sont maintenant triés par date décroissante.
+Attention, cette liste a été modifiée en octobre 2017, les soirées sont depuis triées par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
