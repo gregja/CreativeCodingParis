@@ -84,7 +84,7 @@ Ces soirées coding s'inscrivent dans notre volonté d'organiser une “Créativ
 
 Les 3 sujets tirés au sort lors de cette première soirée :
 - drone
-- perte d'identité (idée inspirée par la lecture d'un roman de Philip K.Dick, "susbtance mort")
+- perte d'identité (idée inspirée par la lecture d'un roman de Philip K.Dick, "substance mort")
 - sujet autour d'une division mystère (personne ne se rappelle de la formule exacte, si son auteur voulait bien nous l'indiquer...)
 
 
