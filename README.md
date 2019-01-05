@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=bkgk0s5cJYY
 
 Alexandre Dubreuil
 
-Génération musicale par IA avec Magenta (Tensorflow)
+Génération musicale par IA avec Magenta (Tensorflow) (voir https://alexandredubreuil.com/conferences/ai-music-generation/)
 
 La génération musicale par intelligence artificielle est une technologie relativement nouvelle qui permet d'innover sur deux plans, soit l'apprentissage de styles musicaux spécifiques, et la génération à partir de modèles entraînés. L'usage de l'IA pour la génération musicale est un sujet avec un vaste potentiel, mais dont l'accès reste difficile. L'objectif de cette présentation est de montrer les bases de cette technique afin de faciliter l'entrée en matière. Nous utiliserons la librairie Magenta, de Google (https://github.com/tensorflow/magenta), et les modèles pré-entraînés qu'elle contient. Nous introduirons les bases pour entraîner vos propres modèles, y compris la préparation des données, primordiale pour avoir des modèles efficaces.
 
