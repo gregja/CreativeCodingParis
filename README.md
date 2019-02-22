@@ -6,6 +6,44 @@ Attention, cette liste a été modifiée en octobre 2017, les soirées sont depu
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Pixels en folie, avec un meetup en 3D et en 2D et demi 
+### jeudi 21 février 2019
+
+Pour ce second meetup 2019 à la Folie Numérique, un talk court et deux talks longs, tous très orientés graphisme 3D :
+
+Premier talk (court) de Grégory, qui s'est livré à un petit exercice : convertir au web (et à WebGL) quelques sketchs Processing orientés 3D (rendu P3D ou OpenGL). Qui de ProcessingJS ou de P5js se sort le mieux de cet exercice, quelles difficultés cela pose ? Grégory vous dira tout, ou presque, en 20 minutes chrono, et avec à la clé un dépôt Github plein de bons exemples à étudier :
+https://github.com/gregja/pjs3D_experiments
+
+Second talk (long) présenté par Juliette Truffert, pour le logiciel Grasshopper :
+
+"Grasshopper est un module de programmation visuelle développé à partir de 2007 sur la base du logiciel de modélisation 3D Rhino. Grasshopper est initialement développé indépendamment du logiciel (et en open source sous réserve de posséder une licence Rhino) mais son succès est tel qu'il est maintenant intégré à Rhino (depuis 2018). Initialement utilisé majoritairement par les architectes pour générer des géométries 3D de formes complexes et plus largement par les designers pour faire de l'art génératif, la communauté large et active a developpé en 10 ans un nombre important de plug-ins permettant de diversifier ses usages et ses possibilités. Ainsi Grasshopper permet de faire de l'architecture paramétrique, du calcul de structure (via son plug in Karamba), générer des interactions physiques basiques (Kangaroo), faire des calculs de lumière et de consommations énergétiques des bâtiments (Honeybee - Ladybug, qui utilisent le programme radiance et energyPlus) et de la fabrication numérique."
+
+Juliette nous présentera un large panel de possibilités, ainsi qu'un exemple concret, pour nous donner une idée de la logique de fonctionnement de Grasshopper.
+
+Dernier talk (long) présenté par Laurent Meyer :
+
+"Avant l'avènement de la 3D dans les jeux vidéo, il y avait la 2D et demie. Début des années 1990, sur des PC i386 conçus pour des usages bureautiques, ID Software publie Wolfenstein 3D, qui va bouleverser le monde vidéoludique. Pendant ce talk, nous aborderons les bases du Raycasting, la technique simple et géniale qui a rendu tout cela possible. Il y aura un peu de maths (niveau 3ème), et beaucoup de nostalgie."
+
+Laurent nous proposera d'étudier une implémentation de Wolfenstein 3D qu'il a écrite avec P5, et donc voici le lien :
+https://www.openprocessing.org/sketch/664887
+
+
+# Code Kitchen à la Folie Numérique # 3
+### jeudi 17 janvier 2019
+
+Troisième soirée code kitchen de la saision. 
+Les trois thèmes tirés au sort ont été les suivants :
+- MIDI Painting
+- trigonométrie
+- générateur de monde
+
+... plus un sujet joker ajouté à la dernière minute :
+- triangle, croix, rond, carré
+
+Technos utilisées par les intervenants durant cette soirée : P5, Processing, OpenFramework, Tidalcycle, Supercollider, OpenRnder, Piskel couplé avec Arduino, Three.js. 
+
+
+
 # Dernier meetup 2018, une soirée pleine de surprises
 #### Le 20 décembre 2018 à La Folie Numérique
 
