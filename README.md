@@ -11,7 +11,7 @@ Prenez le temps de consulter le fichier "books and links" dans lequel nous avons
 
 Pour ce second meetup 2019 à la Folie Numérique, un talk court et deux talks longs, tous très orientés graphisme 3D :
 
-Premier talk (court) de Grégory, qui s'est livré à un petit exercice : convertir au web (et à WebGL) quelques sketchs Processing orientés 3D (rendu P3D ou OpenGL). Qui de ProcessingJS ou de P5js se sort le mieux de cet exercice, quelles difficultés cela pose ? Grégory vous dira tout, ou presque, en 20 minutes chrono, et avec à la clé un dépôt Github plein de bons exemples à étudier :
+Premier talk (court) de Grégory, qui s'est livré à un petit exercice : convertir au web (et à WebGL) quelques sketchs Processing orientés 3D (rendu P3D ou OpenGL). Qui de ProcessingJS ou de P5js se sort le mieux de cet exercice, quelles difficultés cela pose ? Grégory vous dira tout, ou presque, avec à la clé un dépôt Github plein de bons exemples à étudier :
 https://github.com/gregja/pjs3D_experiments
 
 Second talk (long) présenté par Juliette Truffert, pour le logiciel Grasshopper :
@@ -26,6 +26,9 @@ Dernier talk (long) présenté par Laurent Meyer :
 
 Laurent nous proposera d'étudier une implémentation de Wolfenstein 3D qu'il a écrite avec P5, et donc voici le lien :
 https://www.openprocessing.org/sketch/664887
+
+Le livre de Fabien Sanglard consacré à Wolfenstein a été une aide précieuse pour permettre à Laurent de mettre au point son sketch P5 :
+http://fabiensanglard.net/gebbwolf3d/index.html
 
 
 # Code Kitchen à la Folie Numérique # 3
