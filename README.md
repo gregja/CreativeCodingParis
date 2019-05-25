@@ -6,6 +6,80 @@ Attention, cette liste a été modifiée en octobre 2017, les soirées sont depu
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+
+# Soirée exposition à la Folie Numérique 
+### jeudi 20 juin 2019
+
+Présentation des travaux réalisés par nos membres durant les Code Kitchen de l'année. 
+Venez nombreux, ça va être très cool :)
+
+
+# Code Kitchen à la Folie Numérique # 5
+### jeudi 23 mai 2019
+
+Cinquième et dernière soirée "code kitchen" de la saison.
+
+Un double objectif pour cette 5ème édition, avec :
+- comme d’habitude, nous faire plaisir en expérimentant, et
+- pour ceux qui le souhaitent, préparer l'exposition que nous présenterons le jeudi 20 juin, à partir des travaux réalisés lors des soirées "code kitchen" de l'année.
+
+Pour ceux qui ont manqué les soirées précédentes, voici une liste dans laquelle vous pouvez piocher un sujet: vous le développerez avec les outils et langages que vous préférez.
+
+Rappel des thèmes des précédentes soirées :
+- drone
+- perte d'identité (idée inspirée"substance mort" de Philip K.Dick )
+- division mystère (on l'a appelé comme cela, vu que personne ne se rappelle de la formule exacte... bon, on va dire qu'on était en rodage...)
+- rêve
+- harmonographe MIDI
+- (racine carrée de 5 + 1) / 2
+- MIDI Painting
+- trigonométrie
+- générateur de monde
+- triangle, croix, rond, carré
+
+
+
+# Shader post-fx avec Processing, installations artistiques et fer à souder
+### jeudi 25 avril 2019
+
+Il y avait du lourd ce jeudi 25 avril, avec trois artistes numériques qui nous ont embarqués dans leurs univers respectifs :
+
+Stanislas Marçais, alias Stan le Punk nous propose une introduction aux Shaders Post FX avec Processing:
+"Pour cette présentation, j'utiliserai un "outil-framework" maison, simplement nommé « Shader », qui permet d'améliorer les rendus de Processing à travers le langage GLSL. « Shader » est une collection d'effets pilotables directement à partir de Processing, bien sûr vous pourrez les porter facilement sur d'autres languages. Voici une liste non-exhaustive des effets accessibles et configurables à travers ce framework : Flou gaussien, radial, circulaire, datamoshing, grain, mise à l’échelle, déformation par texture ou par algorithme, dithering... "
+
+Ambiance onirique avec Florian Rouzaud Cornabas, visual artist qui travaille avec différents médias (photos, vidéo, électronique...), et développe des projets artistiques qui nous invitent à la rêverie, et nous questionnent aussi. Il viendra nous parler de ses travaux:
+"Je vous propose une découverte artistique et technique de plusieurs de mes installations qui mélangent art plastique, art numérique et lumineux. Je vous exposerai les différentes étapes de leur création du prototype jusqu'à leur diffusion au travers de courts métrages et expositions."
+
+Ambiance FabLab pour finir, avec Florian Dupeyron qui va lâcher son fer à souder pour venir nous parler de ses expérimentations électroniques du moment :
+"je suis en train de démonter mon clavier MIDI, pour en extraire le bloc des touches, refaire l'electronique qui le contrôle, et mettre tout ça dans un boîtier fait main. Je vous présenterai dans les grandes lignes le schéma électronique, et surtout comment je souhaite le hacker pour dépasser les fonctions classiques d'un clavier maître standard et expérimenter le son électronique plus librement qu'avec les plugins classiques".
+
+En complément, voici quelques liens proposés par Florian Rouzaud Cornabas :
+
+- sa présentation téléchargeable ici: 
+https://drive.google.com/file/d/1XzhaAcQMQdofUZmuVfo6kFdkdjY7xX97/view?usp=sharing
+
+- des liens complémentaires si vous souhaitez suivre son travail:
+http://instagram.com/florianrouzaudcornabas
+http://vimeo.com/florianrouzaudcornabas
+http://facebook.com/FlorianRouzaudCornabasArt
+
+Voici également un lien proposé par Raphaël Seguin, sur lequel vous trouverez une explication concernan le principe des timers et des interruptions (pour Arduino et en général), sujet qui avait été abordé durant la soirée : 
+
+http://www.locoduino.org/spip.php?article84
+
+Et enfin le lien vers le dépôt Github de Stan, sur lequel vous retrouverez l'essentiel de son travail relatif aux shaders PostFX:
+https://github.com/StanLepunK/Shader
+
+
+
+# Code Kitchen à la Folie Numérique # 4
+### jeudi 14 mars 2019
+
+Pour notre 4ème code kitchen, nous vous proposons une formule légèrement différente. Nous n'allons pas tirer au hasard de nouveaux sujets, mais plutôt retravailler sur la base des sujets des soirées précédentes (qui sont rappelés ci-dessous).
+
+L'objectif est de parvenir à un résultat plus abouti, que nous peaufinerons encore lors de la 5ème soirée (en mai), en vue d'organiser une expo à la Folie Numérique au mois de juin.
+
+
 # Pixels en folie, avec un meetup en 3D et en 2D et demi 
 ### jeudi 21 février 2019
 
