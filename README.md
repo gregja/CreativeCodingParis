@@ -56,11 +56,15 @@ Ambiance FabLab pour finir, avec Florian Dupeyron qui va lâcher son fer à soud
 En complément, voici quelques liens proposés par Florian Rouzaud Cornabas :
 
 - sa présentation téléchargeable ici: 
+
 https://drive.google.com/file/d/1XzhaAcQMQdofUZmuVfo6kFdkdjY7xX97/view?usp=sharing
 
 - des liens complémentaires si vous souhaitez suivre son travail:
+
 http://instagram.com/florianrouzaudcornabas
+
 http://vimeo.com/florianrouzaudcornabas
+
 http://facebook.com/FlorianRouzaudCornabasArt
 
 Voici également un lien proposé par Raphaël Seguin, sur lequel vous trouverez une explication concernan le principe des timers et des interruptions (pour Arduino et en général), sujet qui avait été abordé durant la soirée : 
@@ -68,6 +72,7 @@ Voici également un lien proposé par Raphaël Seguin, sur lequel vous trouverez
 http://www.locoduino.org/spip.php?article84
 
 Et enfin le lien vers le dépôt Github de Stan, sur lequel vous retrouverez l'essentiel de son travail relatif aux shaders PostFX:
+
 https://github.com/StanLepunK/Shader
 
 
