@@ -28,7 +28,7 @@ Pour ceux qui ont manqué les soirées précédentes, voici une liste dans laque
 
 Rappel des thèmes des précédentes soirées :
 - drone
-- perte d'identité (idée inspirée"substance mort" de Philip K.Dick )
+- perte d'identité (idée inspirée du roman de Philip K.Dick qui s'intitule "substance mort" )
 - division mystère (on l'a appelé comme cela, vu que personne ne se rappelle de la formule exacte... bon, on va dire qu'on était en rodage...)
 - rêve
 - harmonographe MIDI
@@ -37,7 +37,6 @@ Rappel des thèmes des précédentes soirées :
 - trigonométrie
 - générateur de monde
 - triangle, croix, rond, carré
-
 
 
 # Shader post-fx avec Processing, installations artistiques et fer à souder
