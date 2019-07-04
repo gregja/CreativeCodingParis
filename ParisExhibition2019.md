@@ -22,7 +22,7 @@ Vous trouverez ci-dessous un descriptif détaillé des travaux présentés duran
 
 -----------------------------
 
-Attracteur de rêve - Michel Bret et Marie-Hélène Tramus
+## Attracteur de rêve - Michel Bret et Marie-Hélène Tramus
 Installation artistique interactive
 
 Nous n'avons pas si souvent l'occasion, à CreativeCodeParis, de rencontrer des pionniers de l'image de synthèse.
@@ -52,7 +52,7 @@ http://histoire3d.siggraph.org/index.php/Marie-H%C3%A9l%C3%A8ne_Tramus
 
 ------------------------
 
-Florian Rouzaud Cornabas 
+## Florian Rouzaud Cornabas 
 
 Florian est un "visual artist" qui travaille avec différents médias (photos, vidéo, électronique...). Il développe des projets artistiques qui nous invitent à la rêverie, et nous questionnent aussi. Il est venu nous présenter certains de ses travaux en avril 2019.
 
@@ -71,7 +71,7 @@ http://facebook.com/FlorianRouzaudCornabasArt
 
 -------------------------
 
-Stanislas Marçais, alias Stan Le Punk 
+## Stanislas Marçais, alias Stan Le Punk 
 
 Stan porte la double casquette de graphiste et d'artiste codeur. Inspiré par le thème "Générateur de monde", Stan a développé un générateur de ville. L'application se compose d'un générateur de bâtiments, bâtiment qui sont répartis sur une carte dessinée par un algorithme "cartographe", ce dernier assurant le rôle de l'urbaniste. Application visuelle développée en Processing.
 
@@ -86,7 +86,7 @@ https://github.com/StanLepunK/Monde
 
 ---------------------------------
 
-Grégory Jarrige
+## Grégory Jarrige
 
 Grégory a eu envie d'explorer le thème de la "perte d'identité", qu'il avait lui même proposé, inspiré par la lecture d'un roman de Philip K. Dick, "Substance mort" (titre original : "A scanner darkly"). 
 
@@ -101,7 +101,7 @@ https://github.com/gregja/ninjaOnMeetup
 
 ------------------------
 
-Fred Cecilia
+## Fred Cecilia
 
 BrainArt est une installation à la frontière entre art et science basée sur les neurosciences, dans laquelle l’activité cérébrale contrôle en temps réel musique et image, pour créer une performance audiovisuelle unique .
 
@@ -110,7 +110,7 @@ Le principe de l'installation est d'exploiter les ondes alpha du cerveau, via un
 
 --------------------------------
 
-Antoine Zanuttini 
+## Antoine Zanuttini 
 
 Antoine a réalisé deux animations - de type shaders - qu'il a programmées en GLSL en utilisant une technique de rendu qui porte le nom de "ray marching". 
 
@@ -129,7 +129,7 @@ https://www.youtube.com/channel/UCdiiD1ukw39XTRj9h6LKCeQ
 
 ---------------------------
 
-Erwan Boehm
+## Erwan Boehm
 
 Erwan a développé une application de réalité augmentée, ARCC, qui permet a l'utilisateur, par exemple, de dessiner des bandeaux de texte dans l'espace, de screenshooter la réalité, de remonter le temps (mode rafale)...
 
