@@ -8,11 +8,15 @@ Prenez le temps de consulter le fichier "books and links" dans lequel nous avons
 
 
 
-# Soirée exposition à la Folie Numérique 
+# Créative Code paris Exhibition à la Folie Numérique 
 ### jeudi 20 juin 2019
 
-Présentation des travaux réalisés par nos membres durant les Code Kitchen de l'année. 
-Venez nombreux, ça va être très cool :)
+Présentation des travaux réalisés par nos membres durant les soirées "Code Kitchen" de l'année. 
+Le descriptif de la soirée étant un peu long, nous l'avons reporté sur cette page :
+
+https://github.com/gregja/CreativeCodingParis/blob/master/ParisExhibition2019.md
+
+
 
 
 # Code Kitchen à la Folie Numérique # 5
