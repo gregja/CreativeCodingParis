@@ -1,10 +1,15 @@
-# Créative Code paris Exhibition
+# Créative Code paris Exhibition - 1ère édition
 
 Jeudi 20 juin 2019 à la Folie Numérique
 
 --------------------------
 
-Pour cette dernière soirée de la saison, nous avons invité les participant(e)s des codes kitchen à venir présenter les travaux qu'ils avaient réalisé durant les soirées "code kitchen".
+De septembre 2018 à mai 2019, au meetup CreativeCodeParis, nous avons organisé des soirées coding, à un rythme bimestriel (en alternance avec des soirées de talks). Nous avons intitulé ces soirées coding des "code kitchen". A chaque nouvelle soirée, les participants proposaient des thèmes et nous tirions au sort 3 thèmes au hasard, à charge pour chacun(e) de choisir son thème de prédilection, et de le développer à sa manière, avec les outils (de programmation) de son choix.
+
+Nous avions pour objectif d'organiser en juin 2019 une exposition des travaux réalisés durant les "code kitchen", et nous avons réalisé cette exposition le jeudi 20 juin, à la Folie Numérique.
+
+Pour cette dernière soirée de la saison, nous avons donc invité les participant(e)s des "codes kitchen" à venir présenter les travaux qu'ils avaient réalisés durant ces soirées.
+
 Plusieurs personnes ont répondu à l'appel, dont voici la liste :
 
 - Michel Bret et Marie-Hélène Tramus
@@ -15,10 +20,10 @@ Plusieurs personnes ont répondu à l'appel, dont voici la liste :
 - Antoine Zanuttini 
 - Erwan Boehm
 
-Des photos prises durant la soirée, vont être postées sur la page de l'événement :
+Une première série de photos, prises durant la soirée, a été postée sur la page de l'événement (d'autres devraient suivre prochainement) :
 https://www.meetup.com/fr-FR/CreativeCodeParis/events/258155818/
 
-Vous trouverez ci-dessous un descriptif détaillé des travaux présentés durant la soirée. Bonne lecture.
+Vous trouverez ci-dessous un descriptif des travaux présentés durant la soirée. Bonne lecture.
 
 -----------------------------
 
@@ -28,8 +33,8 @@ Installation artistique interactive
 Nous n'avons pas si souvent l'occasion, à CreativeCodeParis, de rencontrer des pionniers de l'image de synthèse.
 C'est pourtant bien ce qui nous est arrivé en novembre 2018, quand Michel Bret et Marie-Hélène Tramus sont venus participer à notre première soirée "code kitchen".
 
-Lors de cette session, Michel et Marie-Hélène se sont prêtés au jeu et ont eu envie de développer à partir l'un des thèmes tirés au sort : le rêve. 
-Michel et Marie-Hélène ont eu par la suite le plaisir de présenter une version finalisée de ce travail lors du Festival LAVAL VIRTUAL RECTO VRSO 2019. 
+Lors de cette soirée, Michel et Marie-Hélène ont souhaité développer un projet à partir l'un des thèmes tirés au sort : le rêve. 
+Une version finalisée de ce travail a été présentée lors du Festival LAVAL VIRTUAL RECTO VRSO 2019. 
 
 Le fonctionnement de leur installation est le suivant :
 
@@ -37,18 +42,14 @@ Le fonctionnement de leur installation est le suivant :
 
 Voici quelques liens concernant Michel Bret et Marie-Hélène Tramus :
 
-- une présentation de la formation ATI par ses fondateurs :
+- présentation du parcours de Michel Bret : http://histoire3d.siggraph.org/index.php/Michel_Bret
 
-http://www.ati-paris8.fr/index.php?page=historique&lang=fr
+- présentation du parcours de Marie-Hélène Tramus : http://histoire3d.siggraph.org/index.php/Marie-H%C3%A9l%C3%A8ne_Tramus
 
-- une rétrospective des travaux de Michel Bret :
+- présentation de la formation ATI Paris 8 : http://www.ati-paris8.fr/index.php?page=historique&lang=fr
 
-http://www.archives-video.univ-paris8.fr/bret_sommaire.php
+- rétrospective des travaux de Michel Bret : http://www.archives-video.univ-paris8.fr/bret_sommaire.php
 
-- quelques liens complémentaires pour en savoir plus :
-
-https://fr.wikipedia.org/wiki/Michel_Bret
-http://histoire3d.siggraph.org/index.php/Marie-H%C3%A9l%C3%A8ne_Tramus
 
 ------------------------
 
@@ -73,15 +74,15 @@ http://facebook.com/FlorianRouzaudCornabasArt
 
 ## Stanislas Marçais, alias Stan Le Punk 
 
-Stan porte la double casquette de graphiste et d'artiste codeur. Inspiré par le thème "Générateur de monde", Stan a développé un générateur de ville. L'application se compose d'un générateur de bâtiments, bâtiment qui sont répartis sur une carte dessinée par un algorithme "cartographe", ce dernier assurant le rôle de l'urbaniste. Application visuelle développée en Processing.
+Stan porte la double casquette de graphiste et d'artiste codeur. Inspiré par le thème "Générateur de monde", Stan a développé un générateur de ville. L'application se compose d'un générateur de bâtiments, bâtiments qui sont répartis sur une carte dessinée par un algorithme "cartographe", ce dernier assurant le rôle de l'urbaniste. 
 
-Quelques liens pour découvrir le travail de Stan :
+Application visuelle développée en Processing.
 
-http://stanlepunk.xyz 
+Quelques liens pour découvrir le travail de Stan : http://stanlepunk.xyz 
 
-Le code source du générateur de monde de Stan se trouve ici :
+Le code source du générateur de monde de Stan se trouve ici : https://github.com/StanLepunK/Monde
 
-https://github.com/StanLepunK/Monde
+A noter que Stan est le créateur du framework Romanesco pour Processing, que vous pouvez télécharger ici : https://github.com/StanLepunK/ROMANESCO-Processing
 
 
 ---------------------------------
@@ -90,13 +91,13 @@ https://github.com/StanLepunK/Monde
 
 Grégory a eu envie d'explorer le thème de la "perte d'identité", qu'il avait lui même proposé, inspiré par la lecture d'un roman de Philip K. Dick, "Substance mort" (titre original : "A scanner darkly"). 
 
-A partir d'une photo de Ninja (son chat), Grégory s'est amusé à développer une histoire dans laquelle Ninja, quelque peu déprimé, souffirait de troubles de la personnalité. 
-Cette histoire capilotractée était un prétexte utilisé par Grégory pour réexplorer de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript récentes (comme par exemple les Promises pour le chargement asynchrone des images). 
-Grégory en a profité pour glisser un clin d'oeil à un autre thème des "code kitchen" : générateur de monde. Pour cela, il a utilisé la photo de Ninja pour générer une sorte de paysage 3D (composé de cylindres verticaux de longueur variables) via le framework AFrame (framework dédié à la VR).
+A partir d'une photo de Ninja (son chat), Grégory s'est amusé à développer une histoire dans laquelle Ninja, quelque peu déprimé, souffirait de troubles de la personnalité (rassurez-vous, Ninja va très bien). 
 
-Lien vers le dépôt github du projet :
+Cette histoire capilotractée était un prétexte utilisé par Grégory pour réexplorer de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript récentes.
 
-https://github.com/gregja/ninjaOnMeetup
+Grégory en a profité pour glisser un clin d'oeil à un autre thème des "code kitchen" : générateur de monde. Pour cela, il a utilisé la photo de Ninja pour générer un paysage 3D via le framework AFrame (framework dédié à la VR).
+
+Lien vers le dépôt github du projet (dans lequel vous trouverez une description détaillée des techniques utilisées) : https://github.com/gregja/ninjaOnMeetup
 
 
 ------------------------
@@ -112,19 +113,25 @@ Le principe de l'installation est d'exploiter les ondes alpha du cerveau, via un
 
 ## Antoine Zanuttini 
 
-Antoine a réalisé deux animations - de type shaders - qu'il a programmées en GLSL en utilisant une technique de rendu qui porte le nom de "ray marching". 
+Très intéressé par le thème "Générateur de monde", Antoine nous a présenté deux animations 3D. 
 
-Pour la première animation, Antoine a tiré son inspiration d'un roman de science-fiction d'Arthur C. Clarke, qui s'intitule "Rama" (paru en 1973). Ce roman raconte l'histoire d'un immense vaisseau cylindrique d'origine inconnue, qui pénètre dans le Système solaire au XXIIe siècle. Antoine a conservé l'idée du vaisseau pour créer une sorte de tunnel constitué de triangles. Les couleurs retenues par Antoine, ainsi que l'échelle et l'étrangeté de la structure, nous transmettent une délicieuse sensation de vertige. 
+Pour la première animation, Antoine a tiré son inspiration d'un roman de science-fiction d'Arthur C. Clarke, qui s'intitule "Rama" (publié en 1973). Ce roman raconte l'histoire d'un immense vaisseau cylindrique d'origine inconnue, qui pénètre dans le Système solaire au XXIIe siècle. Antoine a conservé l'idée du vaisseau pour créer un tunnel constitué de structures triangulaires, tunnel dans lequel la caméra se déplace. 
 
-Pour la seconde animation, Antoine a créé un paysage étrange parcouru de faisceaux lasers qui se comportent comme des portails vers un autre monde. Comme si deux mondes parallèles coexistaient dans un même espace mais dans des dimensions différentes, et que les faisceaux lasers nous révélaient deux réalités différentes. L'effet est difficile à décrire, mais il est enthousiasmant.
+Pour la seconde animation, Antoine a créé un paysage étrange quadrillé de faisceaux rougeoyants qui se déplacent et laissent apparaître à chaque passage... un autre paysage. Comme si deux mondes parallèles coexistaient dans un même espace mais dans des dimensions différentes, et que les faisceaux nous laissaient entrevoir ces deux réalités différentes. L'effet est difficile à décrire, mais il est enthousiasmant.
 
-Quelques liens complémentaires sur les activités d'Antoine :
+Antoine a créé ces images animées en "live coding" grâce au "raymarching", une technique proche du raytracing. En utilisant le GLSL, un language prévu pour la carte graphique, il est possible de créer des formes 3D à partir de formules mathématiques simples qui se combinent pour donner une infinité de possibilités. Pas de maillages ou de vertex ici, uniquement le calcul, pour chaque pixel, de sa collision avec la surface décrite. La technique du "raymarching" permet ainsi de créer rapidement, avec très peu de code, des scenes procédurales intéressantes visuellement.
 
-- son portail sur itch, sur lequel on peut ses travaux les plus récents
-https://nusan.itch.io/
+Le portail d'Antoine sur lequel on peut voir ses travaux les plus récents : https://nusan.itch.io/
 
-- sa chaîne youtube sur laquelle il présente des expériences de live coding:
-https://www.youtube.com/channel/UCdiiD1ukw39XTRj9h6LKCeQ
+La chaîne twitch ou Antoine crée en live chaque lundi soir (21h): https://www.twitch.tv/nusan_fx
+
+Les vods de ces lives: https://www.youtube.com/channel/UCdiiD1ukw39XTRj9h6LKCeQ
+
+Pour débuter en language GLSL: https://thebookofshaders.com/
+
+Pour en apprendre plus sur la technique du raymarching: https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg
+
+Et le site principal pour découvrir de belles choses faites avec ce type de techniques: https://www.shadertoy.com
 
 
 ---------------------------
