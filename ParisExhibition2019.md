@@ -21,7 +21,8 @@ Plusieurs personnes ont répondu à l'appel, dont voici la liste :
 - Erwan Boehm
 
 Une première série de photos, prises durant la soirée, a été postée sur la page de l'événement (d'autres devraient suivre prochainement) :
-https://www.meetup.com/fr-FR/CreativeCodeParis/events/258155818/
+
+https://www.meetup.com/fr-FR/CreativeCodeParis/photos/30138860/482999120/?photoId=482999120&photoAlbumId=30138860
 
 Vous trouverez ci-dessous un descriptif des travaux présentés durant la soirée. Bonne lecture.
 
@@ -93,7 +94,7 @@ Grégory a eu envie d'explorer le thème de la "perte d'identité", qu'il avait 
 
 A partir d'une photo de Ninja (son chat), Grégory s'est amusé à développer une histoire dans laquelle Ninja, quelque peu déprimé, souffirait de troubles de la personnalité (rassurez-vous, Ninja va très bien). 
 
-Cette histoire capilotractée était un prétexte utilisé par Grégory pour réexplorer de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript récentes.
+Cette histoire capilotractée était un prétexte pour réexplorer de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript récentes.
 
 Grégory en a profité pour glisser un clin d'oeil à un autre thème des "code kitchen" : générateur de monde. Pour cela, il a utilisé la photo de Ninja pour générer un paysage 3D via le framework AFrame (framework dédié à la VR).
 
