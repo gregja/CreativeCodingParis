@@ -107,6 +107,14 @@ Lien vers le dépôt github du projet (dans lequel vous trouverez une descriptio
 BrainArt est une installation à la frontière entre art et science basée sur les neurosciences, dans laquelle l’activité cérébrale contrôle en temps réel musique et image, pour créer une performance audiovisuelle unique .
 
 Le principe de l'installation est d'exploiter les ondes alpha du cerveau, via un casque spécial capable de capter ces ondes. 
+Le casque c'est le Melomind de myBrain Technologies.
+Le graphique c'est du processing  avec un surcouche en Scala.
+Le son c'est un synthétiseur logiciel qui s'appelle Equator de Roli, synthé qui a la particularité de gérer le protocole MPE (Multidimensional Polyphonic Expression).
+Le casque envoie les informations en bluetooth au téléphone de Fred, qui traite ces informations, puis extrait quelques features qui sont ensuite transmis en OSC à son ordinateur.
+Sur l'ordinateur, une application génère des message MIDI (Note, CC, Channel Pressure) à partir des features.
+Ces messages sont interprétés pour générer du son par le synthétiseur et du visuel via l'API de processing. 
+
+Le portail de Fred, point d'entrée vers ses différents projets : http://www.naikyworld.com/
 
 
 --------------------------------
