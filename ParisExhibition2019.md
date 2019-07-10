@@ -28,8 +28,8 @@ Vous trouverez ci-dessous un descriptif des travaux présentés durant la soiré
 
 -----------------------------
 
-## Attracteur de rêve - Michel Bret et Marie-Hélène Tramus
-Installation artistique interactive
+## Michel Bret et Marie-Hélène Tramus 
+Attracteur de rêve, installation artistique interactive
 
 Nous n'avons pas si souvent l'occasion, à CreativeCodeParis, de rencontrer des pionniers de l'image de synthèse.
 C'est pourtant bien ce qui nous est arrivé en novembre 2018, quand Michel Bret et Marie-Hélène Tramus sont venus participer à notre première soirée "code kitchen".
