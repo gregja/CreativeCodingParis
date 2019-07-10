@@ -8,7 +8,7 @@ De septembre 2018 à mai 2019, au meetup CreativeCodeParis, nous avons organisé
 
 Nous avions pour objectif d'organiser en juin 2019 une exposition des travaux réalisés durant les "code kitchen", et nous avons réalisé cette exposition le jeudi 20 juin, à la Folie Numérique.
 
-Pour cette dernière soirée de la saison, nous avons donc invité les participant(e)s des "codes kitchen" à venir présenter les travaux qu'ils avaient réalisés durant ces soirées.
+Pour cette dernière soirée de la saison, nous avons donc invité les participant(e)s des "codes kitchen" à venir présenter les travaux qu'ils/elles avaient réalisés durant ces soirées.
 
 Plusieurs personnes ont répondu à l'appel, dont voici la liste :
 
