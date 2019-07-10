@@ -142,6 +142,8 @@ Pour en apprendre plus sur la technique du raymarching: https://www.youtube.com/
 
 Et le site principal pour découvrir de belles choses faites avec ce type de techniques: https://www.shadertoy.com
 
+A noter que Antoine utilise l'éditeur de code Bonzomatic, pour ses expériences de live coding GLSL.
+
 
 ---------------------------
 
