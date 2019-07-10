@@ -94,11 +94,11 @@ Grégory a eu envie d'explorer le thème de la "perte d'identité", qu'il avait 
 
 A partir d'une photo de Ninja (son chat), Grégory s'est amusé à développer une histoire dans laquelle Ninja, quelque peu déprimé, souffirait de troubles de la personnalité (rassurez-vous, Ninja va très bien). 
 
-Cette histoire capilotractée était un prétexte pour réexplorer de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript récentes.
+Cette histoire capilotractée était un prétexte pour revisiter de vieux algorithmes de traitement d'image, en les associant à l'API Canvas 2D et à des techniques Javascript modernes.
 
-Grégory en a profité pour glisser un clin d'oeil à un autre thème des "code kitchen" : générateur de monde. Pour cela, il a utilisé la photo de Ninja pour générer un paysage 3D via le framework AFrame (framework dédié à la VR).
+Il en a profité pour glisser un clin d'oeil à un autre thème des "code kitchen" : "générateur de monde". Pour cela, il a utilisé la photo de Ninja pour générer un paysage 3D via le framework AFrame (framework dédié à la VR).
 
-Lien vers le dépôt github du projet (dans lequel vous trouverez une description détaillée des techniques utilisées) : https://github.com/gregja/ninjaOnMeetup
+Lien vers le dépôt github du projet (dans lequel vous trouverez une description assez détaillée des techniques utilisées) : https://github.com/gregja/ninjaOnMeetup
 
 
 ------------------------
