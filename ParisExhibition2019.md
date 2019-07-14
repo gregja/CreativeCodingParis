@@ -47,7 +47,7 @@ Voici quelques liens concernant Michel Bret et Marie-Hélène Tramus :
 
 - présentation du parcours de Marie-Hélène Tramus : http://histoire3d.siggraph.org/index.php/Marie-H%C3%A9l%C3%A8ne_Tramus
 
-- présentation de la formation ATI Paris 8 (mise en place par Michel et Marie-Hélène) : http://www.ati-paris8.fr/index.php?page=historique&lang=fr
+- présentation de la formation ATI Paris 8 : http://www.ati-paris8.fr/index.php?page=historique&lang=fr
 
 - rétrospective des travaux de Michel Bret : http://www.archives-video.univ-paris8.fr/bret_sommaire.php
 
