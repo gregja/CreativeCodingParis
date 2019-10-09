@@ -3,9 +3,40 @@ recensement des présentations réalisées dans le cadre du meetup CreativeCodeP
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
-Attention, cette liste a été modifiée en octobre 2017, les soirées sont depuis triées par date décroissante.
+Attention, la liste des événements est triée par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
+
+
+# Anyflo, Babylon.js, musique générative et opérades 
+### jeudi 19 septembre 2019
+
+1er talk animé par Samuele Giraudo, enseignant-chercheur en informatique et mathématique : "Génération aléatoire de motifs musicaux et opérades"
+
+À partir d'un modèle simple mais suffisamment général pour représenter des phrases musicales, nous décrivons un algorithme pour générer des phrases de manière aléatoire. Celui-ci accepte en entrée des motifs courts et, en les composant selon certaines règles, construit un morceau dont certaines particularités des motifs de départ se retrouvent. On obtient ainsi, même à partir de motifs simples, des idées pour créer des riffs, des segments de musiques minimaliste ou encore des morceaux complets évoquant l'époque de la musique 8-bits. Ceci se base sur les opérades, des objets issus des mathématiques et de l'informatique, des
+opérades colorées et des grammaires à bourgeons. Nous nous concentrerons ici sur l'aspect algorithmique en commençant par le modèle le plus simple (motifs monophoniques avec rythme trivial) pour finir avec le plus riche (motifs polyphoniques avec motifs rythmiques arbitraires).
+
+Les diapos de Samuele sont accessibles ici
+https://igm.univ-mlv.fr/~giraudo/Exposes/MusicOp.pdf
+et les extraits sonores là
+https://igm.univ-mlv.fr/~giraudo/Exposes/Samples.zip
+
+
+2ème talk animé par Valentin Pichard : "BabylonJS Session1: Vis ma vie de dev indé."
+
+Créé en 2016 par David Catuhe le moteur est aujourd'hui une référence dans la création 3D Web notamment grâce à sa très large communauté. Lors de cette première session nous allons faire le tour des possibilités qu'offre le moteur. Pour cela quoi de mieux que de déconstruire un jeu vidéo basé sur BabylonJS ci nommé Wazana.io? Mesh, Matériaux, Textures, Particules, PostProcess, tout y passe! Couche après couche (pas les Pampers), venez découvrir comment BabylonJS offre une infinité d'opportunités créatives.
+
+Quelques ressources relative à la présentation de Valentin :
+- Le jeu que je vous ai présenté https://wazana.io/
+- Les outils que je développe https://naker.io
+
+
+3ème talk animé par Michel Bret : "introduction au logiciel Anyflo"
+
+Anyflo est un système de génération d'images 3D interactives en temps réel développé par Michel Bret depuis près de 40 ans. Il se compose d'un langage (et donc d'un compilateur), sur le modèle du C mais plus simple et plus permissif, ne nécessitant que des compétences limitées en programmation. Très général il a pu intégrer sans difficultés les principaux concepts de la vie artificielle (réseaux neuronaux, algorithmes génétiques, ...). De nombreux films, vidéos et installations interactives ont été produits avec ce système qui est en téléchargement libre et gratuit sur le site anyflo.com
+
+Le site officiel du logiciel Anyflo :
+http://www.anyflo.com/
 
 
 # Créative Code paris Exhibition à la Folie Numérique 
