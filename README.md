@@ -16,10 +16,8 @@ Prenez le temps de consulter le fichier "books and links" dans lequel nous avons
 À partir d'un modèle simple mais suffisamment général pour représenter des phrases musicales, nous décrivons un algorithme pour générer des phrases de manière aléatoire. Celui-ci accepte en entrée des motifs courts et, en les composant selon certaines règles, construit un morceau dont certaines particularités des motifs de départ se retrouvent. On obtient ainsi, même à partir de motifs simples, des idées pour créer des riffs, des segments de musiques minimaliste ou encore des morceaux complets évoquant l'époque de la musique 8-bits. Ceci se base sur les opérades, des objets issus des mathématiques et de l'informatique, des
 opérades colorées et des grammaires à bourgeons. Nous nous concentrerons ici sur l'aspect algorithmique en commençant par le modèle le plus simple (motifs monophoniques avec rythme trivial) pour finir avec le plus riche (motifs polyphoniques avec motifs rythmiques arbitraires).
 
-Les diapos de Samuele sont accessibles ici
-https://igm.univ-mlv.fr/~giraudo/Exposes/MusicOp.pdf
-et les extraits sonores là
-https://igm.univ-mlv.fr/~giraudo/Exposes/Samples.zip
+- Le slide de Samuele : https://igm.univ-mlv.fr/~giraudo/Exposes/MusicOp.pdf
+- les extraits sonores : https://igm.univ-mlv.fr/~giraudo/Exposes/Samples.zip
 
 
 2ème talk animé par Valentin Pichard : "BabylonJS Session1: Vis ma vie de dev indé."
