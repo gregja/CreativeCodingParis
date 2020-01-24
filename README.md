@@ -29,10 +29,9 @@ La dernière création de Florent, "Les corps mécaniques", est un projet de spe
 
 https://florentcolautti.net/
 
-Vous pouvez découvrir une partie du travail de Florent grâce à une série d'émissions diffusée en décembre sur France Musique :
+Vous pouvez découvrir l'univers musical et le travail de recherche de Florent Colautti en écoutant une série d'émissions, en 5 parties, qui a été diffusée en décembre 2019 sur France Musique. Cette série est réécoutable dans son intégralité via cette page du site de France Musique :
 
 https://frama.link/cBgCKHZT
-
 
 
 # Code Kitchen à la Folie Numérique # 2 
