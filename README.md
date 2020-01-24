@@ -7,6 +7,49 @@ Attention, la liste des événements est triée par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+# Code Kitchen #3 + Gratiferia #1 
+### jeudi 23 janvier 2020
+
+Troisième code kitchen de la saison, doublée de la première gratiferia "for the geeks"
+
+
+# OAMME et autres Corps Mécaniques 
+### jeudi 16 janvier 2020
+
+Nous démarrons en beauté la nouvelle année, avec deux talks consacrés au son. Nos invités sont en effet deux "fous du son", Nicolas Canot et Florent Colautti.
+
+Nicolas Canot est compositeur, improvisateur et artiste digital installé à Reims. Il est membre du collectif Sonopopée (pépinière art et design de l’ESAD de Reims) fondateur de la nouvelles compagnie Les Transitives et artiste associé au CNCM Césaré de Reims. Nicolas présentera les objets OAMME-1 et OAMME-2 (Objets Autonomes et Mobiles de Médiation et d’Expression) conçus et réalisés en compagnie du mathématicien et informaticien Olivier Nocent et du luthier Synththomas dans le cadre du projet Tisica. Commandés par le CNCM Césaré, le CHU et l’Université et la ville de Reims, ces « instruments » de conception essentiellement numérique sont pensés pour favoriser la communication verbale on non, en sollicitant, par le toucher ou le geste, les émotions liées à la mémoire auditive ou la création sonore sans pré-requis instrumental. Ils sont destinés aux patients et soignants des EHPAD de Reims ainsi qu’aux artistes (plasticiennes, chorégraphes, compositeurs) intervenants sous forme d’ateliers réguliers auprès de groupe de patients pris en charge dans ces services.
+Ces prototypes, développés autour des plateformes Teensy / Arduino et Bela / Pure Data sont en cours de finalisation, précédant une série d’autres objets de médiation qui seront créés en 2020.
+
+https://ello.co/nicolas_canot
+
+Florent Colautti est membre du collectif d'artistes résidant à la Folie Numérique. Il développe depuis plusieurs années des pratiques mêlant musique et arts numériques. Ses créations font partie d’une démarche où le "physique" s’hybride par des protocoles numériques et électroniques. Ses recherches l’ont ainsi portées vers des procédés de lutherie contemporaine et la construction d’instruments particuliers.
+
+La dernière création de Florent, "Les corps mécaniques", est un projet de spectacle musical tendant à la fois vers l’ensemble mécanique et le théâtre d’objet. Il organise et associe diverses entités instrumentales pour proposer un registre musical large et diversifié, aux couleurs, timbres et expressivités nuancées.
+
+https://florentcolautti.net/
+
+Vous pouvez découvrir une partie du travail de Florent grâce à une série d'émissions diffusée en décembre sur France Musique :
+
+https://frama.link/cBgCKHZT
+
+
+
+# Code Kitchen à la Folie Numérique # 2 
+### jeudi 21 novembre 2019
+
+Seconde code kitchen de la nouvelle saison, sujets libres cette fois ;)
+
+
+# Code Kitchen à la Folie Numérique # 1
+### jeudi 17 octobre 2019
+
+Première code kitchen de la saison 2019-2020, avec 3 thèmes comme proposition de départ :
+- Quadrillages et distorsions
+- Gammes, trilles et altérations
+- Perception
+
+
 
 # Anyflo, Babylon.js, musique générative et opérades 
 ### jeudi 19 septembre 2019
@@ -25,8 +68,8 @@ opérades colorées et des grammaires à bourgeons. Nous nous concentrerons ici 
 Créé en 2016 par David Catuhe le moteur est aujourd'hui une référence dans la création 3D Web notamment grâce à sa très large communauté. Lors de cette première session nous allons faire le tour des possibilités qu'offre le moteur. Pour cela quoi de mieux que de déconstruire un jeu vidéo basé sur BabylonJS ci nommé Wazana.io? Mesh, Matériaux, Textures, Particules, PostProcess, tout y passe! Couche après couche (pas les Pampers), venez découvrir comment BabylonJS offre une infinité d'opportunités créatives.
 
 Quelques ressources relative à la présentation de Valentin :
-- Le jeu que je vous ai présenté https://wazana.io/
-- Les outils que je développe https://naker.io
+- Le jeu qu'il vous a présenté https://wazana.io/
+- Les outils qu'il développe https://naker.io
 
 
 3ème talk animé par Michel Bret : "introduction au logiciel Anyflo"
