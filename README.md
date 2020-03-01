@@ -20,7 +20,7 @@ Un grand merci à Alex Ruthmann qui est le commanditaire de cette rencontre, à 
 
 Le programme de l'événement étant particulièrement dense, nous l'avons regroupé sur une page distincte de ce dépôt :
 
-TODO : page en préparation 
+https://github.com/gregja/CreativeCodingParis/blob/master/ircam_event_2020-02-26.md
 
 
 
