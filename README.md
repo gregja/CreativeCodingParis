@@ -7,6 +7,51 @@ Attention, la liste des événements est triée par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
 
+
+
+# Creative Music Technologies for Learning and Play Meetup @Ircam 
+### mercredi 26 février 2020
+
+Un événement exceptionnel organisé par l'IRCAM et auquel CreativeCodeParis a été invité à participer.
+
+L'événement s'est déroulé de 10 à 13 heures, dans l'auditorium de l'IRCAM, et a réuni un grand nombre d'intervenants sur le thème du coding pour le jeu et l'apprentissage musical.
+
+Un grand merci à Alex Ruthmann qui est le commanditaire de cette rencontre, à Emilie Zawadzki, qui a coordonné l'événement de main de maître, à Guillaume Pellerin, grand magicien de l'API WebAudio et organisateur du meetup ParisAudio, et à toute l'équipe de l'IRCAM qui nous accueilli avec beaucoup de gentillesse.
+
+Le programme de l'événement étant particulièrement dense, nous l'avons regroupé sur une page distincte de ce dépôt :
+
+TODO : page en préparation 
+
+
+
+# Soirée spéciale Fous du Son 
+### jeudi 20 février 2020
+
+Nous vous proposons une nouvelle soirée dont le contenu devrait ravir les musiciens, les sound designers et les passionnés de prise de son.
+
+Nous démarrerons avec Sébastien Gulluni qui nous présentera le logiciel VCV Rack.
+VCV Rack est un synthétiseur modulaire analogique virtuel. Il fonctionne sur le principe de rack VCV dans lequel on place différents modules, que l'on peut relier les uns aux autres via des câbles virtuels.
+Sébastien, qui est compositeur et sound designer, est un véritable spécialiste de ce logiciel, dont il nous présentera les principales caractéristiques. En attendant de le rencontrer, vous pouvez découvrir l'univers musical de Sébastien sur son site :
+
+http://sebastiengulluni.com
+
+Nous enchaînerons avec Marielle Martin, qui est co-animatrice du meetup "Workshops Ableton Live & Co (78)".
+Dans le cadre d'un atelier réalisé le 19 janvier, nos amis ont mené différentes expériences sur l'enregistrement de la voix.
+Comment se préparer à une session d’enregistrement de voix ? Comment placer le micro, régler le gain, le casque, … ?
+Marielle nous délivrera mille et un bons conseils pour optimiser une session de recording avec des chanteurs et obtenir leurs meilleures performances vocales.
+
+https://www.meetup.com/fr-FR/Workshops-Ableton-Live-Co-78/
+
+Nous terminerons avec Grégory, qui nous présentera le "Pipe" (prononcez "païpe"). Sorti tout récemment des ateliers du SOMA Laboratory, le Pipe est un synthétiseur et processeur d'effets dynamiques contrôlé par la voix, le souffle et la bouche.
+On peut également l'utiliser comme une pédale d'effet en le reliant à d'autres instruments (par exemple sax ou clarinette). Venez découvrir les sonorités hors norme de cette drôle de pipe.
+
+NB : la prez de Grégory est disponible dans ce dépôt (aux formats ODP et PDF) :
+
+https://github.com/gregja/PipePrez
+
+(par rapport à la prez présentée en live, Grégory a ajouté quelques infos sur le raccordement de la clarinette avec le Pipe, via un micro piézoélectrique, le Piezobarrel)
+
+
 # Code Kitchen #3 + Gratiferia #1 
 ### jeudi 23 janvier 2020
 
