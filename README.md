@@ -42,6 +42,10 @@ Marielle nous délivrera mille et un bons conseils pour optimiser une session de
 
 https://www.meetup.com/fr-FR/Workshops-Ableton-Live-Co-78/
 
+Lien vers la présentation de Marielle :
+
+https://github.com/gregja/CreativeCodingParis/blob/master/l_enregistrement_des_voix.pdf
+
 Nous terminerons avec Grégory, qui nous présentera le "Pipe" (prononcez "païpe"). Sorti tout récemment des ateliers du SOMA Laboratory, le Pipe est un synthétiseur et processeur d'effets dynamiques contrôlé par la voix, le souffle et la bouche.
 On peut également l'utiliser comme une pédale d'effet en le reliant à d'autres instruments (par exemple sax ou clarinette). Venez découvrir les sonorités hors norme de cette drôle de pipe.
 
