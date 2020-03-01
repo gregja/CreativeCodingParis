@@ -14,6 +14,10 @@ The event took place from 10 am to 1 pm, in the IRCAM auditorium, and brought to
 
 Big thanks to Alex Ruthmann, who is the initiator of the meeting, to Emilie Zawadzki, who coordinated the event with a master's hand, to Guillaume Pellerin, great magician of the WebAudio API and organizer of the ParisAudio meetup, and to all the IRCAM team who greeted us with great kindness.
 
+Link to the meetup partner ParisAudio :
+
+https://www.meetup.com/fr-FR/Paris-Audio/
+
 The event was live streamed on : 
 
 http://video.ircam.fr/
