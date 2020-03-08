@@ -55,6 +55,10 @@ https://github.com/gregja/PipePrez
 
 (par rapport à la prez présentée en live, Grégory a ajouté quelques infos sur le raccordement de la clarinette avec le Pipe, via un micro piézoélectrique, le Piezobarrel)
 
+une petite compilation de séquences improvisées enregistrées par Grégory après le meetup, pour donner un tout petit aperçu des possibilités du "Pipe" :
+
+https://soundcloud.com/user-523981428/when-a-geek-meets-a-pipe
+
 
 # Code Kitchen #3 + Gratiferia #1 
 ### jeudi 23 janvier 2020
