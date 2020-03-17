@@ -14,7 +14,7 @@ Alors nous vous proposons un tour d'horizon de sites pour :
 
 - vous procurer de bons bouquins, de préférence en version numérique (PDF ou autre)
 
-- vous former, apprendre de nouvelles techniques, ou vous perfectionner
+- vous former en ligne, apprendre de nouvelles techniques, ou vous perfectionner
 
 Beaucoup des ressources les plus récentes en matière de creative coding sont en anglais, mais il y a quelques exceptions, 
 et si nous en débusquons de nouvelles dans les jours et les semaines qui viennent, nous mettrons à jour cette page.
