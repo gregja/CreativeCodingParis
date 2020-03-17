@@ -280,7 +280,7 @@ Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut disc
 ## Quelques bonnes ressources en vrac :
 
 - Le livre "Generative Art" de Matt Pearson  :  
-    - http://zenbullets.com/book.php
+    - https://www.amazon.co.uk/exec/obidos/ASIN/1935182625/britishfilmre-21
 
 - Le livre "Nature of Code", de Daniel Shiffman : 
     - http://natureofcode.com/
@@ -294,7 +294,7 @@ Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut disc
 - Michel Bret, est un pionnier de l'image de synthèse en France, nous avons eu le plaisir de le recevoir à CreativeCodeParis. Il a développé Anyflo, un logiciel dédié à la création d'images 3D et de mondes virtuels, que l'on peut télécharger librement sur son site. Il met aussi à disposition gratuitement un certain nombre de cours qu'il a dispensés à l'Université Paris 8, vous pouvez les consulter ici :
      - http://www.anyflo.com/bret/cours/cours.htm
 
-- pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths :
+- pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths, pour le retraduire en code :
      - https://github.com/Jam3/math-as-code/
 
 
