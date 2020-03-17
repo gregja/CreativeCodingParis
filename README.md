@@ -6,7 +6,9 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 Attention, la liste des événements est triée par date décroissante.
 Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
+Pensez à consulter notre liste de ressources (livres et MOOC) sur cette page :
 
+https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
 
 
 # Creative Music Technologies for Learning and Play Meetup @Ircam 
