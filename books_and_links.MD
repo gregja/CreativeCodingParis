@@ -290,7 +290,7 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 
 ## Quelques bonnes ressources en vrac :
 
-- Le livre "Generative gestaltung", rédigé par un collectifs d'artistes allemands, est une référence dans le monde du Processing. Il vient d'être réédité dans une nouvelle version mouture adaptée à P5.js et au web :
+- Le livre "Generative gestaltung", rédigé par un collectifs d'artistes allemands, est une référence dans le monde du Processing. Il vient d'être réédité dans une nouvelle version adaptée à P5.js et au web :
    - http://www.generative-gestaltung.de/
 
 - Michel Bret, est un pionnier de l'image de synthèse en France, nous avons eu le plaisir de le recevoir à CreativeCodeParis. Il a développé Anyflo, un logiciel dédié à la création d'images 3D et de mondes virtuels, que l'on peut télécharger librement sur son site. Il met aussi à disposition gratuitement un certain nombre de cours qu'il a dispensés à l'Université Paris 8, vous pouvez les consulter ici :
