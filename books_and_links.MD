@@ -1,88 +1,248 @@
-Petit répertoire de liens intéressants, dont certains ont été évoqués dans le cadre du meetup CreativeCodeParis :
+# Ressources documentaires pour les "creative coders" 
+
+### Petite sélection de ressources documentaires pour les membres du meetup CreativeCodeParis :
+
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 
 ---
 
-Quelques livres en anglais consacrés à la programmation du son 
+A l'heure où le Covid-19 se répand et où nous devons rester confinés pour protéger autant que possible notre entourage,
+une mise à jour de cette page s'impose. 
 
-- Programming for Musicians and Digital Artists 
-  - https://www.manning.com/books/programming-for-musicians-and-digital-artists
-  (livre consacré à la synthèse sonore, avec le logiciel Chuck, mais les concepts peuvent s'appliquer à d'autres systèmes)
+Alors nous vous proposons un tour d'horizon de sites pour :
 
-- Real Sound Synthesis for Interactive Applications (by Perry R. Cook, 2002)
-  - https://www.cs.princeton.edu/~prc/AKPetersBook.htm
+- vous procurer de bons bouquins, de préférence en version numérique (PDF ou autre)
 
-- Made: Analog Synthesizers (by Ray Wilson), Ed Maker Media
+- vous former, apprendre de nouvelles techniques, ou vous perfectionner
 
-- Welsh's Synthesizer Cookbook (by Fred Welsh)
+Beaucoup des ressources les plus récentes en matière de creative coding sont en anglais, mais il y a quelques exceptions, 
+et si nous en débusquons de nouvelles dans les jours et les semaines qui viennent, nous mettrons à jour cette page.
 
-- un Floss Manual sur Chuck (en anglais et en cours d'écriture) : 
-  - http://write.flossmanuals.net/chuck/
+Si vous avez un compte Github, pensez à sélectionner l'option "watch" en haut de cette page, histoire d'être tenu au courant des mises à jour qui pourraient intervenir sur cette page.
 
-- un Floss Manual sur CSound (en anglais et en cours d'écriture) : 
-  - http://write.flossmanuals.net/csound/
+Et puisque nous sommes tous dans une phase de questionnement par rapport à notre époque, et à ce que nous aimerions faire par la suite, nous vous proposerons aussi quelques pistes de lecture, qui ne sont pas en lien avec le creative coding, mais qui pourraient vous inspirer dans vos projets créatifs (notamment quelques essais de sociologues). 
+
+Oui décidément, cette page avait besoin d'un gros dépoussiérage.
+Alors c'est parti.
+
+---
+
+Tout d'abord, si vous recherchez un ouvrage en français, nous vous recommandons la plateforme de libraires indépendants "Place des libraires", sur laquelle nous espérons que vous trouverez votre bonheur. Cette plateforme offre la possibilité d'acheter les ouvrages en format numérique :
+
+https://www.placedeslibraires.fr/
+
+A notre connaissance, les deux éditeurs français proposant des ouvrages sur la programmation sont Eyrolles et Dunod. Eyrolles a intégré à son catalogue, en les traduisant, quelques ouvrages pour le creative coding de l'éditeur NoStarch, nous y reviendrons par la suite.
 
 
 ---
 
-Quelques livres en français traitent des fondamentaux du son, et notamment du son électronique.
-Certains de ces livres sont anciens, et malheureusement épuisés, mais on peut les trouver d'occase. 
-A noter que le livre de John R. Pierce est excellent, il traite de la théorie du son, tout en donnant beaucoup de références historiques. Il est regrettable qu'il soit aujourd'hui épuisé. 
+Si vous recherchez des ouvrages sur la programmation et le creative coding, et qu'ils n'existent pas en version française, voici une liste d'éditeurs en langue anglaise qu'on aime bien à CreativeCodeParis. Nous avons privilégié dans cette sélection des éditeurs qui proposent des ouvrages en version numérique, dans différents formats (PDF, Epub, etc.) et sans DRM. Nous sommes plusieurs, à CreativeCodeParis, à nous approvisionner sur ces plateformes pour notre veille techno et notre formation personnelle.
 
-- Le son musical (musique, acoustique et informatique), de John R. Pierce (Ed. Pour La Science/Belin, 1983, épuisé)
+Attention, quel que soit l'ouvrage retenant votre attention, nous vous conseillons de toujours vérifier sa date de publication. Les technologies évoluent vite, et un livre publié il y a 4 ou 5 ans peut très bien être obsolète. Donc si vous hésitez entre deux livres aux contenus proches, il est peut être préférable de sélectionner celui qui a la date de parution la plus récente. 
 
-- Commodore 64, Tout faire sur votre ordinateur, de Tim Onosko (InterEditions, 1984, épuisé)
- (contient un chapitre très intéressant sur les bases du son, qui peut s'appliquer à différents 
- systèmes)
- 
-- Les synthétiseurs, une nouvelle lutherie, de Claude Gendre (Editions Fréquences, 1985, épuisé) 
+Ce dernier conseil est à prendre avec précaution, car certains livres plus anciens, même s'ils ne sont pas à jour par rapport à une technologie donnée, peuvent regorger d'astuces et de bonnes idées à côté desquelles il serait dommage de passer (on pense par exemple à des ouvrages consacrés à Processing 2 proposés par Packt Publishing).
+
+Il y a aussi d'excellents ouvrages consacrés à ActionScript - la version de Javascript intégrée dans Flash, plus guère utilisée aujourd'hui - qui fourmillent de bonnes idées qui peuvent être reprises en Javascript ou sur d'autres langages. Comme par exemple l'ouvrage "Flash Math Creativity" disponible chez Apress.
+
+---
+
+## Editeur n° 1 : Packt Publishing  
+
+https://www.packtpub.com/
+
+Chez Packt Publising, vous trouverez plusieurs livres sur Javascript, Webgl, OpenGL, ThreeJS, un livre sur BabylonJS, deux livres sur Processing 2 (certes un peu anciens mais contenant de bonnes idées à adapter sur Processing 3 ou sur d'autres outils), des livres sur le "machine learning", le "natural language processing", des livres sur Unreal, Unity, le "Game Programming", etc.
+
+Et vous y trouverez aussi un ouvrage, paru en janvier 2020 et écrit par un de nos membres, Alexandre Dubreuil. Cet ouvrage est consacré à Magenta, un outil basé sur Tensorflow et dédié à la musique générative :
+
+https://www.packtpub.com/data/hands-on-music-generation-with-magenta
+
+Alexandre viendra nous parler de ses travaux sur Magenta, et de son livre, lorsque nous reprendrons les meetups, une fois l'épidémie de Covid-19 terminée. 
+
+---
+
+## Editeur n° 2 : NoStarch
+
+https://nostarch.com/
+
+NoStarch a à son catalogue plusieurs ouvrages pour s'initier à la programmation, s'adressant à différentes tranches d'âge. On y trouve des livres consacrés à Scratch, à Minecraft, etc.
+
+Plusieurs des livres de NoStarch ont été traduits en français. Par exemple, l'excellent livre "Javascript for kids" de Nick Morgan, a été traduit chez Eyrolles sous le titre "Javascript pour les kids" (vous pouvez le commander sur le site "Place des Libraires" cité plus haut). Si vous n'êtes pas sûr de la manière dont un titre a pu être traduit en français, faites une recherche avec le nom de l'auteur, c'est plus sûr.
+
+---
+
+## Editeur n° 3 : Manning 
+
+https://www.manning.com/
+
+Moins d'ouvrages consacrés au Creative Coding sur ce site, mais de très bons ouvrages qui traitent de sujets qui peuvent vous être utiles dans vos projets créatifs (machine learning, deep learning, javascript, etc.).
+
+A noter que les livres estampillés MEAP sont des livres en cours d'écriture, que vous pouvez commander et recevoir dans leurs versions partielles tout en bénéficiant de mises à jour plus ou moins régulières (une version définitive est mise à votre disposition sur la plateforme de l'éditeur lorsque le livre est terminé). C'est une approche intéressante si vous avez besoin de vous former sur une techno émergente pour laquelle il existe peu de documentation. 
+
+Un ouvrage un peu à part (par rapport aux thèmes habituels de l'éditeur), c'est "Programming for Musicians and Digital Artists". C'est un livre consacré à la synthèse sonore, et dédié à Chuck (un langage de programmation destiné à la création sonore que vous pouvez télécharger sur https://chuck.cs.princeton.edu/ )
 
 --- 
 
-Autre ouvrage, récent celui-là, qui contient des chapitres intéressants sur la théorie musicale et les bases du son (attention, il ne traite pas du son électronique) :
+## Editeur n° 4 : Leanpub
 
-- Quadrivium, Nombres, Géométrie, Musique, Astronomie (éd Guy Trédaniel, 2012) 
+Un éditeur dédié aux auteurs indépendants, sur lequel vous trouverez de tout : Game programming, Javascript, etc. 
+
+A notre connaissance, le seul livre consacré à la carte son Axoloti - carte qu'on aime bien à CreativeCodeParis - se trouve sur cette plateforme: https://leanpub.com/getting-started-with-axoloti
+
+Le catalogue de Leanpub est en perpétuelle évolution, le mieux c'est d'explorer en fonction de vos centres d'intérêt.
+
+--- 
+
+## Editeur n° 5 : Manning 
+
+C'est le dernier de notre sélection d'éditeurs d'ouvrage en langue anglaise. 
+On trouve beaucoup de livres intéressants pour les "creative coders", quelquefois un peu anciens, mais qui fourmillent de bonnes idées à reprendre et à adapter, comme par exemple le livre "Flash Math Creativity" (cité plus haut), rédigé par un collectif d'artistes.
+
+Un très bon livre que l'on vous recommande aussi, c'est "Foundation Game Design with HTML5 and JavaScript", de Rex Van der Spuy (2012).
+
+A signaler enfin, un très bon livre de Keith Peters, "Foundation Actionscript 3.0 Animation", qui date de 2007. C'est un ouvrage de référence pour acquérir de bonnes bases en matière d'animation 2D en particulier (plus quelques notions de 3D). Ce livre a fait l'objet d'une adaptation au Javascript par Billy Lamberta (en 2011), sous le titre "Foundation HTML5 Animation with JavaScript" (livre également disponible au catalogue de Manning).   
+
+A noter que Keith Peters anime la chaîne Youtube CodingMath, et qu'il a publié indépendamment de Packt un ouvrage consacré à la programmation d'images fractales, "Playing with Chaos", que vous pouvez acquérir en version numérique ici : http://www.playingwithchaos.net/
+
+---
+
+Puisqu'on en est à parler (un peu) d'Actionscript, faisons un petit décrochage dans le temps.
+
+En 2002, un brillant développeur Actionscript, Robert Penner, publia chez McGrawHill l'ouvrage suivant : 
+
+"Programming Macromedia Flash MX"
+
+Ce livre est aujourd'hui épuisé, et c'est bien dommage car il est passionnant, son auteur étant un excellent pédagogue. Mais vous pouvez quand même télécharger librement le chapitre 7 du livre, qui s'intitule "Motion, Tweening, and Easing", sur la page suivante (cf. le lien "Tweening chapter of my book") :
+ 
+http://robertpenner.com/easing/
+
+Les techniques que Robert Penner décrit dans ce chapitre sont à la base des effets d'animation de frameworks Javascript comme jQuery, D3.js ou TweenMax.js (GSAP). C'est très intéressant de savoir comment ça marche, car vous pouvez réutiliser facilement ces techniques dans vos popres projets.
 
 
 ---
 
-Pour les amateurs de Pure Data :
+## Et si on parlait des MOOC ?
 
-- Un manuel Floss en français :
-  - https://boutique.flossmanualsfr.net/home/53-puredata-entier-9791090791503.html
+Car les livres en version numérique, c'est cool, mais se former seul ce n'est pas toujours facile, surtout si vous vous attaquez à un sujet qui est très nouveau pour vous.
 
-- Un très bon article de Benjamin Bouvrot sur Pure Data dans GNU/Linux Pratique (n° 107 de mai/juin 2018) :
+Pour rappel, MOOC est l'acronyme de "Massive Open Online Course", que l'on peut traduire en français par "formation en ligne ouverte à tous".
+
+Les plateformes de MOOC suivantes peuvent vous apporter une aide précieuse pour aborder toutes sortes de sujets (en lien avec le creative coding ou pas). 
+
+Voici une petite sélection de nos plateformes de MOOC préférées, à CreativeCodeParis : 
+
+- https://www.fun-mooc.fr
+- https://www.coursera.org/
+- https://www.kadenze.com/
+
+Coursera et Kadenze sont deux excellentes plateformes qui vous proposent un catalogue varié, avec des sujets autour de la programmation, des arts et de la musique. Les catalogues évoluent constamment, alors on renonce à vous proposer des liens ciblés, on préfère vous laisser découvrir, en fonction de vos centres d'intérêt respectifs. La plupart des MOOC proposés par Coursera et Kadenze peuvent être suivis gratuitement, en mode "candidat libre", si vous n'êtes pas intéressé(e)s par la délivrance d'une attestation en fin de session.
+
+La plateforme FUN-MOOC est la seule de notre sélection à proposer des MOOC en français (en plus ils sont gratuits). Elle propose des MOOC sur les maths, la physique, et sur beaucoup d'autres sujets. Voici quelques Fun-MOOC qui pourraient intéresser les "creative coders" : 
+
+- Modéliser en 3D avec FreeCAD            (ouvert jusqu'au 31 août 2020)
+- Imprimer en 3D                          (ouvert jusqu'au 31 août 2020)
+- S'initier à la fabrication numérique    (ouvert jusqu'au 31 août 2020)
+- Programmer un objet avec Arduino        (démarrre le 14 avril 2020)
+
+---
+
+Nous terminons cette page par des informations en vrac, difficilement classables, nous vous laissons le soin d'y piocher ce qui vous intéresse.
+
+---
+
+## Pure Data
+
+Pure Data est un logiciel passionnant que beaucoup de musiciens affectionnent. 
+Si vous ne connaissez pas, un petit détour par Wikipedia s'impose :
+
+https://fr.wikipedia.org/wiki/Pure_Data
+
+De nombreuses ressources existent sur internet concernant Pure Data, en voici deux :
+
+- Un manuel Floss en français (prendre de préférene la version numérique, car sur la version papier, les schémas sont imprimés trop petits et difficilement exploitables) :
+  - https://boutique.flossmanualsfr.net/accueil/35-puredata-9791090791459.html
+
+- un très bon article de Benjamin Bouvrot sur Pure Data, pulié dans GNU/Linux Pratique (n° 107 de mai/juin 2018) :
   - https://boutique.ed-diamond.com/en-kiosque/1331-linux-pratique-107.html
 
----
-
-Pour les amateurs d'Axoloti, ce livre de Jan Vantomme est un bon outil pour débuter :
-
-- https://leanpub.com/getting-started-with-axoloti
-
 
 ---
 
-Toujours pour les passionnés de son (et de norme MIDI), Les Cahiers de l'ACME - associée fondée en 1981 - publie régulièrement des dossiers consacrés au son et à la norme MIDI :
+## Les cahiers de l'ACME
+
+Pour les passionnés de son et de musique électronique, signalons l'existence de l'association "Les Cahiers de l'ACME". 
+C'est une association fondée en 1981, qui publie des dossiers et des livres (format papier uniquement) consacrés au son et à la norme MIDI :
 
 - http://cahiersacme.over-blog.com/2016/09/nos-publications.html
 
----
-
-Si vous vous intéressez à l'API WebAudio, voici quelques bonnes ressources, répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à cette API :
-   - https://hackmd.io/s/SJ6KZ_lPz#
-
-Pour info, le lien vers le meetup de la dernière session consacrée à WebAudio :
-   - https://www.meetup.com/fr-FR/La-Paillasse-Events/events/249704908/
-
-
-Toujours concernant l'API WebAudio, Alejandro (le créateur de Pizzicato.js) a répertorié cette très belle liste :
-
-  - https://github.com/alemangui/web-audio-resources
-
 
 ---
+
+## L'API WebAudio
+
+Si vous vous intéressez à l'API WebAudio, voici quelques bonnes ressources, répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à cette API : https://hackmd.io/s/SJ6KZ_lPz#
+
+La newsletter WebAudio Weekly, à laquelle vous devez IMPERATIVEMENT vous abonner (car elle est très intéressante): https://www.webaudioweekly.com/
+
+Une liste de ressources répertoriée par Alejandro, le créateur de Pizzicato.js : https://github.com/alemangui/web-audio-resources
+
+---
+
+## Processing et P5.js 
+
+Beaucoup de creative coders se sont initiés à la programmation via Processing, une plateforme de développement basée sur le langage de programmation Java.
+
+Si vous débutez dans le creative coding et ne connaissez pas bien Processing, un petit détour par Wikipedia peut être utile :
+
+https://fr.wikipedia.org/wiki/Processing
+
+Le site officiel de Processing répertorie les meilleurs livres consacrés à ce bel outil :
+
+https://www.processing.org
+
+Pour éliminer par avance tout risque de confusion, il est intéressant de noter qu'il existe deux adaptations de Processing en Javascript, les projets Processing.js et P5.js :
+
+- Processing.js : ce projet permet de coder soit intégralement en Java, soit intégralement en Javascript, ou de mixer les deux langages. Ce très beau projet a été pendant une période la seule solution pour faire fonctionner des sketchs Processing dans un navigateur (avant l'arrivé de P5.js). Processing.js est malheureusement à l'abandon depuis environ 2 ans, même s'il est encore utilisé par le site openprocessing.org pour faire fonctionner en ligne tous les sketchs Processing qui sont proposés par la communauté. 
+
+http://processingjs.org/
+
+- P5.js : c'est le projet officiel de la fondation Processing pour le portage de Processing en Javascript
+
+https://p5js.org/
+
+Voici quelques sites proposant des sketchs Processing intéressants à étudier :
+   - http://365processing.com/
+   - http://www.bit-101.com
+   - http://abandonedart.org/
+   - https://www.openprocessing.org/ 
+
+A noter un Floss Manual en français sur Processing : https://frama.link/zTXBvvMf
+
+---
+
+## Alice 
+
+Vous avez envie de vous initier à la programmation de graphisme 3D ?
+Vous avez envie de créer des mondes virtuels en 3D ?
+Vous avez envie de vous initier à la programmtion en Java ?
+
+Et si vous vous mettiez à Alice.
+
+Développé par des enseignants et chercheurs de l'Université Carnegie Mellon, Alice est un outil conçu pour s'initier à la fois à la programmation en Java et à la création et à l'animation de mondes en 3D. 
+
+Alice est multiplateforme et librement téléchargeable ici :
+
+http://www.alice.org/
+
+Le site officiel propose de nombreux tutos et ressources en ligne. Et vous pouvez vous former via un MOOC proposé sur Coursera:
+
+https://www.coursera.org/learn/introtoalice
+
+Que demande le peuple ?!?!
+
+---
+
+## L'histoire de la musique électronique 
 
 Si vous vous intéressez à l'histoire de la musique électronique, le livre "The Sound Of Innovation", consultable gratuitement en ligne, devrait vous intéresser. 
 
@@ -90,22 +250,28 @@ Si vous vous intéressez à l'histoire de la musique électronique, le livre "Th
 
 Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ailleurs les deux instituts ont collaboré étroitement à de nombreuses reprises. Pour la petite histoire, c'est au CCRMA qu'a été développée l'architecture du synthé DX7 qui sera commercialisé par Yamaha au début des années 80 (avec un succès retentissant).
 
+Si vous n'êtes pas assez à l'aise en anglais pour vous attaquer au livre du CCRMA, tout n'est pas perdu, car le très beau livre de Laurent De Wilde, "Les fous du son" (aux éditions Grasset), devrait combler votre curiosité.
+
 ---
 
+## Live coding 
+
 Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants (merci à Thomas et Alex pour ces liens):
+
 - https://toplap.org/ 
 - https://github.com/toplap/awesome-livecoding/  
 
-Alex nous précise que le Lurk de Toplap est très actif et que l'on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé Tidal Cycles.
+Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé Tidal Cycles.
+
 - https://toplap.org/toplap-on-slack/
 - https://talk.lurk.org/channel/live-coding-fr
 
 
 ---
 
-Vidéos : 
+## Quelques documentaires à voir : 
 
-- documentaire sur Steve Reich, "Phase to Face", à voir absolument : 
+- documentaire sur le compositeur Steve Reich, "Phase to Face", à voir absolument : 
 
    - https://vimeo.com/11518176
 
@@ -115,24 +281,12 @@ Vidéos :
 
 ---
 
-Quelques bonnes ressources à noter :
--  le très beau livre de Laurent De Wilde, "Les fous du son" :
-     - http://www.grasset.fr/les-fous-du-son-9782246859277
-
-- le livre de Ben Fry sur la dataviz avec Processing : 
-    - http://oreil.ly/2lHkkbM
-
-- Keith Peters, auteur de très bons livres, anime la chaîne Youtube CodingMath :
-    - https://www.youtube.com/user/codingmath
-
-- Deux très bons livres disponibles chez Apress.com :
-    - Foundation HTML5 Animation with JavaScript, de Keith Peters et Billy Lamberta (2011) 
-    - Foundation Game Design with HTML5 and JavaScript, de Rex Van der Spuy (2012)
+## Quelques bonnes ressources en vrac :
 
 - Le livre "Generative Art" de Matt Pearson  :  
     - http://zenbullets.com/book.php
 
-- Le livre "Nature of Code", de Daniel Shiffman (voir aussi le cours Kadenze.com, plus bas) : 
+- Le livre "Nature of Code", de Daniel Shiffman : 
     - http://natureofcode.com/
 
 - les vidéos de Daniel Shiffman sur la chaîne Youtube The Coding Train : 
@@ -141,6 +295,12 @@ Quelques bonnes ressources à noter :
 - Le livre "Nature in Code", de Marcel Salathe 
     - https://leanpub.com/natureincode
 
+- Michel Bret, est un pionnier de l'image de synthèse en France, nous avons eu le plaisir de le recevoir à CreativeCodeParis. Il a développé Anyflo, un logiciel dédié à la création d'images 3D et de mondes virtuels, que l'on peut télécharger librement sur son site. Il met aussi à disposition gratuitement un certain nombre de cours qu'il a dispensés à l'Université Paris 8, vous pouvez les consulter ici :
+     - http://www.anyflo.com/bret/cours/cours.htm
+
+- pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths :
+     - https://github.com/Jam3/math-as-code/
+
 
 Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017 :
 
@@ -148,64 +308,32 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 
 - Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
 
-On peut ajouter à cette liste le livre de Keith Peters, Playing with Chaos : http://www.playingwithchaos.net/
+---
 
-Et quelques livres écrits par le plus grand des Fractalistes :
-- La forme d'une vie, de Benoît Mandelbrot, Flammarion 2012
-- Les Objets Fractals : Forme, hasard et dimension, de Benoît Mandelbrot, Champs Flammarion - Science (réédité en 2010)
-- Fractales, Hasard et Finance, de Benoît Mandelbrot, Champs Flammarion 1997
+## Des livres pour repenser le monde 
+
+Et puisque nous sommes tous dans une période de questionnement, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce qui ne va pas dans notre monde actuel, et à ce qu'il faudrait changer pour que tout aille mieux.
+
+- "Du nouveau sous le soleil, Une histoire de l'environnement mondial au XXème siècle", de John R. McNeill, éd. ChampVallon / Points
+
+- "6 Le soulèvement des machines", de Alexandre Laumonier, éd Zones Sensibles / Points
+
+- "5 Retour vers le Futur", de Alexandre Laumonier, éd Zones Sensibles / Points
+
+- "Le capitalisme paradoxant, un système qui rend fou", de Vindent de Gaulejac et Fabienne Hanique, éd Seuil / Points
+
+- "La dissociété" de Jacques Généreux, éd Points Economie 
+
+- "La misère du monde", sous la direction de Pierre Bourdieu, éd Seuil, coll. « Points essais », 2007
+
+- "La domination masculine", de Pierre Bourdieu, Paris, Seuil, coll. « Liber », 1998
 
 ---
 
-Pour les amateurs de Processing : 
+Nous vous souhaitons de bonnes lectures, et de faire de belles découvertes...
+Et surtout nous vous souhaitons bon courage dans les épreuves qui s'annoncent.
+Dès que l'épidémie de Covid-19 sera derrière nous, nous organiserons de nouvelles soirées à la Folie Numérique. 
+En attendant, soyez prudents, faites attention à vous, on vous embrasse et on espère vous retrouver très bientôt.
 
-- liste de très bons livres répertoriés sur :
-   - https://www.processing.org/books/
-
-- un Floss Manual en français sur Processing :
-   - https://boutique.flossmanualsfr.net/home/13-processing-9791090791510.html
-
-- Sites de référence avec plein de sketchs à étudier :
-   - http://365processing.com/
-   - http://www.bit-101.com
-   - http://abandonedart.org/
-   - https://www.openprocessing.org/ 
-
-
----
-
-MOOCS : 
-
-- MaxMSP, by Matt Wright : 
-    - https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts/
-
-- API Webaudio, by Matthew Yee King : 
-    - https://www.futurelearn.com/courses/electronic-music-tools/
-
-- Electronic Music on Strobe2, by Loudon Stearns  : 
-    - https://www.coursera.org/learn/music-synthesizer/
-
-- Learn Processing, by Joshua Davis :
-    - https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657/
-    - https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917
-    - https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508
-
-- Dataviz with Processing, by Nicholas Felton :
-    - https://www.skillshare.com/classes/Designing-Data-Visualizations-Getting-Started-with-Processing/1063775924
-
-- The Nature of Code, by Daniel Shiffman :
-    - https://www.kadenze.com/courses/the-nature-of-code/info
-
-- Intro to programing with P5, by Lauren Mc Carthy, Casey Reas, Chandler Mc Williams
-    - https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info
-
-- De très bons MOOC autour du graphisme et du son 
-    - https://www.kadenze.com/courses/creative-programming-for-audiovisual-art-i
-    - https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists-iv-i
-    - https://www.kadenze.com/courses/loop-repetition-and-variation-in-music-v
-    - https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v
-    - https://www.kadenze.com/courses/creating-interactive-audio-applications-using-pure-data-i-i/info
-    - https://www.kadenze.com/courses/the-history-of-music-production-techniques-i/info
-    - https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv
-
+L'équipe de CreativeCodeParis
 
