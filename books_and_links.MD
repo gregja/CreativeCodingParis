@@ -302,6 +302,9 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 - un cours en ligne dédié à WebGL, créé et animé par Matt DesLauriers :
      - https://frontendmasters.com/courses/canvas-webgl/
 
+- un projet de Grégory Jarrige destiné à tester la portabilité de sketchs Processing 3D vers Processing.js et P5.js (et qui peut être utilisé pour s'initier par la même occasion à la programmation de graphisme 3D) :
+     - https://github.com/gregja/pjs3D_experiments
+
 - Un livre consultable en ligne (dans différentes langues dont le français) sur les shaders :
      - https://thebookofshaders.com/?lan=fr 
 
