@@ -108,7 +108,7 @@ A noter que Keith Peters anime la chaîne Youtube CodingMath, et qu'il a publié
 
 Puisqu'on en est à parler (un peu) d'Actionscript, faisons un petit décrochage dans le temps.
 
-En 2002, un brillant développeur Actionscript, Robert Penner, publia chez McGrawHill l'ouvrage suivant : 
+En 2002, un brillant développeur Actionscript, Robert Penner, publie chez McGrawHill l'ouvrage suivant : 
 
 "Programming Macromedia Flash MX"
 
@@ -127,9 +127,7 @@ Car les livres en version numérique, c'est cool, mais se former seul ce n'est p
 
 Pour rappel, MOOC est l'acronyme de "Massive Open Online Course", que l'on peut traduire en français par "formation en ligne ouverte à tous".
 
-Les plateformes de MOOC suivantes peuvent vous apporter une aide précieuse pour aborder toutes sortes de sujets (en lien avec le creative coding ou pas). 
-
-Voici une petite sélection de nos plateformes de MOOC préférées, à CreativeCodeParis : 
+Les plateformes de MOOC suivantes peuvent vous apporter une aide précieuse pour aborder toutes sortes de sujets (en lien avec le creative coding ou pas) :
 
 - https://www.fun-mooc.fr
 - https://www.coursera.org/
@@ -200,21 +198,21 @@ Le site officiel de Processing répertorie les meilleurs livres consacrés à ce
 
 https://www.processing.org
 
-Pour éliminer par avance tout risque de confusion, il est intéressant de noter qu'il existe deux adaptations de Processing en Javascript, les projets Processing.js et P5.js :
+Pour éliminer par avance tout risque de confusion, il est important de retenir qu'il existe deux adaptations de Processing en Javascript, les projets Processing.js et P5.js :
 
 - Processing.js : ce projet permet de coder soit intégralement en Java, soit intégralement en Javascript, ou de mixer les deux langages. Ce très beau projet a été pendant une période la seule solution pour faire fonctionner des sketchs Processing dans un navigateur (avant l'arrivé de P5.js). Processing.js est malheureusement à l'abandon depuis environ 2 ans, même s'il est encore utilisé par le site openprocessing.org pour faire fonctionner en ligne tous les sketchs Processing qui sont proposés par la communauté. 
 
-http://processingjs.org/
+site officiel : http://processingjs.org/
 
 - P5.js : c'est le projet officiel de la fondation Processing pour le portage de Processing en Javascript
 
-https://p5js.org/
+site officiel : https://p5js.org/
 
 Voici quelques sites proposant des sketchs Processing intéressants à étudier :
+   - https://www.openprocessing.org/ 
    - http://365processing.com/
    - http://www.bit-101.com
    - http://abandonedart.org/
-   - https://www.openprocessing.org/ 
 
 A noter un Floss Manual en français sur Processing : https://frama.link/zTXBvvMf
 
