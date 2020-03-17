@@ -1,6 +1,6 @@
 # Ressources documentaires pour les "creative coders" 
 
-### Petite sélection de ressources documentaires pour les membres du meetup CreativeCodeParis :
+### Petite sélection de ressources documentaires pour les membres du meetup CreativeCodeParis (mise à jour le 17 mars 2020) :
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
