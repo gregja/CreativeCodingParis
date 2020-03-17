@@ -252,12 +252,23 @@ Si vous n'êtes pas assez à l'aise en anglais pour vous attaquer au livre du CC
 
 ## Live coding 
 
-Pour les passionnés de "live coding" et d'algorave, voici quelques liens intéressants (merci à Thomas et Alex pour ces liens):
+Un certain nombre de "creative coders" pratiquent le "live coding", qui est une activité hautement addictive.
+
+Le "live coding" (codage en direct) est une nouvelle direction dans la musique et la vidéo électroniques. Les "live coders" modifient leur code en direct pour générer de la musique et/ou des visuels improvisés. Le code est projeté sur un écran et le public assiste en direct aux effets des modifications opérées dans le code, pour le meilleur et quelquefois pour le pire (ah, les affres du bug en direct...). 
+
+Le codage en direct fonctionne à travers différents genres musicaux, on en a vu dans les salles de concert, les bars de jazz de fin de soirée, ainsi que les algoraves. 
+
+Une algorave (terme composé à partir d'algorithme et de rave) est un événement où les gens dansent sur de la musique générée à partir d'algorithmes, qui sont souvent écrits ou modifiés en live. Alex McLean et Nick Collins ont inventé le mot "algorave" en 2011, et le premier événement sous un tel nom a été organisé à Londres, au Royaume-Uni. Depuis lors, des algoraves se déroulent dans le monde entier.
+
+TOPLAP est une organisation fondée en 2004 dans le but d'explorer et de promouvoir le codage en direct :
 
 - https://toplap.org/ 
+
+Certains logiciels de "live coding" sont dédiés au son, d'autres à la vidéo, mais certains outils permettent de générer simultanément du son et de la vidéo, créant ainsi des expériences synesthésiques. Vous allez trouver sur la page ci-dessous une liste impressionnante d'outils dédiés au "live coding" :
+
 - https://github.com/toplap/awesome-livecoding/  
 
-Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé Tidal Cycles.
+Toplap est très actif et on peut discuter directement avec les créateurs des différentes technos, entre autre @yaxu (Alex McLean) qui a créé le logiciel Tidal Cycles.
 
 - https://toplap.org/toplap-on-slack/
 - https://talk.lurk.org/channel/live-coding-fr
@@ -267,11 +278,11 @@ Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut disc
 
 ## Quelques documentaires à voir : 
 
-- documentaire sur le compositeur Steve Reich, "Phase to Face", à voir absolument : 
+- un beau documentaire sur le compositeur Steve Reich, "Phase to Face", à voir absolument : 
 
    - https://vimeo.com/11518176
 
-- documentaire sur un groupe mythique de la musique électronique 
+- un beau documentaire sur un groupe mythique de la musique électronique 
 
    - Tangerine Dream, de Margarete Kreuzer (All., 2016, 60 min).
 
@@ -279,7 +290,25 @@ Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut disc
 
 ## Quelques bonnes ressources en vrac :
 
-- Le livre "Generative Art" de Matt Pearson  :  
+- Le livre "Generative gestaltung", rédigé par un collectifs d'artistes allemands, est une référence dans le monde du Processing. Il vient d'être réédité dans une nouvelle version mouture adaptée à P5.js et au web :
+   - http://www.generative-gestaltung.de/
+
+- Michel Bret, est un pionnier de l'image de synthèse en France, nous avons eu le plaisir de le recevoir à CreativeCodeParis. Il a développé Anyflo, un logiciel dédié à la création d'images 3D et de mondes virtuels, que l'on peut télécharger librement sur son site. Il met aussi à disposition gratuitement un certain nombre de cours qu'il a dispensés à l'Université Paris 8, vous pouvez les consulter ici :
+     - http://www.anyflo.com/bret/cours/cours.htm
+
+- pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths, pour le retraduire en code :
+     - https://github.com/Jam3/math-as-code/
+
+- un cours en ligne dédié à WebGL, créé et animé par Matt DesLauriers :
+     - https://frontendmasters.com/courses/canvas-webgl/
+
+- Un livre consultable en ligne (dans différentes langues dont le français) sur les shaders :
+     - https://thebookofshaders.com/?lan=fr 
+
+- Un site portail référençant un très grand nombre de livres consacrés au graphisme 3D et au raytracing, et proposant des liens de téléchargement vers de nombreux ouvrages (format PDF) :
+     - http://www.realtimerendering.com/
+
+- Le livre "Generative Art" de Matt Pearson est un réservoir d'idées créatives :  
     - https://www.amazon.co.uk/exec/obidos/ASIN/1935182625/britishfilmre-21
 
 - Le livre "Nature of Code", de Daniel Shiffman : 
@@ -291,13 +320,6 @@ Alex nous précisait que le Lurk de Toplap est très actif et que l'on peut disc
 - Le livre "Nature in Code", de Marcel Salathe 
     - https://leanpub.com/natureincode
 
-- Michel Bret, est un pionnier de l'image de synthèse en France, nous avons eu le plaisir de le recevoir à CreativeCodeParis. Il a développé Anyflo, un logiciel dédié à la création d'images 3D et de mondes virtuels, que l'on peut télécharger librement sur son site. Il met aussi à disposition gratuitement un certain nombre de cours qu'il a dispensés à l'Université Paris 8, vous pouvez les consulter ici :
-     - http://www.anyflo.com/bret/cours/cours.htm
-
-- pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths, pour le retraduire en code :
-     - https://github.com/Jam3/math-as-code/
-
-
 Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017 :
 
 - La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
@@ -306,9 +328,9 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 
 ---
 
-## Des livres pour repenser le monde 
+## Des livres pour comprendre et repenser le monde 
 
-Et puisque nous sommes tous dans une période de questionnement, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce qui ne va pas dans notre monde actuel, et à ce qu'il faudrait changer pour que tout aille mieux.
+Pour conclure, et puisque nous sommes tous dans une période de questionnement, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
 
 - "Du nouveau sous le soleil, Une histoire de l'environnement mondial au XXème siècle", de John R. McNeill, éd. ChampVallon / Points
 
@@ -326,10 +348,10 @@ Et puisque nous sommes tous dans une période de questionnement, sur ce qui nous
 
 ---
 
-Nous vous souhaitons de bonnes lectures, et de faire de belles découvertes...
+Nous vous souhaitons de bonnes lectures, et de belles découvertes...
 Et surtout nous vous souhaitons bon courage dans les épreuves qui s'annoncent.
 Dès que l'épidémie de Covid-19 sera derrière nous, nous organiserons de nouvelles soirées à la Folie Numérique. 
-En attendant, soyez prudents, faites attention à vous, on vous embrasse et on espère vous retrouver très bientôt.
+En attendant, soyez prudents, prenez soin de vous, on vous embrasse et on espère vous retrouver très bientôt.
 
 L'équipe de CreativeCodeParis
 
