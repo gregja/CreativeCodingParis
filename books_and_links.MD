@@ -208,11 +208,9 @@ site officiel : http://processingjs.org/
 
 site officiel : https://p5js.org/
 
-Voici quelques sites proposant des sketchs Processing intéressants à étudier :
-   - https://www.openprocessing.org/ 
-   - http://365processing.com/
-   - http://www.bit-101.com
-   - http://abandonedart.org/
+La communauté des développeurs Processing et P5 est très active et vous pouvez décourir de nombreux sketchs Processing ou P5 sur OpenProcessing.org :
+
+site officiel : https://www.openprocessing.org/ 
 
 A noter un Floss Manual en français sur Processing : https://frama.link/zTXBvvMf
 
