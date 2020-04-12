@@ -7,7 +7,11 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 ---
 
-A l'heure où le Covid-19 se répand et où nous devons rester confinés pour protéger autant que possible notre entourage,
+ATTENTION : contenu mis à jour le 12/04/2020, avec l'ajout de plusieurs livres des éditions ISTE, d'un livre de Pierre Nerzic sur OpenGL et de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2).
+
+---
+
+A l'heure où le Covid-19 se répand et où nous devons rester confinés pour limiter autant que possible la propagation du virus,
 une mise à jour de cette page s'impose. 
 
 Alors nous vous proposons un tour d'horizon de sites pour :
@@ -141,6 +145,8 @@ La plateforme FUN-MOOC est la seule de notre sélection à proposer des MOOC en 
 - Imprimer en 3D                          (ouvert jusqu'au 31 août 2020)
 - S'initier à la fabrication numérique    (ouvert jusqu'au 31 août 2020)
 - Programmer un objet avec Arduino        (démarrre le 14 avril 2020)
+- Anima Podi 1 : À la recherche du rebond parfait (MOOC de l'Ecole des Gobelins archivé et réouvert en consultation durant l'épidémie de Covid-19)
+- Anima Podi 2: À la recherche du pas perdu (MOOC de l'Ecole des Gobelins, ouvert depuis le 3 avril 2020)
 
 ---
 
@@ -328,6 +334,30 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 - La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
 
 - Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
+
+Un très bon livre en français sur OpenGL (qui couvre également WebGL), il est paru en 2017 :
+
+- Synthèse d'images avec OpenGL (ES) de Pierre Nerzic, publié en 2017 chez D-Booker 
+https://www.d-booker.fr/opengl/78-synthese-d-images.html
+
+A noter que l'on trouve aussi chez D-Booker quelques ouvrages en français consacrés à des moteurs de création de jeux comme Godot, Unity, etc.
+
+---
+
+Editions ISTE 
+
+Les éditions ISTE proposent différents ouvrages de niveau universitaire, dont certains pourraient se révéler utiles aux creative coders. Les ouvrages sont proposés au tarif imbattable de 9,90 euros, dans leurs versions ebook (PDF)
+
+- Les machines de la musique électronique, de Jean-Michel Réveillac
+- Les effets sonores musicaux, de Jean-Michel Réveillac
+- Techniques musicales, de Dominique Paret et Serge Sibony
+
+- une série de 3 ouvrages consacrés à la modélisation géométrique, avec application à la 3D et à la CAO : 
+https://www.istegroup.com/fr/series/modelisation-geometrique-et-applications/
+
+- une série d'ouvrages consacrés aux équations du mouvement :
+https://www.istegroup.com/fr/search/equations%20du%20mouvement
+
 
 ---
 
