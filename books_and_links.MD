@@ -335,7 +335,7 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 
 - Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
 
-Un très bon livre en français sur OpenGL (qui couvre également WebGL), il est paru en 2017 :
+Un très bon livre en français sur OpenGL (qui couvre également WebGL) :
 
 - Synthèse d'images avec OpenGL (ES) de Pierre Nerzic, publié en 2017 chez D-Booker 
 https://www.d-booker.fr/opengl/78-synthese-d-images.html
