@@ -7,7 +7,13 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 ---
 
-ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout de plusieurs livres des éditions ISTE, d'un livre de Pierre Nerzic sur OpenGL et WebGL, et de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2). Mais aussi de bons podcasts de France Culture, et un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding").
+ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout :
+- de plusieurs livres aux éditions ISTE
+- d'un livre de Pierre Nerzic sur OpenGL et WebGL
+- de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2)
+- de bons podcasts de France Culture
+- d'un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding") 
+Et enfin une correction sur l'éditeur n° 5, qui était Apress et non Manning. 
 
 ---
 
@@ -89,6 +95,8 @@ Un ouvrage un peu à part (par rapport aux thèmes habituels de l'éditeur), c'e
 
 ## Editeur n° 4 : Leanpub
 
+https://leanpub.com
+
 Un éditeur dédié aux auteurs indépendants, sur lequel vous trouverez de tout : Game programming, Javascript, etc. 
 
 A notre connaissance, le seul livre consacré à la carte son Axoloti - carte qu'on aime bien à CreativeCodeParis - se trouve sur cette plateforme: https://leanpub.com/getting-started-with-axoloti
@@ -97,14 +105,16 @@ Le catalogue de Leanpub est en perpétuelle évolution, le mieux c'est d'explore
 
 --- 
 
-## Editeur n° 5 : Manning 
+## Editeur n° 5 : Apress
+
+https://www.apress.com
 
 C'est le dernier de notre sélection d'éditeurs d'ouvrage en langue anglaise. 
-On trouve beaucoup de livres intéressants pour les "creative coders", quelquefois un peu anciens, mais qui fourmillent de bonnes idées à reprendre et à adapter, comme par exemple le livre "Flash Math Creativity" (cité plus haut), rédigé par un collectif d'artistes.
+On y trouve beaucoup de livres intéressants pour les "creative coders", quelquefois un peu anciens, mais qui fourmillent de bonnes idées à reprendre et à adapter, comme par exemple le livre "Flash Math Creativity" (cité plus haut), rédigé par un collectif d'artistes.
 
 Un très bon livre que l'on vous recommande aussi, c'est "Foundation Game Design with HTML5 and JavaScript", de Rex Van der Spuy (2012).
 
-A signaler enfin, un très bon livre de Keith Peters, "Foundation Actionscript 3.0 Animation", qui date de 2007. C'est un ouvrage de référence pour acquérir de bonnes bases en matière d'animation 2D en particulier (plus quelques notions de 3D). Ce livre a fait l'objet d'une adaptation au Javascript par Billy Lamberta (en 2011), sous le titre "Foundation HTML5 Animation with JavaScript" (livre également disponible au catalogue de Manning).   
+A signaler enfin, un très bon livre de Keith Peters, "Foundation Actionscript 3.0 Animation", qui date de 2007. C'est un ouvrage de référence pour acquérir de bonnes bases en matière d'animation 2D en particulier (plus quelques notions de 3D). Ce livre a fait l'objet d'une adaptation au Javascript par Billy Lamberta (en 2011), sous le titre "Foundation HTML5 Animation with JavaScript" (livre également disponible au catalogue de Apress).   
 
 A noter que Keith Peters anime la chaîne Youtube CodingMath, et qu'il a publié indépendamment de Packt un ouvrage consacré à la programmation d'images fractales, "Playing with Chaos", que vous pouvez acquérir en version numérique ici : http://www.playingwithchaos.net/
 
