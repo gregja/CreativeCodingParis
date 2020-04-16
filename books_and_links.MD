@@ -13,6 +13,7 @@ ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout :
 - de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2)
 - de bons podcasts de France Culture
 - d'un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding") 
+
 Et enfin une correction sur l'éditeur n° 5, qui était Apress et non Manning. 
 
 ---
