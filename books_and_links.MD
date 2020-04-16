@@ -7,7 +7,7 @@ https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 ---
 
-ATTENTION : contenu mis à jour le 12/04/2020, avec l'ajout de plusieurs livres des éditions ISTE, d'un livre de Pierre Nerzic sur OpenGL et de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2).
+ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout de plusieurs livres des éditions ISTE, d'un livre de Pierre Nerzic sur OpenGL et WebGL, et de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2). Mais aussi de bons podcasts de France Culture, et un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding").
 
 ---
 
@@ -16,7 +16,7 @@ une mise à jour de cette page s'impose.
 
 Alors nous vous proposons un tour d'horizon de sites pour :
 
-- vous procurer de bons bouquins, de préférence en version numérique (PDF ou autre)
+- vous procurer de bons bouquins, de préférence en version numérique (PDF notamment)
 
 - vous former en ligne, apprendre de nouvelles techniques, ou vous perfectionner
 
@@ -139,7 +139,7 @@ Les plateformes de MOOC suivantes peuvent vous apporter une aide précieuse pour
 
 Coursera et Kadenze sont deux excellentes plateformes qui vous proposent un catalogue varié, avec des sujets autour de la programmation, des arts et de la musique. Les catalogues évoluent constamment, alors on renonce à vous proposer des liens ciblés, on préfère vous laisser découvrir, en fonction de vos centres d'intérêt respectifs. La plupart des MOOC proposés par Coursera et Kadenze peuvent être suivis gratuitement, en mode "candidat libre", si vous n'êtes pas intéressé(e)s par la délivrance d'une attestation en fin de session.
 
-La plateforme FUN-MOOC est la seule de notre sélection à proposer des MOOC en français (en plus ils sont gratuits). Elle propose des MOOC sur les maths, la physique, et sur beaucoup d'autres sujets. Voici quelques Fun-MOOC qui pourraient intéresser les "creative coders" : 
+La plateforme FUN-MOOC est la seule de notre sélection à proposer - à notre connaissance - des MOOC en français (et en plus ils sont gratuits). Elle propose des MOOC sur les maths, la physique, et sur beaucoup d'autres sujets. Voici quelques Fun-MOOC qui pourraient intéresser les "creative coders" : 
 
 - Modéliser en 3D avec FreeCAD            (ouvert jusqu'au 31 août 2020)
 - Imprimer en 3D                          (ouvert jusqu'au 31 août 2020)
@@ -147,6 +147,31 @@ La plateforme FUN-MOOC est la seule de notre sélection à proposer des MOOC en 
 - Programmer un objet avec Arduino        (démarrre le 14 avril 2020)
 - Anima Podi 1 : À la recherche du rebond parfait (MOOC de l'Ecole des Gobelins archivé et réouvert en consultation durant l'épidémie de Covid-19)
 - Anima Podi 2: À la recherche du pas perdu (MOOC de l'Ecole des Gobelins, ouvert depuis le 3 avril 2020)
+
+
+---
+
+## Editions ISTE 
+
+Les éditions ISTE proposent différents ouvrages de niveau universitaire, dont certains pourraient se révéler utiles aux creative coders. Dans leurs versions numériques (ebooks au format PDF), tous les ouvrages sont proposés - en version française mais aussi en version anglaise - au tarif imbattable de 9,90 euros:
+
+https://www.istegroup.com/fr
+
+Parmi les ouvrages qui nous semblent pouvoir intéresser les creative coders, on trouve :
+
+- Les machines de la musique électronique, de Jean-Michel Réveillac
+- Les effets sonores musicaux, de Jean-Michel Réveillac
+- Techniques musicales, de Dominique Paret et Serge Sibony
+
+A signaler également, une série de 3 ouvrages consacrés à la modélisation géométrique, avec application à la 3D et à la CAO (le 3ème tome étant consacré à la modélisation de fractales en 3D) : 
+https://www.istegroup.com/fr/series/modelisation-geometrique-et-applications/
+
+Pour les plus courageux, une série d'ouvrages consacrés aux équations mathématiques du mouvement :
+https://www.istegroup.com/fr/search/equations%20du%20mouvement
+
+A signaler également, l'offre "2 ebooks gratuits chaque jour", valable pendant le mois d'avril 2020 :
+https://www.istegroup.com/fr/ebooks-gratuits-chaque-jour/
+
 
 ---
 
@@ -279,6 +304,10 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 - https://toplap.org/toplap-on-slack/
 - https://talk.lurk.org/channel/live-coding-fr
 
+A propos de Live coding, voici un outil fort sympathique, découvert tout récemment, pour live coder du shader en WebGL, jusqu'à plus soif : https://github.com/shawnlawson/The_Force
+
+L'outil s'installe en local très simplement, et pour vous faire une idée, vous pouvez le tester en ligne ici : https://shawnlawson.github.io/The_Force/
+
 
 ---
 
@@ -295,6 +324,9 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 ---
 
 ## Quelques bonnes ressources en vrac :
+
+- On trouve de très bons podcasts consacrés aux arts numériques sur le site de France Culture, à déguster sans modération :
+    - https://www.franceculture.fr/recherche?q=art+num%C3%A9rique
 
 - Le livre "Generative gestaltung", rédigé par un collectifs d'artistes allemands, est une référence dans le monde du Processing. Il vient d'être réédité dans une nouvelle version adaptée à P5.js et au web :
    - http://www.generative-gestaltung.de/
@@ -329,41 +361,24 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 - Le livre "Nature in Code", de Marcel Salathe 
     - https://leanpub.com/natureincode
 
-Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017 :
+Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017. On les a lus depuis et on vous confirme qu'ils sont passionnants (merci Raphaël :) :
 
 - La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
-
 - Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
 
-Un très bon livre en français sur OpenGL (qui couvre également WebGL) :
+Un bon livre en français sur OpenGL (qui couvre également WebGL), découvert tout récemment :
 
 - Synthèse d'images avec OpenGL (ES) de Pierre Nerzic, publié en 2017 chez D-Booker 
 https://www.d-booker.fr/opengl/78-synthese-d-images.html
 
 A noter que l'on trouve aussi chez D-Booker quelques ouvrages en français consacrés à des moteurs de création de jeux comme Godot, Unity, etc.
 
----
-
-Editions ISTE 
-
-Les éditions ISTE proposent différents ouvrages de niveau universitaire, dont certains pourraient se révéler utiles aux creative coders. Les ouvrages sont proposés au tarif imbattable de 9,90 euros, dans leurs versions ebook (PDF)
-
-- Les machines de la musique électronique, de Jean-Michel Réveillac
-- Les effets sonores musicaux, de Jean-Michel Réveillac
-- Techniques musicales, de Dominique Paret et Serge Sibony
-
-- une série de 3 ouvrages consacrés à la modélisation géométrique, avec application à la 3D et à la CAO : 
-https://www.istegroup.com/fr/series/modelisation-geometrique-et-applications/
-
-- une série d'ouvrages consacrés aux équations du mouvement :
-https://www.istegroup.com/fr/search/equations%20du%20mouvement
-
 
 ---
 
 ## Des livres pour comprendre et repenser le monde 
 
-Pour conclure, et puisque nous sommes tous dans une période de questionnement, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
+Confinement rimant avec questionnement, et puisque nous sommes tous dans une période de réflexion, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
 
 - "Du nouveau sous le soleil, Une histoire de l'environnement mondial au XXème siècle", de John R. McNeill, éd. ChampVallon / Points
 
