@@ -30,7 +30,23 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_IIR_filters
 
 https://www.webaudioweekly.com/
 
+----------------
 
+## Getting Started with Web Audio API
+
+https://www.html5rocks.com/en/tutorials/webaudio/intro/
+
+----------------
+
+## Documentation of Google
+
+https://developers.google.com/web/updates/tags/webaudio
+
+https://developers.google.com/web/updates/2012/01/Web-Audio-FAQ
+
+https://developers.google.com/web/updates/2017/12/audio-worklet
+
+----------------
 
 
 
