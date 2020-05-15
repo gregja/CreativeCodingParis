@@ -21,6 +21,7 @@ https://www.d-booker.fr/opengl/78-synthese-d-images.html
 
 CX20 is a japanese developer, specialist of WebGL
 He developed a lot of projects around WebGL and different frameworks WebGL. 
+https://github.com/cx20
 
 ### Comparison of every WebGL libraries with rendering basic primitives
 
@@ -37,10 +38,6 @@ https://cx20.github.io/hello/html5/
 ### webgl-physics-examples
 
 https://cx20.github.io/webgl-physics-examples/
-
-A lot of interesting repositories around WebGL to discoper on 
-
-https://github.com/cx20
 
 
 ---------------
