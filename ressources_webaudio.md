@@ -1,9 +1,10 @@
 # The WebAudio ressources page
 
-Warning : this page is not exhaustive (and it can't be). 
+Warning : this page is a work in progress. It is not exhaustive (and it can't be). 
 It's just a proposition of resources to help you if you are a beginner in the study of Web Audio. 
 The page will be completed progressively.
 
+----------------
 
 ## WebAudio ressources from MDN
 
@@ -23,6 +24,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Web_audio_spatial
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_IIR_filters#IIR_versus_biquad_filters
 
+----------------
 
 ## Webaudio Weekly Newsletter
 
