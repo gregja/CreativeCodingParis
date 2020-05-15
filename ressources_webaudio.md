@@ -24,7 +24,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Web_audio_spatial
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_IIR_filters#IIR_versus_biquad_filters
 
 
-# Webaudio Weekly Newsletter
+## Webaudio Weekly Newsletter
 
 https://www.webaudioweekly.com/
 
