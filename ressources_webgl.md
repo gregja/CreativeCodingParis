@@ -59,6 +59,11 @@ github repo : https://github.com/cx20/hello/
 
 ---------------
 
+An amazing compilation of ressources for creative coders :
+
+https://github.com/terkelg/awesome-creative-coding
+
+---------------
 
 To be continued ... / A suivre ...   ;)
 
