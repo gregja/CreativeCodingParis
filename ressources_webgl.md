@@ -59,9 +59,24 @@ github repo : https://github.com/cx20/hello/
 
 ---------------
 
-An amazing compilation of ressources for creative coders :
+## Curated resources
+
+### An amazing compilation of ressources for creative coders :
 
 https://github.com/terkelg/awesome-creative-coding
+
+###  Curated list of technical case studies on WebGL and creative development 
+
+https://github.com/luruke/awesome-casestudy
+
+### Creative Coding Notes
+
+https://github.com/cacheflowe/creative-coding-notes/
+
+### Tim Rodenbroeker resources
+
+https://timrodenbroeker.de/resources/
+
 
 ---------------
 
