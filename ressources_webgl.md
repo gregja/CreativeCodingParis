@@ -20,6 +20,15 @@ https://www.d-booker.fr/opengl/78-synthese-d-images.html
 
 https://xem.github.io/articles/webgl-guide.html
 
+--------------
+
+## Galery of 83 ThreeJS examples, by Lee Stemkoski
+
+Lee Stemkoski, Ph.D.
+Professor of Mathematics and Computer Science, Adelphi University 
+
+http://stemkoski.github.io/Three.js/
+
 ---------------
 
 ## CX20 Works
