@@ -22,12 +22,18 @@ https://xem.github.io/articles/webgl-guide.html
 
 --------------
 
-## Galery of 83 ThreeJS examples, by Lee Stemkoski
+## Galeries of WebGL examples, by Lee Stemkoski
 
 Lee Stemkoski, Ph.D.
 Professor of Mathematics and Computer Science, Adelphi University 
 
+A galery of 83 ThreeJS examples :
+
 http://stemkoski.github.io/Three.js/
+
+A galery of A-Frame examples : 
+
+https://stemkoski.github.io/A-Frame-Examples/
 
 ---------------
 
