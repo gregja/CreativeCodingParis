@@ -31,7 +31,7 @@ https://academy.substance3d.com/courses/the-pbr-guide-part-1
 
 ## Doctoral Thesis (in french) / Thèse de doctorat (en français), année 2012, par LeZanu, alias NusanFX  
 
-Du photoréalisme au rendu expressifen image 3D temps réel dans le jeu vidéo : programmation graphique pour la profondeur de champ,la matière, la réflexion, les fluides et les contours.
+Du photoréalisme au rendu expressif en image 3D temps réel dans le jeu vidéo : programmation graphique pour la profondeur de champ, la matière, la réflexion, les fluides et les contours.
 
 http://lezanu.fr/these.pdf
 
