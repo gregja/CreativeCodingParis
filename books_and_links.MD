@@ -18,10 +18,7 @@ Et enfin une correction sur l'éditeur n° 5, qui était Apress et non Manning.
 
 ---
 
-A l'heure où le Covid-19 se répand et où nous devons rester confinés pour limiter autant que possible la propagation du virus,
-une mise à jour de cette page s'impose. 
-
-Alors nous vous proposons un tour d'horizon de sites pour :
+Dans cette page, que nous avons réactualisée durant la période du confinement, nous vous proposons un tour d'horizon de sites pour :
 
 - vous procurer de bons bouquins, de préférence en version numérique (PDF notamment)
 
@@ -32,10 +29,7 @@ et si nous en débusquons de nouvelles dans les jours et les semaines qui vienne
 
 Si vous avez un compte Github, pensez à sélectionner l'option "watch" en haut de cette page, histoire d'être tenu au courant des mises à jour qui pourraient intervenir sur cette page.
 
-Et puisque nous sommes tous dans une phase de questionnement par rapport à notre époque, et à ce que nous aimerions faire par la suite, nous vous proposerons aussi quelques pistes de lecture, qui ne sont pas en lien avec le creative coding, mais qui pourraient vous inspirer dans vos projets créatifs (notamment quelques essais de sociologues). 
-
-Oui décidément, cette page avait besoin d'un gros dépoussiérage.
-Alors c'est parti.
+Et puisque nous sommes tous dans une phase de questionnement par rapport à notre époque, et à ce que nous aimerions faire par la suite, nous vous proposerons aussi quelques pistes de lecture, qui ne sont pas en lien avec le creative coding, mais qui pourraient vous inspirer dans vos projets créatifs (notamment quelques essais d'historiens et de sociologues). 
 
 ---
 
@@ -406,6 +400,19 @@ Confinement rimant avec questionnement, et puisque nous sommes tous dans une pé
 - "La domination masculine", de Pierre Bourdieu, Paris, Seuil, coll. « Liber », 1998
 
 ---
+
+Et voici deux nouvelles pages, créées juste après le confinement, sur des thématiques plus resserrées :
+
+- ressources autour du graphisme 3D (notamment WebGL mais pas seulement)
+
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webgl.md
+
+- ressoures autour du son et de l'API WebAudio (page très incomplète... en chantier...) 
+
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
+
+
+----
 
 Nous vous souhaitons de bonnes lectures, et de belles découvertes...
 Et surtout nous vous souhaitons bon courage dans les épreuves qui s'annoncent.
