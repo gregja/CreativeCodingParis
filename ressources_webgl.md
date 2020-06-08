@@ -20,6 +20,31 @@ https://www.d-booker.fr/opengl/78-synthese-d-images.html
 
 https://xem.github.io/articles/webgl-guide.html
 
+---------------
+
+## The PBR Guide by Allegorithmic (freely downloadable in PDF format)
+
+https://academy.substance3d.com/courses/the-pbr-guide-part-1
+
+
+--------------
+
+## Doctoral Thesis (in french) / Thèse de doctorat (en français), année 2012, par LeZanu, alias NusanFX  
+
+Du photoréalisme au rendu expressifen image 3D temps réel dans le jeu vidéo : programmation graphique pour la profondeur de champ,la matière, la réflexion, les fluides et les contours.
+
+http://lezanu.fr/these.pdf
+
+
+--------------
+
+## Real-Time Rendering Graphics Books Page
+
+An awesome selection of books about 3D graphism. Most of them are freely downloadable.
+
+http://www.realtimerendering.com/books.html
+
+
 --------------
 
 ## Galeries of WebGL examples, by Lee Stemkoski
@@ -95,6 +120,11 @@ https://timrodenbroeker.de/resources/
 
 ---------------
 
-To be continued ... / A suivre ...   ;)
+Find a largest selection of links and references on this other page :
+
+https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
+
+
+
 
 
