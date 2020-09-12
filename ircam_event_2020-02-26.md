@@ -18,9 +18,9 @@ Link to the meetup partner ParisAudio :
 
 https://www.meetup.com/fr-FR/Paris-Audio/
 
-The event was live streamed on : 
+You can watch the replay of the event here :
 
-http://video.ircam.fr/
+https://medias.ircam.fr/x793172
 
 And now The Program !
 
