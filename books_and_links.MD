@@ -4,7 +4,6 @@
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
-
 ---
 
 ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout :
@@ -15,6 +14,19 @@ ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout :
 - d'un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding") 
 
 Et enfin une correction sur l'éditeur n° 5, qui était Apress et non Manning. 
+
+---
+
+Voici deux nouvelles pages, créées juste après le 1er confinement, sur des thématiques plus ciblées :
+
+- ressources autour du graphisme 3D (notamment WebGL mais pas seulement)
+
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webgl.md
+
+- ressoures autour du son et de l'API WebAudio (page très incomplète... en chantier...) 
+
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
+
 
 ---
 
@@ -309,9 +321,16 @@ Toplap est très actif et on peut discuter directement avec les créateurs des d
 - https://toplap.org/toplap-on-slack/
 - https://talk.lurk.org/channel/live-coding-fr
 
-A propos de Live coding, voici un outil fort sympathique, découvert tout récemment, pour live coder du shader en WebGL, jusqu'à plus soif : https://github.com/shawnlawson/The_Force
+A propos de Live coding, voici un outil fort sympathique, découvert tout récemment, pour live coder du shader en WebGL, jusqu'à plus soif :
+
+- https://github.com/shawnlawson/The_Force
 
 L'outil s'installe en local très simplement, et pour vous faire une idée, vous pouvez le tester en ligne ici : https://shawnlawson.github.io/The_Force/
+
+Autre projet découvert tout récemment, le projet Sonic Pi, pour live coder du gros son et de bonnes rythmiques jusqu'à tard dans la nuit :
+
+- https://sonic-pi.net/
+
 
 
 ---
@@ -351,6 +370,12 @@ L'outil s'installe en local très simplement, et pour vous faire une idée, vous
 - Un livre consultable en ligne (dans différentes langues dont le français) sur les shaders :
      - https://thebookofshaders.com/?lan=fr 
 
+- un tutoriel très complet sur WebGL (le site inclut une version française malheureusement incomplète) :
+     - https://webglfundamentals.org/
+
+- et dans la même veine que le précédent, mais pour ThreeJS : 
+     - https://threejsfundamentals.org/threejs/lessons/fr/
+ 
 - Un site portail référençant un très grand nombre de livres consacrés au graphisme 3D et au raytracing, et proposant des liens de téléchargement vers de nombreux ouvrages (format PDF) :
      - http://www.realtimerendering.com/
 
@@ -371,10 +396,9 @@ Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octob
 - La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
 - Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
 
-Un bon livre en français sur OpenGL (qui couvre également WebGL), découvert tout récemment :
+Un bon livre en français sur OpenGL qui couvre également WebGL (on l'a lu, il est top) :
 
-- Synthèse d'images avec OpenGL (ES) de Pierre Nerzic, publié en 2017 chez D-Booker 
-https://www.d-booker.fr/opengl/78-synthese-d-images.html
+- Synthèse d'images avec OpenGL (ES) de Pierre Nerzic, publié en 2017 chez D-Booker : https://www.d-booker.fr/opengl/78-synthese-d-images.html
 
 A noter que l'on trouve aussi chez D-Booker quelques ouvrages en français consacrés à des moteurs de création de jeux comme Godot, Unity, etc.
 
@@ -383,7 +407,7 @@ A noter que l'on trouve aussi chez D-Booker quelques ouvrages en français consa
 
 ## Des livres pour comprendre et repenser le monde 
 
-Confinement rimant avec questionnement, et puisque nous sommes tous dans une période de réflexion, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
+Confinement rimant avec questionnement, et puisque nous sommes tous dans une période de réflexion, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce qui fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
 
 - "Du nouveau sous le soleil, Une histoire de l'environnement mondial au XXème siècle", de John R. McNeill, éd. ChampVallon / Points
 
@@ -398,18 +422,6 @@ Confinement rimant avec questionnement, et puisque nous sommes tous dans une pé
 - "La misère du monde", sous la direction de Pierre Bourdieu, éd Seuil, coll. « Points essais », 2007
 
 - "La domination masculine", de Pierre Bourdieu, Paris, Seuil, coll. « Liber », 1998
-
----
-
-Et voici deux nouvelles pages, créées juste après le confinement, sur des thématiques plus resserrées :
-
-- ressources autour du graphisme 3D (notamment WebGL mais pas seulement)
-
-https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webgl.md
-
-- ressoures autour du son et de l'API WebAudio (page très incomplète... en chantier...) 
-
-https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 
 
 ----
