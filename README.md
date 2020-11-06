@@ -4,11 +4,50 @@ recensement des présentations réalisées dans le cadre du meetup CreativeCodeP
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
 Attention, la liste des événements est triée par date décroissante.
-Prenez le temps de consulter le fichier "books and links" dans lequel nous avons recensé quelques livres et sites en lien avec les thèmes que nous explorons dans ce meetup.
 
-Pensez à consulter notre liste de ressources (livres et MOOC) sur cette page :
+Pensez à consulter nos listes de ressources :
 
 https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webgl.md
+https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
+
+... et notre toute nouvelle chaîne youtube :
+
+https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
+
+
+# CreativeCodeParis, le retour
+### jeudi 29 octobre 2020 (online sur Jitsi)
+
+C'est le grand retour de CreativeCodeParis ! Mais Covid oblige, cette nouvelle soirée se fera en ligne.
+
+Nous avons 3 talks au programme, présentés par Alexandre, Florian et Fred.
+
+Alexandre Dubreuil - Visualisation de la musique avec Visual MIDI
+La visualisation de la musique est un problème difficile, mais utile, en particulier pour l'écriture d'un livre sur la musique. Dans cette mini-présentation, nous allons montrer la librairie [Visual MIDI](https://github.com/dubreuia/visual_midi), permettant d'afficher des fichiers MIDI sous forme de "pianoroll", et ayant servi à générer les graphiques du livre [Hands-On Music Generation with Magenta](https://www.packtpub.com/product/hands-on-music-generation-with-magenta/9781838824419). Nous découvrirons l'utilité de cette librairie à travers une question primordiale de la musique générative : comment analyser (visuellement, ou non) une génération musicale issue d'un réseaux de neurones ?
+
+Florian Rouzaud - Touch Designer
+Florian est un Visual artist qui travaille avec différents médias (photos, vidéo, électronique...). Il nous avait présenté l'année dernière plusieurs installations étonnantes. Il revient cette fois pour nous expliquer comment il a programmé sur Touchdesigner le workflow de panneaux de led. Florian a utilisé cette technique pour une installation qu'il a présenté à la Nuit Bleue et qui lui a permis de remporter la seconde place du concours.
+
+Fred CECILIA - Expérience musicale immersive
+Qu'est ce qui se passe lorsque qu'on mélange de la la musique visuelle et des l'audio ambisonic ? C'est la réponse que va nous apporter Fred dans une présentation nommée "Expérience musicale immersive". Au menu on parlera d'installation, mais aussi de réalité virtuelle et surtout des outils à notre disposition pour la création de ce type de projet.
+
+
+Lien vers la présentation d'Alexandre, sur VisualMIDI : 
+https://alexandredubreuil.com/conferences/midi-visualization-with-visual-midi/
+
+Pour suivre le travail de Florian :
+https://www.instagram.com/florianrouzaudcornabas/
+https://vimeo.com/florianrouzaudcornabas
+https://www.facebook.com/FlorianRouzaudCornabasArt
+
+Quelques uns des outils évoqués par Fred pendant sa présentation :
+https://magicmusicvisuals.com
+https://isf.video
+https://www.dearvr.com
+
+Le replay de la soirée du 29 octobre est disponible sur youtube :
+https://www.youtube.com/watch?v=K91_PCOpPHU
 
 
 # Creative Music Technologies for Learning and Play Meetup @Ircam 
