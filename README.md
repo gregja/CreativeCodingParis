@@ -262,8 +262,10 @@ Technos utilisées par les intervenants durant cette soirée : P5, Processing, O
 Pour le dernier meetup 2018, nous vous avons concocté un programme aux petits oignons, avec 4 talks courts, suivis d'une projection surprise.
 
 1er talk de Grégory, qui vous parlera de la manipulation de data en Javascript. Ce langage a une manière de gérer les tableaux et les objets, très différente de celle d'autres langages. Tour d'horizon des trucs et astuces qu'il faut connaître pour que la manipulation de data en JS devienne une partie de plaisir, plutôt qu'un parcours du combattant.
+Le support de cette présentation se trouve dans le dépôt suivant (cf. fichier "Javascript_and_Data.pdf") : https://github.com/gregja/JSCorner
 
-2ème talk de Grégory : le projet P5.js a de nombreux atouts pour les "creative coders", mais il lui manque un véritable moteur d'animation 2D, pour pouvoir rivaliser avec d'autres technos. En s'appuyant sur les travaux d'experts Javascript, mais aussi Actionscript (le langage de Flash), Grégory s'est lancé dans la construction d'un petit moteur. Il vous parlera des pistes qu'il a suivies, des auteurs qui l'ont inspiré, et vous montrera les premiers résultats de ce "work in progress".
+2ème talk de Grégory : le projet P5.js a de nombreux atouts pour les "creative coders", mais il lui manque un véritable moteur d'animation 2D, pour pouvoir rivaliser avec d'autres technos. En s'appuyant sur les travaux d'experts Javascript, mais aussi Actionscript (le langage de Flash), Grégory s'est lancé dans la construction d'un petit moteur, AutomatosJS. Il vous parlera des pistes qu'il a suivies, des auteurs qui l'ont inspiré, et vous montrera les premiers résultats de ce "work in progress".
+Le support de présentation et le code source du projet AutomatosJS se trouvent dans ce dépôt : https://github.com/gregja/automatosjs
 
 3ème talk de Raphaël, qui nous expliquera comment programmer une fractale en GLSL. Au travers de cet exemple, Raphaël nous proposera une petite introduction à la technique des "fragment shaders".
 
@@ -276,8 +278,6 @@ Quelques petites précisions à l'issue des présentations :
 Florian utilise un enregistreur portable Zoom H1 pour ses prises de son "sauvages". A l'aide du logiciel Audacity et de patchs Pure Data, il nous a fait écouter les effets délétères d'un rééchantillonage mal calibré, mais aussi les effets intéressants que l'on peut obtenir à partir de sons en apparence banals. 
 
 Pour sa présentation, Raphaël a utilisé Shadertoy, qui est un formidable labo pour manipuler aussi bien de l'image que du son. Pour plus d'infos sur Shadertoy : https://en.wikipedia.org/wiki/Shadertoy
-
-Le support de présentation de Grégory pour la présentation du moteur d'animation 2D se trouve dans le présent dépôt (cf. fichier "Moteur2D_and_JS.pdf"). Son support de présentation sur la partie "Javascript et Data" se trouve dans le dépôt suivant (cf. fichier "Javascript_and_Data.pdf") : https://github.com/gregja/JSCorner
 
 Parmi les films que nous avons visionnés lors de cette soirée, il y a notamment quelques très beaux films de Michel Bret, comme Automappe et Cahin-Caha. Vous pouvez retrouver ces films et bien d'autres sur cette page d'archives vidéos proposée par l'Université Paris-8 : http://www.archives-video.univ-paris8.fr/bret_sommaire.php
 
