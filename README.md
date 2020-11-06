@@ -8,7 +8,9 @@ Attention, la liste des événements est triée par date décroissante.
 Pensez à consulter nos listes de ressources :
 
 https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
+
 https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webgl.md
+
 https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 
 ... et notre toute nouvelle chaîne youtube :
@@ -34,19 +36,28 @@ Qu'est ce qui se passe lorsque qu'on mélange de la la musique visuelle et des l
 
 
 Lien vers la présentation d'Alexandre, sur VisualMIDI : 
+
 https://alexandredubreuil.com/conferences/midi-visualization-with-visual-midi/
 
 Pour suivre le travail de Florian :
+
 https://www.instagram.com/florianrouzaudcornabas/
+
 https://vimeo.com/florianrouzaudcornabas
+
 https://www.facebook.com/FlorianRouzaudCornabasArt
 
+
 Quelques uns des outils évoqués par Fred pendant sa présentation :
+
 https://magicmusicvisuals.com
+
 https://isf.video
+
 https://www.dearvr.com
 
 Le replay de la soirée du 29 octobre est disponible sur youtube :
+
 https://www.youtube.com/watch?v=K91_PCOpPHU
 
 
