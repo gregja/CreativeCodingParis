@@ -18,6 +18,51 @@ https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
 
 
+
+# CreativeCodeParis / Session 2021 #2
+### jeudi 25 mars 2021 (online sur Jitsi)
+
+Nous avons fait une trêve en février, mais ce mois ci on repart à fond les ballons ! Pour ce nouveau meetup "online", nous vous proposons 3 sujets:
+
+Grégory Jarrige nous présente un projet de lecteur audio piloté à la voix qu'il a développé en Javascript. Le projet est open source et s'appuie sur Node.js et sur l'API Web Speech pour la synthèse et la reconnaissance vocale. Il est plus particulièrement destiné à des personnes souffrant de troubles visuels, l'objectif étant de leur fournir un outil d'usage facile, pour l'écoute de podcasts notamment.
+https://github.com/gregja/ar-vocal-project
+
+Benjamin Kuperberg nous présente le projet Chataigne !
+Chataigne est un logiciel open source pensé avec un objectif en tête : créer un outil commun pour les artistes, techniciens et développeurs voulant utiliser les technologies et synchroniser des logiciels pour des spectacles, installations interactives et du prototypage. Chataigne ne crée pas de contenu par lui-même, son rôle est d’être le nerf central dans un projet mêlant différentes interfaces logicielles et matérielles. On peut le voir comme un chef d’orchestre, qui s’occupera de contrôler toute la flotte technologique en ayant connaissance de la vision globale du projet.
+https://benjamin.kuperberg.fr/chataigne/fr
+
+Lionel Radisson, alias makio135, designer et creative coder, joue avec les pixels, les données et le hardware depuis une dizaine d'années. Il nous propose un retour sur un an de creative coding sur Observablehq, plateforme web de notebook en JavaScript, avec de la génération de SVGs et de gifs #p5js #glsl #raymarching #threejs.
+https://observablehq.com/@makio135/creative-coding
+
+Le replay de la soirée du 25 mars 2021 est en préparation :
+
+(lien à ajouter)
+
+
+# CCP Le Retour / Session 2021 #1
+### jeudi 21 janvier 2021 (online sur Jitsi)
+
+Nous vous proposons de reprendre nos meetups avec une nouvelle soirée en ligne (via jitsi), et un programme haut en couleurs, grâce à trois intervenants qui vont nous emmener dans des univers très différents, Gilles, Fabien et Samuele.
+
+Gilles Deschaud
+L’artiste Gilles Deschaud va présenter ses dernières réalisations notamment Chase Me. Ce court métrage est le premier film d’animation uniquement composé de pièces imprimées en 3D. Son projet demanda deux ans de travail et près de 2500 impressions.
+L’histoire commence avec une jeune fille se promenant paisiblement dans une forêt enchantée. Durant sa balade, son ombre prend vie, se transforme en monstre et la poursuit à travers la forêt.
+Gilles va expliquer les étapes de la réalisation mais également parcourir rapidement d'autres de ses court-métrages qui sont au coeur d'une réflexion sur l'hybridation de l'animation.
+https://www.deschaud.fr/
+
+Parse/Error
+Travaillant sous le pseudonyme Parse/Error, Fabien Bouchard est un artiste français basé à Marseille. Autodidacte, son travail est né de la rencontre entre art, design et technologie et porte sur l’interaction entre l’homme et la nature. Sa pratique artistique mélange impression 3D, objets connectés, bois, peinture, street art, électronique, lumière ou données en temps-réel. Il nous présentera son parcours et ses différentes créations avec un focus particulier sur certaines de ses œuvres.
+https://parseerror.ufunk.net/
+
+Samuele Giraudo
+Samuele était venu nous parler d'opérades en septembre 2019, il est de retour pour nous parler de ses avancées sur le sujet, avec le projet Calimba, qui est un nouveau langage de programmation musicale. Calimba est bâti autour d'une abstraction des phrases musicales sous forme d'arbres. Ces arbres sont accompagnés naturellement d'opérations qui permettent de construire des phrases complexes avec du code simple. L'une de ces opérations est l'opération d'insertion qui donne lieu entre autres à des transpositions. Calimba se veut simple au sens où il ne dépend d'aucun serveur de son particulier (il possède ses propres synthétiseurs et génère des fichiers PCM), est indépendant au sens où il n'est basé sur aucun autre langage de programmation, expressif et haut niveau au sens où il est possible de créer des phrases élaborées avec un code concis, inspiré par des traits de programmation fonctionnelle, et relativement facile à apprendre. Cet exposé est principalement destiné à la prise en main pas à pas de ce langage avec des exemples pour illustrer les notions introduites.
+https://github.com/SamueleGiraudo/Calimba
+
+Le replay de la soirée du 21 janvier 2021 est disponible sur youtube :
+
+https://www.youtube.com/watch?v=6955u_OW9pk
+
+
 # CreativeCodeParis, le retour
 ### jeudi 29 octobre 2020 (online sur Jitsi)
 
