@@ -34,9 +34,16 @@ https://benjamin.kuperberg.fr/chataigne/fr
 Lionel Radisson, alias makio135, designer et creative coder, joue avec les pixels, les données et le hardware depuis une dizaine d'années. Il nous propose un retour sur un an de creative coding sur Observablehq, plateforme web de notebook en JavaScript, avec de la génération de SVGs et de gifs #p5js #glsl #raymarching #threejs.
 https://observablehq.com/@makio135/creative-coding
 
-Le replay de la soirée du 25 mars 2021 est en préparation :
+Le replay de la soirée du 25 mars 2021 est disponible sous la forme de 3 vidéos distinctes :
 
-(lien à ajouter)
+- vidéo 1 (Web Speech) 
+https://youtu.be/7sQ1a7rpULs 
+
+- vidéo 2 (Chataigne)
+https://youtu.be/qnE1Y5qOcPs
+
+- vidéo 3 (Makio135/Observablehq)
+https://youtu.be/T74Ems2UPNs
 
 
 # CCP Le Retour / Session 2021 #1
