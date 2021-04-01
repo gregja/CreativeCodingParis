@@ -38,9 +38,15 @@ https://fr.wikipedia.org/wiki/Suzanne_Ciani
 Si vous en connaissez d'autres qui ne sont pas citées ici, merci de nous les signaler.
 
 
+## Sisters with transistors
+
 Site officiel du documentaire de Lisa Rovner "Sisters with transistors" (en attente de distributeur en France) :
 
 https://sisterswithtransistors.com/
+
+Discussion autour du documentaire (merci à Thibaut pour ce lien) :
+
+https://www.youtube.com/watch?v=uldUbp229EY
 
 
 ## Ressources complémentaires :
