@@ -48,6 +48,10 @@ Discussion autour du documentaire (merci à Thibaut pour ce lien) :
 
 https://www.youtube.com/watch?v=uldUbp229EY
 
+Si vous voulez proposer ce programme à la chaîne Arte, c'est par ici que ça se passe :
+
+https://www.arte.tv/question/?lang=fr
+
 
 ## Ressources complémentaires :
 
@@ -72,3 +76,9 @@ https://www.junodownload.com/artists/Joanna+Brouk/
 
 https://archive.org/search.php?query=joanna%20brouk
  
+
+## Ressources bibliographiques :
+
+"Le Chant de la machine" de David Blot et Mathias Cousin, BD publiée en 2016 (merci Anaïs)
+
+
