@@ -186,9 +186,6 @@ https://www.istegroup.com/fr/series/modelisation-geometrique-et-applications/
 Pour les plus courageux, une série d'ouvrages consacrés aux équations mathématiques du mouvement :
 https://www.istegroup.com/fr/search/equations%20du%20mouvement
 
-A signaler également, l'offre "2 ebooks gratuits chaque jour", valable pendant le mois d'avril 2020 :
-https://www.istegroup.com/fr/ebooks-gratuits-chaque-jour/
-
 
 ---
 
