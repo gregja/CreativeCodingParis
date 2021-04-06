@@ -361,11 +361,9 @@ Autre projet découvert tout récemment, le projet Sonic Pi, pour live coder du 
 - pour développer du graphisme 2D et 3D, on a souvent besoin de recourir à des concepts mathématiques puisés à différentes sources, mais qui sont souvent expliqués dans des notations absconses chères aux mathématiciens. Matt DesLauriers a défriché pour nous le vocabulaire des grosses têtes en maths, pour le retraduire en code :
      - https://github.com/Jam3/math-as-code/
 
-- un cours en ligne dédié à WebGL, créé et animé par Matt DesLauriers :
-     - https://frontendmasters.com/courses/canvas-webgl/
-
-- un projet de Grégory Jarrige destiné à tester la portabilité de sketchs Processing 3D vers Processing.js et P5.js (et qui peut être utilisé pour s'initier par la même occasion à la programmation de graphisme 3D) :
-     - https://github.com/gregja/pjs3D_experiments
+- deux cours en ligne créés et animés par Matt DesLauriers (très bons cours, très complémentaires) :
+     - Creative Coding with Canvas & WebGL : https://frontendmasters.com/courses/canvas-webgl/
+     - Advanced Creative Coding with WebGL & Shaders : https://frontendmasters.com/courses/webgl-shaders/
 
 - Un livre consultable en ligne (dans différentes langues dont le français) sur les shaders :
      - https://thebookofshaders.com/?lan=fr 
