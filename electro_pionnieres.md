@@ -86,6 +86,25 @@ Interview de Joanna Brouk après un concert donné à Nantes en 2017 :
 https://www.youtube.com/watch?v=1T5o2Lh42H0
 
 
+## Un mot sur Kate Bush (1958 - )
+
+https://fr.wikipedia.org/wiki/Kate_Bush
+
+Peut-on classer Kate Bush dans la catégorie des pionnières de la musique électro ? On serait tenté de dire "oui", mais tout le monde ne sera peut être pas d'accord.
+
+En tout cas, ce qui est certain, c'est que par sa manière très personnelle d'utiliser les synthés et les samples, et de gérer la spatialisation du son, dans des albums aujourd'hui cultes comme "Hounds of Love" (1985), elle a durablement marqué l'industrie du disque. Ses dernières productions sont sans doute plus "sages" (ou plus "apaisées" ?) que celles des années 80 et 90, mais elle demeure une source d'inpiration pour un grand nombre d'artistes actuels. 
+
+On peut dire, sans trop de risque de se tromper, qu'elle été la pionnière des "Producers", au sens où on entend le terme de Producteur dans le lexique anglophone propre à la musique électro actuelle.
+
+Deux documentaires et une vidéo pour découvrir l'univers de cette immense artiste :
+
+https://www.youtube.com/watch?v=c4sLwt8mhZs
+
+https://www.youtube.com/watch?v=bfn66mUK0WI
+
+https://www.youtube.com/watch?v=m17Eivz_L1o
+
+
 ## Ressources bibliographiques :
 
 "Le Chant de la machine" de David Blot et Mathias Cousin, BD publiée en 2016 (merci Anaïs)
