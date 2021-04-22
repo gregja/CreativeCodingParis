@@ -68,6 +68,11 @@ https://cdm.link/2021/01/a-new-look-at-electronic-musics-female-pioneers-in-limi
 https://metrograph.com/live-screenings/sisters-with-transistors/
 
 
+## Documentaire sur Delia Derbyshire ("The Delian Mode")
+
+https://www.youtube.com/watch?v=nXnmSgaeGAI
+
+
 ## Ressources spécifiques à Joanna Brouk :
 
 https://www.allmusic.com/artist/joanna-brouk-mn0002169359/biography?cmpredirect
@@ -75,7 +80,11 @@ https://www.allmusic.com/artist/joanna-brouk-mn0002169359/biography?cmpredirect
 https://www.junodownload.com/artists/Joanna+Brouk/
 
 https://archive.org/search.php?query=joanna%20brouk
- 
+
+Interview de Joanna Brouk après un concert donné à Nantes en 2017 :
+
+https://www.youtube.com/watch?v=1T5o2Lh42H0
+
 
 ## Ressources bibliographiques :
 
