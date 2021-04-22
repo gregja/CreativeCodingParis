@@ -94,7 +94,7 @@ Peut-on classer Kate Bush dans la catégorie des pionnières de la musique élec
 
 En tout cas, ce qui est certain, c'est que par sa manière très personnelle d'utiliser les synthés et les samples, et de gérer la spatialisation du son, dans des albums aujourd'hui cultes comme "Hounds of Love" (1985), elle a durablement marqué l'industrie du disque. Ses dernières productions sont sans doute plus "sages" (ou plus "apaisées" ?) que celles des années 80 et 90, mais elle demeure une source d'inpiration pour un grand nombre d'artistes actuels. 
 
-On peut dire, sans trop de risque de se tromper, qu'elle été la pionnière des "Producers", au sens où on entend le terme de Producteur dans le lexique anglophone propre à la musique électro actuelle.
+On peut dire, sans trop de risque de se tromper, qu'elle a été pionnière dans le monde des "Producers", au sens où on entend le terme de Producteur dans le lexique anglophone propre à la musique électro actuelle.
 
 Deux documentaires et une vidéo pour découvrir l'univers de cette immense artiste :
 
