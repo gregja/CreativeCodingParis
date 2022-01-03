@@ -706,6 +706,9 @@ Le programme du meetup, animé par Fred Cecilia et Alejandro Mantecón Guillén 
 
 - Alejandro : Plongeant dans le monde du développement web, ce talk vise a combiner le DOM et les données audio pour créer des animations et visualisations dynamiques qui dansent au rythme du web audio. Nous allons charger et analyser la musique avec Pizzicato.js pour ensuite utiliser D3.js et transformer ce que vous voyez en fonction de données audio. Voyons ce qui sort du mélange dev-web, data viz, et musique ! 
 
+Le replay de la soirée : 
+https://www.youtube.com/watch?v=HPlLAo4JMQY
+
 Liens et resources fournis par Alejandro et Fred :
 
 - La libraire D3 : 
