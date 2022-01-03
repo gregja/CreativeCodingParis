@@ -18,6 +18,31 @@ https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
 
 
+# Soirée en présentiel chez talent.io
+### jeudi 25 novembre 2021 
+
+Le jeudi 25 novembre, nous recevions 4 intervenants qui viendront nous présenter des projets qui leur tiennent à coeur, et qui nous ont emballés :
+
+Florian Rouzaud est un Visual artist qui travaille avec différents médias (photos, vidéo, électronique...) et qui a déjà présenté plusieurs installations ébouriffantes à CreativeCodeParis.
+PTT glitcher est la toute dernière installation de Florian. Elle redonne une nouvelle vie à un vieux Minitel. Le processus de création a été ici de comprendre le fonctionnement et les limitations de cette machine, qui lui confèrent toute son esthétique visuelle. On parlera technique avec Arduino, Touch Designer, Leap Motion mais aussi de la création dans un environnement contraint.
+Replay : https://www.youtube.com/watch?v=gzDzhhCMYng
+
+Sébastien Gulluni est compositeur et sound designer.
+Début 2020, Sébastien était venu nous présenter le logiciel VCV Rack. Il revient ce jeudi pour nous présenter un projet auquel il a participé dans le cadre du concours "AI Song Contest 2021", en partenariat avec les chercheurs du laboratoire Algomus de Lille. Dans le cadre de ce concours, des équipes de chercheurs/compositeurs combinaient des technologies IA et des techniques plus classiques pour composer un morceau. Sébastien nous présentera le projet en détails, mais vous pouvez déjà écouter le fruit de leur travail sur cette page : https://www.aisongcontest.com/participants/gullunixalgomus-2021
+sgulluni@gmail.com
+Replay : https://www.youtube.com/watch?v=MV_btzaLDf8
+
+Raphaël Bastide crée des instruments, des stratégies pédagogiques, des installations, des objets, des performances. Il développe des sites web et des programmes informatiques. Il hérite de la culture du logiciel libre et tente de la transmettre.
+Raphaël va nous présenter Cascade, un instrument virtuel qui interprète des formes graphiques en son. Développé en HTML, CSS et JavaScript, Cascade interprète le DOM des pages web en temps réel. Les styles des éléments graphiques (couleur, position, forme…) composent le visuel et le son, permettant d’envisager le live-coding comme une négociation improvisée entre le son et sa propre écriture.
+Documentation et code source : https://raphaelbastide.com/cascade/
+Replay : https://www.youtube.com/watch?v=mFjLDJJJAdw
+
+Benjamin Lévy est développeur indépendant dans le domaine de la musique après avoir travaillé comme réalisateur en info. musicale, ingénieur R&D et doctorant à l'Ircam. Il vient nous présenter un projet auquel il a participé tout récemment, dont voici les grandes lignes :
+Sous la houlette de The Absolut Company Creation (Absolut Vodka / Pernod Ricard), la startup NextMind et le musicien électronique français Molécule unissent leurs efforts pour créer un instrument inédit contrôlé par le regard.
+Le SDK NextMind comprend un capteur d'onde cérébrale relié à un package Unity. Son utilisation pour jouer de la musique live oblige à la réalisation d'une passerelle efficace vers un environnement musical tel qu'Ableton Live.
+Exactement à l'interface entre ces deux environnements, Benjamin nous racontera son arrivée et son rôle dans le projet, et il détaillera les enjeux techniques et de développement.
+Replay : https://www.youtube.com/watch?v=mYon6loNhKo
+
 
 # CreativeCodeParis / Session 2021 #2
 ### jeudi 25 mars 2021 (online sur Jitsi)
