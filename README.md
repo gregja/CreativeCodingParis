@@ -21,7 +21,7 @@ https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
 # Soirée en présentiel chez talent.io
 ### jeudi 25 novembre 2021 
 
-Le jeudi 25 novembre, nous recevions 4 intervenants qui viendront nous présenter des projets qui leur tiennent à coeur, et qui nous ont emballés :
+Le jeudi 25 novembre, nous recevions 4 intervenants :
 
 Florian Rouzaud est un Visual artist qui travaille avec différents médias (photos, vidéo, électronique...) et qui a déjà présenté plusieurs installations ébouriffantes à CreativeCodeParis.
 PTT glitcher est la toute dernière installation de Florian. Elle redonne une nouvelle vie à un vieux Minitel. Le processus de création a été ici de comprendre le fonctionnement et les limitations de cette machine, qui lui confèrent toute son esthétique visuelle. On parlera technique avec Arduino, Touch Designer, Leap Motion mais aussi de la création dans un environnement contraint.
