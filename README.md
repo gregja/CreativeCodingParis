@@ -18,6 +18,31 @@ https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
 
 
+# Conférence Art Numérique (son, image, installation) - Soirée en présentiel chez TheCodingMachine
+### jeudi 17 février 2022 
+
+Le teaser de la soirée: https://youtu.be/PE83a9oWJVI
+
+Le 17 février, nous recevions 3 intervenant-e-s :
+
+- Mathieu Poli:
+    Compositeur, artiste plasticien et numérique viendra nous présenter trois de ses projets:
+    Monolithe de l’Infini : Sculpture numérique de 2m réalisée en 2016, une expérience singulière du cosmique entre les portails de la physique, de la composition sonore, de l’art numérique et la perception.
+    Amas : Comment l’art numérique peut s’encadrer sur un mur ?
+    Projet en conception : Tally est une intelligence artificielle née d'un ordinateur quantique et d'une machine à dessiner. Il a la capacité de créer des œuvres d'art numériques et physiques, d'interroger le public et d'apprendre et de s'adapter à ses goûts et dégoûts.
+Replay : https://youtu.be/3gOIKrNHr50
+
+- Claire Eliot:
+    Designer et chercheur, à la croisée du design textile et de la science, Claire Eliot ré-interroge nos interfaces numériques actuelles. Elle explore les matériaux souples et ses possibilités lorsqu’ils sont associés aux capacités de l’électronique. Dans l’intention de concevoir de nouvelles surfaces communicantes, qu’elle nomme les « Matières Souples Réactives ».
+    Le sujet de son intervention sera: les systèmes interactifs tangibles, placer la matérialité au cœur des outils numériques.
+Replay : https://youtu.be/sHecHDEPkCU
+
+- Thibault Jehanne:
+    Les Premières Réflexions, projet mené par l’artiste Thibault Jehanne, consiste en la création de pédales de réverbération dans lesquelles sont conservées l’acoustique et les résonances de lieux qui vont disparaître. C’est une installation évolutive imaginée en série. Ce projet est une tentative de garder en mémoire des instantanés d’empreintes sonores d’espaces avant leurs disparitions : plusieurs (kilo)mètres carrés dans une petite boîte que l’on manipule avec le pied.
+    Thibault Jehanne souhaite proposer un paysage sonore d’un territoire donné, enregistrer des réverbérations d’architectures, d’espaces urbains représentatifs de la notion de disparition, d’éphémère et les conserver dans des pédales d’effets.
+Replay : https://youtu.be/Bu7L3iT0omY
+
+
 # Soirée en présentiel chez talent.io
 ### jeudi 25 novembre 2021 
 
