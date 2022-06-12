@@ -18,6 +18,36 @@ https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 https://www.youtube.com/channel/UCl-fsb4jvuJFexjmEPw1GOg
 
 
+# Feel the Code - Soirée en présentiel chez talent.io
+### jeudi 9 juin 2022 
+
+Au menu de cette dernière soirée, trois sujets autour du graphisme 2D et 3D, sujets qui nous seront présentés par zOrg, Michel Bret, et Flopine.
+
+zOrg est un Creativecoder passionné par la création d'images numériques. Il programme des visuels en temps réel, synchronisés à du son, projetés sur des murs lors de soirées appelées "algorave". Il va nous présenter son rapport au livecoding, en retracant les événements récents du cookie collective, et les célébrations des 10 ans de l'algorave.
+
+Michel Bret est un artiste numérique, et a été un des pionniers de l'image numérique en France. Il vient aujourd'hui nous présenter une méthode de travail pour la création artistique, dont voici le programme :
+- rappel sur les réseaux neuronaux
+- application à l'image interactive et aux acteurs virtuels
+- les rêves artificiels
+- la programmation interactive: live coding et fly coding
+Cette présentation utilisera les concepts mêmes qu'elle introduit sous la forme de programmes interactifs.
+
+Florine 'Flopine' Fouquart est une artiste numérique membre du Cookie Collective et doctorante à l'université Paris 8 dans l'équipe de recherche INRéV. Elle nous présente l'évolution de sa pratique du code créatif mise en relation avec sa plongée dans la scène démo.
+Débutant par une vue d'ensemble et un petit historique sur la scène démo - une communauté d'artistes et techniciens partageant une passion pour l'art algorithmique - ce talk proposera ensuite une description de ce qui est, selon elle, fondamentale dans la maîtrise de son médium et dans son processus créatif. Des exemples concrets mêlant art et optimisation technique clôtureront cette présentation.
+
+A noter que nous avons terminé la soirée autour d'un buffet comprenant boissons et pizzas, généreusement offert par talent.io
+
+A l'issue de la soirée, Loïc a très gentiment mis ses notes à la disposition de tous :
+
+https://www.consultingit.fr/fr/talent-io-paris-creative-code-algorave-cookie-collective-inrev
+
+Quelques liens pour suivre les travaux de Florine :
+
+- https://www.shadertoy.com/user/flopine
+- https://twitter.com/FlopineYeah
+- https://www.twitch.tv/flopine
+
+
 # Conférence Art Numérique (son, image, installation) - Soirée en présentiel chez TheCodingMachine
 ### jeudi 17 février 2022 
 
