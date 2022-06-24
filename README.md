@@ -47,7 +47,10 @@ Quelques liens pour suivre les travaux de Florine :
 - https://twitter.com/FlopineYeah
 - https://www.twitch.tv/flopine
 
-Les slides de Florine et de zOrg se trouvent dans le répertoire "slides" du présent dépôt (au format PDF).
+Les slides de Florine et de zOrg se trouvent dans le répertoire "slides" du présent dépôt (au format PDF) :
+
+- https://github.com/gregja/CreativeCodingParis/blob/master/slides/Flopine_Feel_The_Code.pdf
+- https://github.com/gregja/CreativeCodingParis/blob/master/slides/zOrg_Cookies.pdf
 
 Liens vers les vidéos de la soirée :
 
