@@ -47,6 +47,14 @@ Quelques liens pour suivre les travaux de Florine :
 - https://twitter.com/FlopineYeah
 - https://www.twitch.tv/flopine
 
+Les slides de Florine et de zOrg se trouvent dans le répertoire "slides" du présent dépôt (au format PDF).
+
+Liens vers les vidéos de la soirée :
+
+- Michel Bret et Marie-Hélène Tramus: https://youtu.be/8HibMFV81A0
+- Flopine: https://youtu.be/txCvt7tAHDs
+- zOrg: https://youtu.be/t4x_MCTms1Q
+
 
 # Conférence Art Numérique (son, image, installation) - Soirée en présentiel chez TheCodingMachine
 ### jeudi 17 février 2022 
