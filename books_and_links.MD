@@ -83,7 +83,13 @@ Moins d'ouvrages consacrés au Creative Coding sur ce site, mais de très bons o
 
 A noter que les livres estampillés MEAP sont des livres en cours d'écriture, que vous pouvez commander et recevoir dans leurs versions partielles tout en bénéficiant de mises à jour plus ou moins régulières (une version définitive est mise à votre disposition sur la plateforme de l'éditeur lorsque le livre est terminé). C'est une approche intéressante si vous avez besoin de vous former sur une techno émergente pour laquelle il existe peu de documentation. 
 
+Signalons un des rares ouvrages de Manning à avoir été traduit en français :
+
+- "Deep Learning avec Javascript, Réseaux de neurones dans Tensorflow.js", de Cai/Bileschi/Nielsen/Chollet, éd. Manning / First Interactive (2020)
+
 Un ouvrage un peu à part (par rapport aux thèmes habituels de l'éditeur), c'est "Programming for Musicians and Digital Artists". C'est un livre consacré à la synthèse sonore, et dédié à Chuck (un langage de programmation destiné à la création sonore que vous pouvez télécharger sur https://chuck.cs.princeton.edu/ )
+
+
 
 --- 
 
