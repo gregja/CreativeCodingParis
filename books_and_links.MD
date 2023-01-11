@@ -4,16 +4,6 @@
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
----
-
-ATTENTION : contenu mis à jour le 16/04/2020, avec l'ajout :
-- de plusieurs livres aux éditions ISTE
-- d'un livre de Pierre Nerzic sur OpenGL et WebGL
-- de deux MOOC de l'Ecole des Gobelins (Anima Podi 1 et 2)
-- de bons podcasts de France Culture
-- d'un outil de live coding pour WebGL, le projet "The Force" (cf rubrique "live coding") 
-
-Et enfin une correction sur l'éditeur n° 5, qui était Apress et non Manning. 
 
 ---
 
@@ -30,22 +20,19 @@ https://github.com/gregja/CreativeCodingParis/blob/master/ressources_webaudio.md
 
 ---
 
-Dans cette page, que nous avons réactualisée durant la période du confinement, nous vous proposons un tour d'horizon de sites pour :
+Dans cette page, que nous avons réactualisée en janvier 2023, nous vous proposons un tour d'horizon de sites pour :
 
 - vous procurer de bons bouquins, de préférence en version numérique (PDF notamment)
 
 - vous former en ligne, apprendre de nouvelles techniques, ou vous perfectionner
 
-Beaucoup des ressources les plus récentes en matière de creative coding sont en anglais, mais il y a quelques exceptions, 
-et si nous en débusquons de nouvelles dans les jours et les semaines qui viennent, nous mettrons à jour cette page.
+Beaucoup des ressources les plus récentes en matière de creative coding sont en anglais, mais il y a quelques exceptions, et si nous en débusquons de nouvelles dans les jours et les semaines qui viennent, nous mettrons à jour cette page.
 
 Si vous avez un compte Github, pensez à sélectionner l'option "watch" en haut de cette page, histoire d'être tenu au courant des mises à jour qui pourraient intervenir sur cette page.
 
-Et puisque nous sommes tous dans une phase de questionnement par rapport à notre époque, et à ce que nous aimerions faire par la suite, nous vous proposerons aussi quelques pistes de lecture, qui ne sont pas en lien avec le creative coding, mais qui pourraient vous inspirer dans vos projets créatifs (notamment quelques essais d'historiens et de sociologues). 
+Nous vous proposons aussi, à la fin de cette page, quelques pistes de lecture, qui ne sont pas en lien avec le creative coding, mais qui pourraient vous inspirer dans vos projets créatifs (notamment quelques essais d'historiens et de sociologues). 
 
----
-
-Tout d'abord, si vous recherchez un ouvrage en français, nous vous recommandons la plateforme de libraires indépendants "Place des libraires", sur laquelle nous espérons que vous trouverez votre bonheur. Cette plateforme offre la possibilité d'acheter les ouvrages en format numérique :
+Si vous recherchez un ouvrage en français, nous vous recommandons la plateforme de libraires indépendants "Place des libraires", sur laquelle nous espérons que vous trouverez votre bonheur. Cette plateforme offre la possibilité d'acheter les ouvrages en format papier, et dans certains cas, numérique :
 
 https://www.placedeslibraires.fr/
 
@@ -68,13 +55,13 @@ Il y a aussi d'excellents ouvrages consacrés à ActionScript - la version de Ja
 
 https://www.packtpub.com/
 
-Chez Packt Publising, vous trouverez plusieurs livres sur Javascript, Webgl, OpenGL, ThreeJS, un livre sur BabylonJS, deux livres sur Processing 2 (certes un peu anciens mais contenant de bonnes idées à adapter sur Processing 3 ou sur d'autres outils), des livres sur le "machine learning", le "natural language processing", des livres sur Unreal, Unity, le "Game Programming", etc.
+Chez Packt Publising, vous trouverez de nombreux livres sur Javascript, Webgl, OpenGL, ThreeJS, BabylonJS, Processing 2 (certes un peu anciens mais contenant de bonnes idées à adapter sur Processing 3 ou sur d'autres outils), des livres sur le "Machine Learning" (ML), le "Natural Language Processing" (NLP), des livres sur Unreal, Unity, sur le "Game Programming", etc.
 
 Et vous y trouverez aussi un ouvrage, paru en janvier 2020 et écrit par un de nos membres, Alexandre Dubreuil. Cet ouvrage est consacré à Magenta, un outil basé sur Tensorflow et dédié à la musique générative :
 
 https://www.packtpub.com/data/hands-on-music-generation-with-magenta
 
-Alexandre viendra nous parler de ses travaux sur Magenta, et de son livre, lorsque nous reprendrons les meetups, une fois l'épidémie de Covid-19 terminée. 
+Alexandre était venu nous présenter Magenta, lors d'un meetup en [octobre 2018](https://github.com/gregja/CreativeCodingParis#jeudi-18-octobre-2018). 
 
 ---
 
@@ -92,7 +79,7 @@ Plusieurs des livres de NoStarch ont été traduits en français. Par exemple, l
 
 https://www.manning.com/
 
-Moins d'ouvrages consacrés au Creative Coding sur ce site, mais de très bons ouvrages qui traitent de sujets qui peuvent vous être utiles dans vos projets créatifs (machine learning, deep learning, javascript, etc.).
+Moins d'ouvrages consacrés au Creative Coding sur ce site, mais de très bons ouvrages qui traitent de sujets qui peuvent vous être utiles dans vos projets créatifs (Machine Learning, Deep Learning, Javascript, etc.).
 
 A noter que les livres estampillés MEAP sont des livres en cours d'écriture, que vous pouvez commander et recevoir dans leurs versions partielles tout en bénéficiant de mises à jour plus ou moins régulières (une version définitive est mise à votre disposition sur la plateforme de l'éditeur lorsque le livre est terminé). C'est une approche intéressante si vous avez besoin de vous former sur une techno émergente pour laquelle il existe peu de documentation. 
 
@@ -112,18 +99,19 @@ Le catalogue de Leanpub est en perpétuelle évolution, le mieux c'est d'explore
 
 --- 
 
-## Editeur n° 5 : Apress
+## Editeur n° 5 : 
 
-https://www.apress.com
+[https://link.springer.com](https://link.springer.com/search?query=&searchType=publisherSearch)
 
-C'est le dernier de notre sélection d'éditeurs d'ouvrage en langue anglaise. 
-On y trouve beaucoup de livres intéressants pour les "creative coders", quelquefois un peu anciens, mais qui fourmillent de bonnes idées à reprendre et à adapter, comme par exemple le livre "Flash Math Creativity" (cité plus haut), rédigé par un collectif d'artistes.
+Apress était anciennement un éditeur indépendant, qui a été racheté par Springer. Le fond d'ouvrages d'Apress est désormais en vente au travers du site de Springer, qui propose de surcroît un large catalogue qui va bien au delà de la programmation et de l'informatique.
 
-Un très bon livre que l'on vous recommande aussi, c'est "Foundation Game Design with HTML5 and JavaScript", de Rex Van der Spuy (2012).
+Dans ce catalogue, qui s'enrichit continuellement, on trouve beaucoup de livres intéressants pour les "creative coders". Certains de ces livres sont un peu anciens, mais ils fourmillent de bonnes idées à reprendre et à adapter, comme par exemple le livre "Flash Math Creativity", rédigé par un collectif d'artistes. Il est orienté sur Actionscript, mais il est très inspirant.
 
-A signaler enfin, un très bon livre de Keith Peters, "Foundation Actionscript 3.0 Animation", qui date de 2007. C'est un ouvrage de référence pour acquérir de bonnes bases en matière d'animation 2D en particulier (plus quelques notions de 3D). Ce livre a fait l'objet d'une adaptation au Javascript par Billy Lamberta (en 2011), sous le titre "Foundation HTML5 Animation with JavaScript" (livre également disponible au catalogue de Apress).   
+Un très bon livre que l'on vous recommande également, c'est "Foundation Game Design with HTML5 and JavaScript", de Rex Van der Spuy (2012).
 
-A noter que Keith Peters anime la chaîne Youtube CodingMath, et qu'il a publié indépendamment de Packt un ouvrage consacré à la programmation d'images fractales, "Playing with Chaos", que vous pouvez acquérir en version numérique ici : http://www.playingwithchaos.net/
+A signaler aussi, un très bon livre de Keith Peters, "Foundation Actionscript 3.0 Animation", qui date de 2007. C'est un ouvrage de référence pour acquérir de bonnes bases en matière d'animation 2D en particulier (plus quelques notions de 3D). Ce livre a fait l'objet d'une adaptation au Javascript par Billy Lamberta (en 2011), sous le titre "Foundation HTML5 Animation with JavaScript" (livre également disponible au catalogue de Springer).   
+
+A noter que Keith Peters anime la chaîne Youtube CodingMath, et qu'il a publié - indépendamment de Springer - un ouvrage consacré à la programmation d'images fractales, "Playing with Chaos", que vous pouvez acquérir en version numérique ici : http://www.playingwithchaos.net/
 
 ---
 
@@ -153,17 +141,27 @@ Les plateformes de MOOC suivantes peuvent vous apporter une aide précieuse pour
 - https://www.fun-mooc.fr
 - https://www.coursera.org/
 - https://www.kadenze.com/
+- https://www.elephorm.com/
+- https://frontendmasters.com/
+- https://www.domestika.org/
 
-Coursera et Kadenze sont deux excellentes plateformes qui vous proposent un catalogue varié, avec des sujets autour de la programmation, des arts et de la musique. Les catalogues évoluent constamment, alors on renonce à vous proposer des liens ciblés, on préfère vous laisser découvrir, en fonction de vos centres d'intérêt respectifs. La plupart des MOOC proposés par Coursera et Kadenze peuvent être suivis gratuitement, en mode "candidat libre", si vous n'êtes pas intéressé(e)s par la délivrance d'une attestation en fin de session.
+Coursera et Kadenze sont des plateformes reconnues qui proposent de nombreux MOOCs orientés sur le design visuel et sonore, le graphisme 2D et 3D, la composition musicale, etc.
 
-La plateforme FUN-MOOC est la seule de notre sélection à proposer - à notre connaissance - des MOOC en français (et en plus ils sont gratuits). Elle propose des MOOC sur les maths, la physique, et sur beaucoup d'autres sujets. Voici quelques Fun-MOOC qui pourraient intéresser les "creative coders" : 
+La plupart des cours vidéos de Elephorm sont en français, et on y trouve beaucoup de cours orienté sur la composition musicale, le sound design (Ableton, Reaper, plugins VST, etc.), ainsi que la 3D avec Blender et d'autres outils. 
 
-- Modéliser en 3D avec FreeCAD            (ouvert jusqu'au 31 août 2020)
-- Imprimer en 3D                          (ouvert jusqu'au 31 août 2020)
-- S'initier à la fabrication numérique    (ouvert jusqu'au 31 août 2020)
-- Programmer un objet avec Arduino        (démarrre le 14 avril 2020)
-- Anima Podi 1 : À la recherche du rebond parfait (MOOC de l'Ecole des Gobelins archivé et réouvert en consultation durant l'épidémie de Covid-19)
-- Anima Podi 2: À la recherche du pas perdu (MOOC de l'Ecole des Gobelins, ouvert depuis le 3 avril 2020)
+Frontendmasters est plutôt orienté Développement Web, mais le site propose aussi des cours très intéressants de Matt DesLauriers, que beaucoup de creative coders connaissent (je recommande ses cours sur ThreeJS et WebAudio).
+
+Domestika est un nouveau venu qui propose de nombreux MOOCs sur le graphisme 3D, mais aussi 2D.
+
+Le site FUN-MOOC propose la plupart des ses MOOC en français. On y trouve quelques MOOCS orientés vers les arts numériques, tels que :
+- Modéliser en 3D avec FreeCAD            
+- Imprimer en 3D                          
+- S'initier à la fabrication numérique    
+- Programmer un objet avec Arduino       
+- Anima Podi 1 : À la recherche du rebond parfait (MOOC de l'Ecole des Gobelins)
+- Anima Podi 2: À la recherche du pas perdu (MOOC de l'Ecole des Gobelins)
+
+Sur Fun-MOOC, les MOOCs sont gratuits, mais ils ne sont pas accessibles en permanence. Certains MOOCs terminés sont réouverts périodiquement. Si vous vous êtes inscrit à un MOOC mais que vous n'avez pas eu le temps de le finir dans les temps, il demeure dans votre portfolio et vous pouvez le terminer à votre rythme.
 
 
 ---
@@ -223,9 +221,9 @@ C'est une association fondée en 1981, qui publie des dossiers et des livres (fo
 
 ## L'API WebAudio
 
-Si vous vous intéressez à l'API WebAudio, voici quelques bonnes ressources, répertoriées par nos amis Simon et Simon, animateurs de technos Jams à la Paillasse, consacrées à cette API : https://hackmd.io/s/SJ6KZ_lPz#
-
 La newsletter WebAudio Weekly, à laquelle vous devez IMPERATIVEMENT vous abonner (car elle est très intéressante): https://www.webaudioweekly.com/
+
+Voici quelques bonnes ressources sur WebAudio, répertoriées par nos amis Simon et Simon (en 2018), animateurs de technos Jams à la Paillasse : https://hackmd.io/s/SJ6KZ_lPz#
 
 Une liste de ressources répertoriée par Alejandro, le créateur de Pizzicato.js : https://github.com/alemangui/web-audio-resources
 
@@ -245,7 +243,7 @@ https://www.processing.org
 
 Pour éliminer par avance tout risque de confusion, il est important de retenir qu'il existe deux adaptations de Processing en Javascript, les projets Processing.js et P5.js :
 
-- Processing.js : ce projet permet de coder soit intégralement en Java, soit intégralement en Javascript, ou de mixer les deux langages. Ce très beau projet a été pendant une période la seule solution pour faire fonctionner des sketchs Processing dans un navigateur (avant l'arrivé de P5.js). Processing.js est malheureusement à l'abandon depuis environ 2 ans, même s'il est encore utilisé par le site openprocessing.org pour faire fonctionner en ligne tous les sketchs Processing qui sont proposés par la communauté. 
+- Processing.js : ce projet permet de coder soit intégralement en Java, soit intégralement en Javascript, ou de mixer les deux langages. Ce très beau projet a été pendant une période la seule solution pour faire fonctionner des sketchs Processing dans un navigateur (avant l'arrivé de P5.js). Processing.js est malheureusement à l'arrêt depuis décembre 2018, même s'il est encore utilisé par le site openprocessing.org pour faire fonctionner en ligne tous les sketchs Processing qui sont proposés par la communauté. 
 
 site officiel : http://processingjs.org/
 
@@ -279,7 +277,6 @@ Le site officiel propose de nombreux tutos et ressources en ligne. Et vous pouve
 
 https://www.coursera.org/learn/introtoalice
 
-Que demande le peuple ?!?!
 
 ---
 
@@ -395,10 +392,6 @@ Autre projet découvert tout récemment, le projet Sonic Pi, pour live coder du 
 - Le livre "Nature in Code", de Marcel Salathe 
     - https://leanpub.com/natureincode
 
-Deux très bons livres recommandés par Raphaël Seguin durant le meetup d'octobre 2017. On les a lus depuis et on vous confirme qu'ils sont passionnants (merci Raphaël :) :
-
-- La théorie du chaos, de James Gleick, éd. Champs Flammarion - Science - octobre 2008
-- Hasard et Chaos, de David Ruelle, éd. Odile Jacob (mars 2010)
 
 Un bon livre en français sur OpenGL qui couvre également WebGL (on l'a lu, il est top) :
 
@@ -411,29 +404,36 @@ A noter que l'on trouve aussi chez D-Booker quelques ouvrages en français consa
 
 ## Des livres pour comprendre et repenser le monde 
 
-Confinement rimant avec questionnement, et puisque nous sommes tous dans une période de réflexion, sur ce qui nous a amené à nous prendre en plein face le mur du Covid-19, voici une petite sélection d'ouvrages qui ne sont pas liés au creative coding, mais qui nous interpellent fortement, et que nous vous invitons à découvrir. Nous pensons qu'ils peuvent nous/vous aider à mettre le doigt sur ce qui fait mal dans le monde d'aujourd'hui, et à définir ce qu'il faudrait changer pour que tout aille mieux demain.
-
 - "Du nouveau sous le soleil, Une histoire de l'environnement mondial au XXème siècle", de John R. McNeill, éd. ChampVallon / Points
 
-- "6 Le soulèvement des machines", de Alexandre Laumonier, éd Zones Sensibles / Points
+- "6 Le soulèvement des machines", de Alexandre Laumonier, éd. Zones Sensibles / Points
 
-- "5 Retour vers le Futur", de Alexandre Laumonier, éd Zones Sensibles / Points
+- "5 Retour vers le Futur", de Alexandre Laumonier, éd. Zones Sensibles / Points
 
-- "Le capitalisme paradoxant, un système qui rend fou", de Vindent de Gaulejac et Fabienne Hanique, éd Seuil / Points
+- "4/3", de Alexandre Laumonier, éd. Zones Sensibles, Janvier 2019 
 
-- "La dissociété" de Jacques Généreux, éd Points Economie 
+- "La théorie de l'information", de Aurélien Bellanger, éd. Gallimard 2012
 
-- "La misère du monde", sous la direction de Pierre Bourdieu, éd Seuil, coll. « Points essais », 2007
+- "Le virtuel, vertus et vertiges", de Philippe Quéau, éd. Champ Vallon / INA 1993
 
-- "La domination masculine", de Pierre Bourdieu, Paris, Seuil, coll. « Liber », 1998
+- "Le miroir automate, introduction à une philosophie de l'informatique", de Gérard Chazal, éd. Champ Vallon / INA 1995 
+
+- "Le théorème de Gödel", de Nagel/Newman/Gödel/Girard, éd. Seuil 1989
+
+- "L'empire cybernétique, des machines à penser à la pensée machine", de Céline Lafontaine, éd. Seuil 2004
+
+- "La cybernétique", de Norbert Wiener, éd. Seuil 2014
+
+- "Les objets fractals", de Benoit Mandelbrot, éd. Flammarion 1989
+
+- "La théorie du chaos", de James Gleick, éd. Champs Flammarion - Science - octobre 2008
+
+- "Hasard et Chaos", de David Ruelle, éd. Odile Jacob (mars 2010)
 
 
 ----
 
 Nous vous souhaitons de bonnes lectures, et de belles découvertes...
-Et surtout nous vous souhaitons bon courage dans les épreuves qui s'annoncent.
-Dès que l'épidémie de Covid-19 sera derrière nous, nous organiserons de nouvelles soirées à la Folie Numérique. 
-En attendant, soyez prudents, prenez soin de vous, on vous embrasse et on espère vous retrouver très bientôt.
 
 L'équipe de CreativeCodeParis
 
