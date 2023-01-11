@@ -271,7 +271,7 @@ Et si vous vous mettiez à Alice.
 
 Développé par des enseignants et chercheurs de l'Université Carnegie Mellon, Alice est un outil conçu pour s'initier à la fois à la programmation en Java et à la création et à l'animation de mondes en 3D. 
 
-Alice est multiplateforme et librement téléchargeable ici :
+Alice est multiplateforme, librement téléchargeable, et il existe une version intégrable dans Unity :
 
 http://www.alice.org/
 
@@ -291,7 +291,16 @@ Si vous vous intéressez à l'histoire de la musique électronique, le livre "Th
 
 Pour info, le CCRMA est l'équivalent aux Etats-Unis de l'IRCAM en France. D'ailleurs les deux instituts ont collaboré étroitement à de nombreuses reprises. Pour la petite histoire, c'est au CCRMA qu'a été développée l'architecture du synthé DX7 qui sera commercialisé par Yamaha au début des années 80 (avec un succès retentissant).
 
-Si vous n'êtes pas assez à l'aise en anglais pour vous attaquer au livre du CCRMA, tout n'est pas perdu, car le très beau livre de Laurent De Wilde, "Les fous du son" (aux éditions Grasset), devrait combler votre curiosité.
+Si vous n'êtes pas assez à l'aise en anglais pour vous attaquer au livre du CCRMA, tout n'est pas perdu, car il existe de très bons livres en français :
+
+- "Les fous du son", de Laurent De Wilde, aux éditions Grasset, 2016
+- "Musiques électroniques, des avant-gardes aux dance-floors", de Guillaume Kosmicki, éd. Le mot et le reste, 2016
+- "Techno rebelle, un siècle de musiques électroniques", de Ariel Kyrou, éd. Denoël X-Trème, 2002
+
+Le livre de Ariel Kyrou est plus difficile à trouver car plus édité, mais on arrive à le trouver d'occasion.
+Autre livre ancien et difficile à trouver, mais tout aussi passionnant :
+
+- "Le son musical, musique, acoustique et informatique", de John R.Pierce, éd. Pour la Science / Belin, 1984 pour la version française 
 
 ---
 
