@@ -19,6 +19,11 @@ Instagram (pour connaître la programmation à venir) :
 
 - https://www.instagram.com/creative.code.paris/
 
+Compte Github dédié, créé en 2023 :
+
+https://github.com/CreativeCodeParis
+
+---
 
 # Workshop 2 : Dataviz + ThreeJS
 ### 4 décembre 2023, 19:00,  WoMa (15 bis rue Léon Giraud, Paris XIX) 
