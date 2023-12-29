@@ -21,7 +21,7 @@ Instagram (pour connaître la programmation à venir) :
 
 Compte Github dédié, créé en 2023 :
 
-https://github.com/CreativeCodeParis
+- https://github.com/CreativeCodeParis
 
 ---
 
